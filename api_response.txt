@@ -1,0 +1,3 @@
+<button class="button-ui button-ui_grey button-ui_lg product-characteristics__expand">Развернуть все</button>
+
+<button class="button-ui button-ui_grey button-ui_lg product-characteristics__expand">Развернуть все</button>

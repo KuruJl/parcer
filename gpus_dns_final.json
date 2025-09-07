@@ -1,0 +1,2907 @@
+[
+    {
+        "short_id": "5622525",
+        "long_id": "5a2b9724-05f4-11f0-9300-0050569d9cb8",
+        "name": "Видеокарта Palit GeForce RTX 5060 Ti Infinity 3 [NE7506T019T1-GB2061S] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 48799,
+        "link": "https://www.dns-shop.ru/product/5a2b972405f4d9cb/videokarta-palit-geforce-rtx-5060-ti-infinity-3-ne7506t019t1-gb2061s/"
+    },
+    {
+        "short_id": "5617114",
+        "long_id": "8f0eced0-eaa9-11ef-92eb-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5070 VENTUS 3X OC [RTX 5070 12G VENTUS 3X OC] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 66999,
+        "link": "https://www.dns-shop.ru/product/8f0eced0eaa9d582/videokarta-msi-geforce-rtx-5070-ventus-3x-oc-rtx-5070-12g-ventus-3x-oc/"
+    },
+    {
+        "short_id": "5624224",
+        "long_id": "b7fd5023-1109-11f0-930e-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5060 Ti Infinity 3 OC [NE7506TS19T1-GB2061S] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 46799,
+        "link": "https://www.dns-shop.ru/product/b7fd50231109d582/videokarta-palit-geforce-rtx-5060-ti-infinity-3-oc-ne7506ts19t1-gb2061s/"
+    },
+    {
+        "short_id": "5625910",
+        "long_id": "70194971-1f27-11f0-9318-0050569d9cb8",
+        "name": "Видеокарта Palit GeForce RTX 5060 Dual [NE75060019P1-GB2063D] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 31299,
+        "link": "https://www.dns-shop.ru/product/701949711f27d9cb/videokarta-palit-geforce-rtx-5060-dual-ne75060019p1-gb2063d/"
+    },
+    {
+        "short_id": "5621412",
+        "long_id": "b58aaa7e-00a9-11f0-92fe-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5070 Infinity 3 [NE75070019K9-GB2050S] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 59999,
+        "link": "https://www.dns-shop.ru/product/b58aaa7e00a9d582/videokarta-palit-geforce-rtx-5070-infinity-3-ne75070019k9-gb2050s/"
+    },
+    {
+        "short_id": "5615107",
+        "long_id": "dab5d7de-df90-11ef-92d5-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5090 GameRock [NE75090019R5-GB2020G] [PCIe 5.0 32 ГБ GDDR7, 512 бит, 3 x DisplayPort, HDMI, GPU 2017 МГц]",
+        "price": 247999,
+        "link": "https://www.dns-shop.ru/product/dab5d7dedf90d582/videokarta-palit-geforce-rtx-5090-gamerock-ne75090019r5-gb2020g/"
+    },
+    {
+        "short_id": "5624891",
+        "long_id": "1ae78cdd-169e-11f0-930f-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5060 VENTUS 2X OC [RTX 5060 8G VENTUS 2X OC] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 34999,
+        "link": "https://www.dns-shop.ru/product/1ae78cdd169ed9cb/videokarta-msi-geforce-rtx-5060-ventus-2x-oc-rtx-5060-8g-ventus-2x-oc/"
+    },
+    {
+        "short_id": "5611333",
+        "long_id": "5058d787-c0ee-11ef-92b9-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5080 GameRock [NE75080019T2-GB2030G] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 134999,
+        "link": "https://www.dns-shop.ru/product/5058d787c0eed582/videokarta-palit-geforce-rtx-5080-gamerock-ne75080019t2-gb2030g/"
+    },
+    {
+        "short_id": "5615106",
+        "long_id": "96dfe7f6-df90-11ef-92d5-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5090 GameRock OC [NE75090S19R5-GB2020G] [PCIe 5.0 32 ГБ GDDR7, 512 бит, 3 x DisplayPort, HDMI, GPU 2017 МГц]",
+        "price": 249999,
+        "link": "https://www.dns-shop.ru/product/96dfe7f6df90d582/videokarta-palit-geforce-rtx-5090-gamerock-oc-ne75090s19r5-gb2020g/"
+    },
+    {
+        "short_id": "5628029",
+        "long_id": "b9e21492-2afa-11f0-9323-0050569d9cb8",
+        "name": "Видеокарта Palit GeForce RTX 5080 GamingPro V1 [NE75080019T2-GB2031Y] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 109999,
+        "link": "https://www.dns-shop.ru/product/b9e214922afad9cb/videokarta-palit-geforce-rtx-5080-gamingpro-v1-ne75080019t2-gb2031y/"
+    },
+    {
+        "short_id": "5611332",
+        "long_id": "12b93597-c0ee-11ef-92b9-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5080 GameRock OC [NE75080T19T2-GB2030G] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 124499,
+        "link": "https://www.dns-shop.ru/product/12b93597c0eed582/videokarta-palit-geforce-rtx-5080-gamerock-oc-ne75080t19t2-gb2030g/"
+    },
+    {
+        "short_id": "5624873",
+        "long_id": "2a180a82-1699-11f0-930f-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5060 Ti VENTUS 2X OC PLUS [RTX 5060 Ti 16G VENTUS 2X OC PLUS] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 51999,
+        "link": "https://www.dns-shop.ru/product/2a180a821699d9cb/videokarta-msi-geforce-rtx-5060-ti-ventus-2x-oc-plus-rtx-5060-ti-16g-ventus-2x-oc-plus/"
+    },
+    {
+        "short_id": "5624321",
+        "long_id": "433f0e66-1367-11f0-930f-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5070 Ti GAMING TRIO OC [RTX 5070 Ti 16G GAMING TRIO OC] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 104999,
+        "link": "https://www.dns-shop.ru/product/433f0e661367d582/videokarta-msi-geforce-rtx-5070-ti-gaming-trio-oc-rtx-5070-ti-16g-gaming-trio-oc/"
+    },
+    {
+        "short_id": "5441670",
+        "long_id": "93826d9c-94dc-11ee-9183-00155d8ed20b",
+        "name": "Видеокарта KFA2 GeForce RTX 4060 CORE Black [46NSL8MD9NXK] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 31999,
+        "link": "https://www.dns-shop.ru/product/93826d9c94dced20/videokarta-kfa2-geforce-rtx-4060-core-black-46nsl8md9nxk/"
+    },
+    {
+        "short_id": "5616295",
+        "long_id": "86357c17-e448-11ef-92e2-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5070 Ti VENTUS 3X OC [RTX 5070 Ti 16G VENTUS 3X OC] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 96999,
+        "link": "https://www.dns-shop.ru/product/86357c17e448d582/videokarta-msi-geforce-rtx-5070-ti-ventus-3x-oc-rtx-5070-ti-16g-ventus-3x-oc/"
+    },
+    {
+        "short_id": "5621523",
+        "long_id": "4a2223da-02cf-11f0-92fb-0050569d9cb8",
+        "name": "Видеокарта KFA2 GeForce RTX 5070 ROCK(X) OC [57NON7MDBUEK] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 62999,
+        "link": "https://www.dns-shop.ru/product/4a2223da02cfd9cb/videokarta-kfa2-geforce-rtx-5070-rockx-oc-57non7mdbuek/"
+    },
+    {
+        "short_id": "4758926",
+        "long_id": "55cc9b91-65b7-11eb-a215-00155df1b805",
+        "name": "Видеокарта MSI GeForce RTX 3060 VENTUS 2X OC (LHR) [RTX 3060 VENTUS 2X 12G OC] [PCIe 4.0 12 ГБ GDDR6, 192 бит, 3 x DisplayPort, HDMI, GPU 1320 МГц]",
+        "price": 29899,
+        "link": "https://www.dns-shop.ru/product/55cc9b9165b71b80/videokarta-msi-geforce-rtx-3060-ventus-2x-oc-lhr-rtx-3060-ventus-2x-12g-oc/"
+    },
+    {
+        "short_id": "5621533",
+        "long_id": "bc6903cc-02d4-11f0-92fb-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5070 VENTUS 2X OC [RTX 5070 12G VENTUS 2X OC] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 61999,
+        "link": "https://www.dns-shop.ru/product/bc6903cc02d4d9cb/videokarta-msi-geforce-rtx-5070-ventus-2x-oc-rtx-5070-12g-ventus-2x-oc/"
+    },
+    {
+        "short_id": "5613399",
+        "long_id": "3e9973b9-d4b9-11ef-92cb-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5070 WINDFORCE OC SFF [GV-N5070WF3OC-12GD] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 65999,
+        "link": "https://www.dns-shop.ru/product/3e9973b9d4b9d582/videokarta-gigabyte-geforce-rtx-5070-windforce-oc-sff-gv-n5070wf3oc-12gd/"
+    },
+    {
+        "short_id": "5421168",
+        "long_id": "75db5ab0-0b1b-11ee-9101-00155d8ed20c",
+        "name": "Видеокарта MSI GeForce RTX 4060 VENTUS 2X BLACK OC [GeForce RTX 4060 VENTUS 2X] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 32999,
+        "link": "https://www.dns-shop.ru/product/75db5ab00b1bed20/videokarta-msi-geforce-rtx-4060-ventus-2x-black-oc-geforce-rtx-4060-ventus-2x/"
+    },
+    {
+        "short_id": "5613308",
+        "long_id": "72372f3c-d49a-11ef-92c8-0050569d9cb8",
+        "name": "Видеокарта Palit GeForce RTX 5080 GamingPro [NE75080019T2-GB2031A] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 114999,
+        "link": "https://www.dns-shop.ru/product/72372f3cd49ad9cb/videokarta-palit-geforce-rtx-5080-gamingpro-ne75080019t2-gb2031a/"
+    },
+    {
+        "short_id": "4768178",
+        "long_id": "49b77a80-7756-11eb-a225-00155d42eb06",
+        "name": "Видеокарта KFA2 GeForce RTX 3060 CORE (LHR) [36NOL7MD1VOK] [PCIe 4.0 12 ГБ GDDR6, 192 бит, 3 x DisplayPort, HDMI, GPU 1320 МГц]",
+        "price": 29999,
+        "link": "https://www.dns-shop.ru/product/49b77a8077562eb0/videokarta-kfa2-geforce-rtx-3060-core-lhr-36nol7md1vok/"
+    },
+    {
+        "short_id": "5453277",
+        "long_id": "c455f512-e73a-11ee-91df-00155d8ed20c",
+        "name": "Видеокарта Palit GeForce RTX 4060 Infinity 2 [NE64060019P1-1070L] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 31999,
+        "link": "https://www.dns-shop.ru/product/c455f512e73aed20/videokarta-palit-geforce-rtx-4060-infinity-2-ne64060019p1-1070l/"
+    },
+    {
+        "short_id": "5616705",
+        "long_id": "3439d87a-e77e-11ef-92e5-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5070 Ti GameRock [NE7507T019T2-GB2030G] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 97999,
+        "link": "https://www.dns-shop.ru/product/3439d87ae77ed582/videokarta-palit-geforce-rtx-5070-ti-gamerock-ne7507t019t2-gb2030g/"
+    },
+    {
+        "short_id": "5623567",
+        "long_id": "52e34468-0b7f-11f0-9309-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5070 Ti GamingPro V1 [NE7507T019T2-GB2031Y] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 89999,
+        "link": "https://www.dns-shop.ru/product/52e344680b7fd582/videokarta-palit-geforce-rtx-5070-ti-gamingpro-v1-ne7507t019t2-gb2031y/"
+    },
+    {
+        "short_id": "5628031",
+        "long_id": "22c5e41f-2afb-11f0-9323-0050569d9cb8",
+        "name": "Видеокарта Palit GeForce RTX 5070 Ti GamingPro-S [NE7507T019T2-GB2031U] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 81999,
+        "link": "https://www.dns-shop.ru/product/22c5e41f2afbd9cb/videokarta-palit-geforce-rtx-5070-ti-gamingpro-s-ne7507t019t2-gb2031u/"
+    },
+    {
+        "short_id": "5616725",
+        "long_id": "db789f5b-e780-11ef-92e5-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5070 GamingPro [NE75070019K9-GB2050A] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 61999,
+        "link": "https://www.dns-shop.ru/product/db789f5be780d582/videokarta-palit-geforce-rtx-5070-gamingpro-ne75070019k9-gb2050a/"
+    },
+    {
+        "short_id": "5617108",
+        "long_id": "a356cf29-eaa7-11ef-92e7-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5070 GAMING TRIO OC [RTX 5070 12G GAMING TRIO OC] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 73999,
+        "link": "https://www.dns-shop.ru/product/a356cf29eaa7d9cb/videokarta-msi-geforce-rtx-5070-gaming-trio-oc-rtx-5070-12g-gaming-trio-oc/"
+    },
+    {
+        "short_id": "5438380",
+        "long_id": "697e6b35-7ec2-11ee-916e-00155d8ed20c",
+        "name": "Видеокарта MSI GeForce RTX 4060 VENTUS 2X WHITE OC [GeForce RTX 4060 VENTUS 2X WHITE 8G OC] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 32999,
+        "link": "https://www.dns-shop.ru/product/697e6b357ec2ed20/videokarta-msi-geforce-rtx-4060-ventus-2x-white-oc-geforce-rtx-4060-ventus-2x-white-8g-oc/"
+    },
+    {
+        "short_id": "5616717",
+        "long_id": "fe5cfcef-e77f-11ef-92e5-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5070 Ti GamingPro [NE7507T019T2-GB2031A] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 89999,
+        "link": "https://www.dns-shop.ru/product/fe5cfcefe77fd582/videokarta-palit-geforce-rtx-5070-ti-gamingpro-ne7507t019t2-gb2031a/"
+    },
+    {
+        "short_id": "5449201",
+        "long_id": "07e96c1f-cf16-11ee-91c1-00155d8ed20b",
+        "name": "Видеокарта GIGABYTE GeForce RTX 4070 SUPER WINDFORCE OC [GV-N407SWF3OC-12GD] [PCIe 4.0 12 ГБ GDDR6X, 192 бит, 3 x DisplayPort, HDMI, GPU 1980 МГц]",
+        "price": 61999,
+        "link": "https://www.dns-shop.ru/product/07e96c1fcf16ed20/videokarta-gigabyte-geforce-rtx-4070-super-windforce-oc-gv-n407swf3oc-12gd/"
+    },
+    {
+        "short_id": "5626368",
+        "long_id": "d85735c7-2199-11f0-931f-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 WINDFORCE OC [GV-N5060WF2OC-8GD] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 31999,
+        "link": "https://www.dns-shop.ru/product/d85735c72199d582/videokarta-gigabyte-geforce-rtx-5060-windforce-oc-gv-n5060wf2oc-8gd/"
+    },
+    {
+        "short_id": "5624883",
+        "long_id": "5df8cdf8-169c-11f0-930f-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5060 GAMING OC [RTX 5060 8G GAMING OC] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 35299,
+        "link": "https://www.dns-shop.ru/product/5df8cdf8169cd9cb/videokarta-msi-geforce-rtx-5060-gaming-oc-rtx-5060-8g-gaming-oc/"
+    },
+    {
+        "short_id": "5612392",
+        "long_id": "d4bc40ce-ceec-11ef-92c3-0050569d9cb8",
+        "name": "Видеокарта GIGABYTE AMD Radeon 9070 XT GAMING OC [GV-R9070XTGAMING OC-16GD] [PCIe 5.0 16 ГБ GDDR6, 256 бит, 2 x DisplayPort, 2 x HDMI]",
+        "price": 71999,
+        "link": "https://www.dns-shop.ru/product/d4bc40ceceecd9cb/videokarta-gigabyte-amd-radeon-9070-xt-gaming-oc-gv-r9070xtgaming-oc-16gd/"
+    },
+    {
+        "short_id": "5628948",
+        "long_id": "37d191a6-3202-11f0-932a-0050569d9cb8",
+        "name": "Видеокарта GIGABYTE AMD Radeon 9060 XT GAMING OC [GV-R9060XTGAMING OC-16GD] [PCIe 5.0 16 ГБ GDDR6, 128 бит, 2 x DisplayPort, HDMI]",
+        "price": 44999,
+        "link": "https://www.dns-shop.ru/product/37d191a63202d9cb/videokarta-gigabyte-amd-radeon-9060-xt-gaming-oc-gv-r9060xtgaming-oc-16gd/"
+    },
+    {
+        "short_id": "5624193",
+        "long_id": "0b008e51-1058-11f0-930d-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5070 Ti GamingPro OC V1 [NE7507TS19T2-GB2031Y] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 91999,
+        "link": "https://www.dns-shop.ru/product/0b008e511058d582/videokarta-palit-geforce-rtx-5070-ti-gamingpro-oc-v1-ne7507ts19t2-gb2031y/"
+    },
+    {
+        "short_id": "5612408",
+        "long_id": "b3ea0184-cef1-11ef-92c6-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5080 GAMING TRIO OC [RTX 5080 16G GAMING TRIO OC] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 138999,
+        "link": "https://www.dns-shop.ru/product/b3ea0184cef1d582/videokarta-msi-geforce-rtx-5080-gaming-trio-oc-rtx-5080-16g-gaming-trio-oc/"
+    },
+    {
+        "short_id": "5613391",
+        "long_id": "337858f9-d4b5-11ef-92cb-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5070 Ti WINDFORCE OC SFF [GV-N507TWF3OC-16GD] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 94999,
+        "link": "https://www.dns-shop.ru/product/337858f9d4b5d582/videokarta-gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-gv-n507twf3oc-16gd/"
+    },
+    {
+        "short_id": "5421214",
+        "long_id": "bf41006e-0b2f-11ee-9101-00155d8ed20c",
+        "name": "Видеокарта Palit GeForce RTX 4060 Dual [NE64060019P1-1070D] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 31999,
+        "link": "https://www.dns-shop.ru/product/bf41006e0b2fed20/videokarta-palit-geforce-rtx-4060-dual-ne64060019p1-1070d/"
+    },
+    {
+        "short_id": "5621525",
+        "long_id": "a9bc69b9-02cf-11f0-92fb-0050569d9cb8",
+        "name": "Видеокарта KFA2 GeForce RTX 5070 CORE OC [57NON7MDBROK] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 59999,
+        "link": "https://www.dns-shop.ru/product/a9bc69b902cfd9cb/videokarta-kfa2-geforce-rtx-5070-core-oc-57non7mdbrok/"
+    },
+    {
+        "short_id": "5616723",
+        "long_id": "9477d915-e780-11ef-92e5-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5070 GamingPro OC [NE75070T19K9-GB2050A] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 62499,
+        "link": "https://www.dns-shop.ru/product/9477d915e780d582/videokarta-palit-geforce-rtx-5070-gamingpro-oc-ne75070t19k9-gb2050a/"
+    },
+    {
+        "short_id": "5630149",
+        "long_id": "ca49bd5c-3a98-11f0-9334-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5060 VENTUS 2X WHITE OC [RTX 5060 8G VENTUS 2X OC WHITE] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 34499,
+        "link": "https://www.dns-shop.ru/product/ca49bd5c3a98d9cb/videokarta-msi-geforce-rtx-5060-ventus-2x-white-oc-rtx-5060-8g-ventus-2x-oc-white/"
+    },
+    {
+        "short_id": "5447635",
+        "long_id": "7de11280-c0eb-11ee-91af-00155d8ed20b",
+        "name": "Видеокарта Sapphire AMD Radeon RX 7600 XT PULSE GAMING OC [11339-04-20G] [PCIe 4.0 16 ГБ GDDR6, 128 бит, 2 x DisplayPort, 2 x HDMI, GPU 1720 МГц]",
+        "price": 36999,
+        "link": "https://www.dns-shop.ru/product/7de11280c0ebed20/videokarta-sapphire-amd-radeon-rx-7600-xt-pulse-gaming-oc-11339-04-20g/"
+    },
+    {
+        "short_id": "5619422",
+        "long_id": "cb1f669a-f7c5-11ef-92f0-0050569d9cb8",
+        "name": "Видеокарта KFA2 GeForce RTX 5070 Ti ROCK(X) 3FAN RGB BLACK [57IZN6MDBUEK] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 91999,
+        "link": "https://www.dns-shop.ru/product/cb1f669af7c5d9cb/videokarta-kfa2-geforce-rtx-5070-ti-rockx-3fan-rgb-black-57izn6mdbuek/"
+    },
+    {
+        "short_id": "5628030",
+        "long_id": "fdcad78f-2afa-11f0-9323-0050569d9cb8",
+        "name": "Видеокарта Palit GeForce RTX 5070 Ti GamingPro-S OC [NE7507TS19T2-GB2031U] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 82999,
+        "link": "https://www.dns-shop.ru/product/fdcad78f2afad9cb/videokarta-palit-geforce-rtx-5070-ti-gamingpro-s-oc-ne7507ts19t2-gb2031u/"
+    },
+    {
+        "short_id": "5496274",
+        "long_id": "5256129b-85e7-11ef-927d-0050569d21a3",
+        "name": "Видеокарта ASUS GeForce RTX 4060 DUAL EVO OC [DUAL-RTX4060-O8G-EVO] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 32999,
+        "link": "https://www.dns-shop.ru/product/5256129b85e7d21a/videokarta-asus-geforce-rtx-4060-dual-evo-oc-dual-rtx4060-o8g-evo/"
+    },
+    {
+        "short_id": "5617115",
+        "long_id": "0447724e-eaac-11ef-92eb-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5070 Ti VANGUARD SOC [RTX 5070 Ti 16G VANGUARD SOC] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 119999,
+        "link": "https://www.dns-shop.ru/product/0447724eeaacd582/videokarta-msi-geforce-rtx-5070-ti-vanguard-soc-rtx-5070-ti-16g-vanguard-soc/"
+    },
+    {
+        "short_id": "5617109",
+        "long_id": "26621ab9-eaa8-11ef-92eb-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5070 GAMING TRIO WHITE OC [RTX 5070 12G GAMING TRIO OC WHITE] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 74999,
+        "link": "https://www.dns-shop.ru/product/26621ab9eaa8d582/videokarta-msi-geforce-rtx-5070-gaming-trio-white-oc-rtx-5070-12g-gaming-trio-oc-white/"
+    },
+    {
+        "short_id": "5626128",
+        "long_id": "885586f3-20a8-11f0-931a-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5060 Ti VENTUS 3X OC [RTX 5060 Ti 16G VENTUS 3X OC] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 56999,
+        "link": "https://www.dns-shop.ru/product/885586f320a8d9cb/videokarta-msi-geforce-rtx-5060-ti-ventus-3x-oc-rtx-5060-ti-16g-ventus-3x-oc/"
+    },
+    {
+        "short_id": "5623294",
+        "long_id": "85e37b3b-0a1a-11f0-9307-0050569d5825",
+        "name": "Видеокарта KFA2 GeForce RTX 5060 Ti CORE OC [56IZN8MDCPOK] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 53999,
+        "link": "https://www.dns-shop.ru/product/85e37b3b0a1ad582/videokarta-kfa2-geforce-rtx-5060-ti-core-oc-56izn8mdcpok/"
+    },
+    {
+        "short_id": "5423692",
+        "long_id": "a8002d75-1e3a-11ee-910c-00155d8ed20c",
+        "name": "Видеокарта Sapphire AMD Radeon RX 7600 PULSE GAMING OC [11324-01-20G] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1875 МГц]",
+        "price": 27999,
+        "link": "https://www.dns-shop.ru/product/a8002d751e3aed20/videokarta-sapphire-amd-radeon-rx-7600-pulse-gaming-oc-11324-01-20g/"
+    },
+    {
+        "short_id": "5623568",
+        "long_id": "9693e6d9-0b7f-11f0-9309-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5070 Infinity 3 OC [NE75070S19K9-GB2050S] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 62999,
+        "link": "https://www.dns-shop.ru/product/9693e6d90b7fd582/videokarta-palit-geforce-rtx-5070-infinity-3-oc-ne75070s19k9-gb2050s/"
+    },
+    {
+        "short_id": "5421211",
+        "long_id": "6b5a7dc6-0b2f-11ee-9101-00155d8ed20c",
+        "name": "Видеокарта Palit GeForce RTX 4060 Dual OC V1 [NE64060T19P1-1070D] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 31999,
+        "link": "https://www.dns-shop.ru/product/6b5a7dc60b2fed20/videokarta-palit-geforce-rtx-4060-dual-oc-v1-ne64060t19p1-1070d/"
+    },
+    {
+        "short_id": "5623573",
+        "long_id": "31f9cd8b-0b82-11f0-9309-0050569d5825",
+        "name": "Видеокарта KFA2 GeForce RTX 5070 Ti CORE OC [57IZN6MDBBOK] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 96999,
+        "link": "https://www.dns-shop.ru/product/31f9cd8b0b82d582/videokarta-kfa2-geforce-rtx-5070-ti-core-oc-57izn6mdbbok/"
+    },
+    {
+        "short_id": "5612412",
+        "long_id": "bbffa5bd-cef2-11ef-92c6-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5080 SUPRIM SOC [RTX 5080 16G SUPRIM SOC] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 159999,
+        "link": "https://www.dns-shop.ru/product/bbffa5bdcef2d582/videokarta-msi-geforce-rtx-5080-suprim-soc-rtx-5080-16g-suprim-soc/"
+    },
+    {
+        "short_id": "5610747",
+        "long_id": "508738a9-bc02-11ef-92b2-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 3050 VENTUS 2X E OC [RTX 3050 VENTUS 2X E 6G OC] [PCIe 4.0 6 ГБ GDDR6, 96 бит, 2 x HDMI, DisplayPort, GPU 1042 МГц]",
+        "price": 18899,
+        "link": "https://www.dns-shop.ru/product/508738a9bc02d9cb/videokarta-msi-geforce-rtx-3050-ventus-2x-e-oc-rtx-3050-ventus-2x-e-6g-oc/"
+    },
+    {
+        "short_id": "5621522",
+        "long_id": "f0b05053-02ce-11f0-92fb-0050569d9cb8",
+        "name": "Видеокарта KFA2 GeForce RTX 5070 ROCK(X) OC White [57NON7MDBVXK] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 64999,
+        "link": "https://www.dns-shop.ru/product/f0b0505302ced9cb/videokarta-kfa2-geforce-rtx-5070-rockx-oc-white-57non7mdbvxk/"
+    },
+    {
+        "short_id": "4899952",
+        "long_id": "4bb4202e-5d77-11ec-8f48-00155d8ed20b",
+        "name": "Видеокарта ASRock AMD Radeon RX 6600 Challenger D [RX6600 CLD 8G] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1626 МГц]",
+        "price": 22999,
+        "link": "https://www.dns-shop.ru/product/4bb4202e5d77ed20/videokarta-asrock-amd-radeon-rx-6600-challenger-d-rx6600-cld-8g/"
+    },
+    {
+        "short_id": "5612873",
+        "long_id": "ebdc7d82-d2f1-11ef-92c6-0050569d9cb8",
+        "name": "Видеокарта KFA2 GeForce RTX 5080 CORE OC 3FAN RGB White [58NZN6MDBCWK] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 129999,
+        "link": "https://www.dns-shop.ru/product/ebdc7d82d2f1d9cb/videokarta-kfa2-geforce-rtx-5080-core-oc-3fan-rgb-white-58nzn6mdbcwk/"
+    },
+    {
+        "short_id": "5621537",
+        "long_id": "295c3246-02d6-11f0-92fb-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5070 Ti SHADOW 3X OC [RTX 5070 Ti 16G SHADOW 3X OC] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 96999,
+        "link": "https://www.dns-shop.ru/product/295c324602d6d9cb/videokarta-msi-geforce-rtx-5070-ti-shadow-3x-oc-rtx-5070-ti-16g-shadow-3x-oc/"
+    },
+    {
+        "short_id": "5612410",
+        "long_id": "4a37c3ab-cef2-11ef-92c6-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5080 VENTUS 3X OC PLUS [RTX 5080 16G VENTUS 3X OC PLUS] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 129999,
+        "link": "https://www.dns-shop.ru/product/4a37c3abcef2d582/videokarta-msi-geforce-rtx-5080-ventus-3x-oc-plus-rtx-5080-16g-ventus-3x-oc-plus/"
+    },
+    {
+        "short_id": "5421183",
+        "long_id": "eb3a3ed6-0b22-11ee-9101-00155d8ed20c",
+        "name": "Видеокарта GIGABYTE GeForce RTX 4060 EAGLE OC [GV-N4060EAGLE OC-8GD] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 2 x DisplayPort, 2 x HDMI, GPU 1830 МГц]",
+        "price": 34999,
+        "link": "https://www.dns-shop.ru/product/eb3a3ed60b22ed20/videokarta-gigabyte-geforce-rtx-4060-eagle-oc-gv-n4060eagle-oc-8gd/"
+    },
+    {
+        "short_id": "5004473",
+        "long_id": "5a74a341-71b1-11ec-8f5a-00155d8ed20b",
+        "name": "Видеокарта KFA2 GeForce RTX 3050 X Black [35NSL8MD6YEK] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1552 МГц]",
+        "price": 21499,
+        "link": "https://www.dns-shop.ru/product/5a74a34171b1ed20/videokarta-kfa2-geforce-rtx-3050-x-black-35nsl8md6yek/"
+    },
+    {
+        "short_id": "5421182",
+        "long_id": "86977d19-0b22-11ee-9101-00155d8ed20c",
+        "name": "Видеокарта GIGABYTE GeForce RTX 4060 WINDFORCE OC [GV-N4060WF2OC-8GD] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 2 x DisplayPort, 2 x HDMI, GPU 1830 МГц]",
+        "price": 31999,
+        "link": "https://www.dns-shop.ru/product/86977d190b22ed20/videokarta-gigabyte-geforce-rtx-4060-windforce-oc-gv-n4060wf2oc-8gd/"
+    },
+    {
+        "short_id": "5612389",
+        "long_id": "8d3893a7-ceec-11ef-92c3-0050569d9cb8",
+        "name": "Видеокарта GIGABYTE AMD Radeon 9070 XT AORUS ELITE [GV-R9070XTAORUS E-16GD] [PCIe 5.0 16 ГБ GDDR6, 256 бит, 2 x DisplayPort, 2 x HDMI]",
+        "price": 81999,
+        "link": "https://www.dns-shop.ru/product/8d3893a7ceecd9cb/videokarta-gigabyte-amd-radeon-9070-xt-aorus-elite-gv-r9070xtaorus-e-16gd/"
+    },
+    {
+        "short_id": "5621524",
+        "long_id": "7ea65bf9-02cf-11f0-92fb-0050569d9cb8",
+        "name": "Видеокарта KFA2 GeForce RTX 5070 CORE OC White [57NON7MDBSWK] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 61999,
+        "link": "https://www.dns-shop.ru/product/7ea65bf902cfd9cb/videokarta-kfa2-geforce-rtx-5070-core-oc-white-57non7mdbswk/"
+    },
+    {
+        "short_id": "5609721",
+        "long_id": "e9ebbaa5-b6a5-11ef-92ad-0050569d9cb8",
+        "name": "Видеокарта KFA2 GeForce RTX 3050 X Black [35NRLDHP9ODK] [PCIe 4.0 6 ГБ GDDR6, 96 бит, DisplayPort, DVI-D, HDMI, GPU 1040 МГц]",
+        "price": 18999,
+        "link": "https://www.dns-shop.ru/product/e9ebbaa5b6a5d9cb/videokarta-kfa2-geforce-rtx-3050-x-black-35nrldhp9odk/"
+    },
+    {
+        "short_id": "5453278",
+        "long_id": "12c9304f-e73b-11ee-91df-00155d8ed20c",
+        "name": "Видеокарта Palit GeForce RTX 4060 Infinity 2 OC [NE64060S19P1-1070L] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 31999,
+        "link": "https://www.dns-shop.ru/product/12c9304fe73bed20/videokarta-palit-geforce-rtx-4060-infinity-2-oc-ne64060s19p1-1070l/"
+    },
+    {
+        "short_id": "5624895",
+        "long_id": "a519285e-169f-11f0-9313-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5060 VENTUS 3X OC [RTX 5060 8G VENTUS 3X OC] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 35999,
+        "link": "https://www.dns-shop.ru/product/a519285e169fd582/videokarta-msi-geforce-rtx-5060-ventus-3x-oc-rtx-5060-8g-ventus-3x-oc/"
+    },
+    {
+        "short_id": "5622526",
+        "long_id": "98cba087-05f4-11f0-9300-0050569d9cb8",
+        "name": "Видеокарта Palit GeForce RTX 5060 Ti Dual [NE7506T019P1-GB2062D] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 39999,
+        "link": "https://www.dns-shop.ru/product/98cba08705f4d9cb/videokarta-palit-geforce-rtx-5060-ti-dual-ne7506t019p1-gb2062d/"
+    },
+    {
+        "short_id": "5625909",
+        "long_id": "0db33378-1f27-11f0-9318-0050569d9cb8",
+        "name": "Видеокарта Palit GeForce RTX 5060 Dual OC [NE75060S19P1-GB2063D] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 34999,
+        "link": "https://www.dns-shop.ru/product/0db333781f27d9cb/videokarta-palit-geforce-rtx-5060-dual-oc-ne75060s19p1-gb2063d/"
+    },
+    {
+        "short_id": "5628036",
+        "long_id": "e86af43a-2afb-11f0-9323-0050569d9cb8",
+        "name": "Видеокарта Palit GeForce RTX 5060 Infinity 3 [NE75060019P1-GB2063S] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 34999,
+        "link": "https://www.dns-shop.ru/product/e86af43a2afbd9cb/videokarta-palit-geforce-rtx-5060-infinity-3-ne75060019p1-gb2063s/"
+    },
+    {
+        "short_id": "5613389",
+        "long_id": "1ce0285f-d4b4-11ef-92cb-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5070 Ti GAMING OC [GV-N507TGAMING OC-16GD] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 103999,
+        "link": "https://www.dns-shop.ru/product/1ce0285fd4b4d582/videokarta-gigabyte-geforce-rtx-5070-ti-gaming-oc-gv-n507tgaming-oc-16gd/"
+    },
+    {
+        "short_id": "5612874",
+        "long_id": "3bdb9e0b-d2f2-11ef-92c6-0050569d9cb8",
+        "name": "Видеокарта KFA2 GeForce RTX 5080 CORE OC 3FAN RGB Black [58NZN6MDBBOK] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 119999,
+        "link": "https://www.dns-shop.ru/product/3bdb9e0bd2f2d9cb/videokarta-kfa2-geforce-rtx-5080-core-oc-3fan-rgb-black-58nzn6mdbbok/"
+    },
+    {
+        "short_id": "5619421",
+        "long_id": "9e453c9e-f7c4-11ef-92f0-0050569d9cb8",
+        "name": "Видеокарта KFA2 GeForce RTX 5070 Ti ROCK(X) 3FAN RGB WHITE [57IZN6MDBVGK] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 96999,
+        "link": "https://www.dns-shop.ru/product/9e453c9ef7c4d9cb/videokarta-kfa2-geforce-rtx-5070-ti-rockx-3fan-rgb-white-57izn6mdbvgk/"
+    },
+    {
+        "short_id": "5626130",
+        "long_id": "d278b613-20a8-11f0-931a-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5060 Ti VENTUS 3X OC [RTX 5060 Ti 8G VENTUS 3X OC] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 43999,
+        "link": "https://www.dns-shop.ru/product/d278b61320a8d9cb/videokarta-msi-geforce-rtx-5060-ti-ventus-3x-oc-rtx-5060-ti-8g-ventus-3x-oc/"
+    },
+    {
+        "short_id": "5620886",
+        "long_id": "21da5319-fef5-11ef-92fc-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5070 WINDFORCE SFF [GV-N5070WF3-12GD] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 64999,
+        "link": "https://www.dns-shop.ru/product/21da5319fef5d582/videokarta-gigabyte-geforce-rtx-5070-windforce-sff-gv-n5070wf3-12gd/"
+    },
+    {
+        "short_id": "5478502",
+        "long_id": "dc03bb82-4d85-11ef-9242-0050569d9cb8",
+        "name": "Видеокарта ASUS GeForce RTX 4060 DUAL V2 OC Edition [DUAL-RTX4060-O8G-V2] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 32999,
+        "link": "https://www.dns-shop.ru/product/dc03bb824d85d9cb/videokarta-asus-geforce-rtx-4060-dual-v2-oc-edition-dual-rtx4060-o8g-v2/"
+    },
+    {
+        "short_id": "5421179",
+        "long_id": "e6ea63c8-0b21-11ee-9101-00155d8ed20c",
+        "name": "Видеокарта MSI GeForce RTX 4060 GAMING X [GeForce RTX 4060 GAMING X 8G] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 33999,
+        "link": "https://www.dns-shop.ru/product/e6ea63c80b21ed20/videokarta-msi-geforce-rtx-4060-gaming-x-geforce-rtx-4060-gaming-x-8g/"
+    },
+    {
+        "short_id": "5626369",
+        "long_id": "02dc399f-219a-11f0-931f-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 WINDFORCE [GV-N5060WF2-8GD] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 29999,
+        "link": "https://www.dns-shop.ru/product/02dc399f219ad582/videokarta-gigabyte-geforce-rtx-5060-windforce-gv-n5060wf2-8gd/"
+    },
+    {
+        "short_id": "5480293",
+        "long_id": "0fc2eff8-538e-11ef-924b-0050569d5825",
+        "name": "Видеокарта MSI Geforce RTX 3050 VENTUS 2X XS WHITE OC [RTX 3050 VENTUS 2X XS WHITE 8G OC] [PCIe 4.0 8 ГБ GDDR6, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1552 МГц]",
+        "price": 21999,
+        "link": "https://www.dns-shop.ru/product/0fc2eff8538ed582/videokarta-msi-geforce-rtx-3050-ventus-2x-xs-white-oc-rtx-3050-ventus-2x-xs-white-8g-oc/"
+    },
+    {
+        "short_id": "5624881",
+        "long_id": "9e97af23-169b-11f0-930f-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5060 Ti VENTUS 2X PLUS OC [RTX 5060 Ti 8G VENTUS 2X OC PLUS] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 41999,
+        "link": "https://www.dns-shop.ru/product/9e97af23169bd9cb/videokarta-msi-geforce-rtx-5060-ti-ventus-2x-plus-oc-rtx-5060-ti-8g-ventus-2x-oc-plus/"
+    },
+    {
+        "short_id": "5428799",
+        "long_id": "f6a696bd-3b11-11ee-9128-00155d8ed20c",
+        "name": "Видеокарта MSI GeForce RTX 3050 VENTUS 2X XS OC [RTX 3050 VENTUS 2X XS 8G OC] [PCIe 4.0 8 ГБ GDDR6, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1552 МГц]",
+        "price": 22799,
+        "link": "https://www.dns-shop.ru/product/f6a696bd3b11ed20/videokarta-msi-geforce-rtx-3050-ventus-2x-xs-oc-rtx-3050-ventus-2x-xs-8g-oc/"
+    },
+    {
+        "short_id": "5613397",
+        "long_id": "a755ffb2-d4b8-11ef-92cb-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5070 EAGLE OC ICE SFF [GV-N5070EAGLEOC ICE-12GD] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 71999,
+        "link": "https://www.dns-shop.ru/product/a755ffb2d4b8d582/videokarta-gigabyte-geforce-rtx-5070-eagle-oc-ice-sff-gv-n5070eagleoc-ice-12gd/"
+    },
+    {
+        "short_id": "5622136",
+        "long_id": "6e065347-052e-11f0-92fe-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5070 VANGUARD SOC [RTX 5070 12G VANGUARD SOC] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 71999,
+        "link": "https://www.dns-shop.ru/product/6e065347052ed9cb/videokarta-msi-geforce-rtx-5070-vanguard-soc-rtx-5070-12g-vanguard-soc/"
+    },
+    {
+        "short_id": "5628034",
+        "long_id": "80a1ada3-2afb-11f0-9323-0050569d9cb8",
+        "name": "Видеокарта Palit GeForce RTX 5070 GamingPro S [NE75070019K9-GB2050U] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 61999,
+        "link": "https://www.dns-shop.ru/product/80a1ada32afbd9cb/videokarta-palit-geforce-rtx-5070-gamingpro-s-ne75070019k9-gb2050u/"
+    },
+    {
+        "short_id": "5623703",
+        "long_id": "ad7f908a-0dd6-11f0-930a-0050569d5825",
+        "name": "Видеокарта ASUS GeForce RTX 5090 ROG Astral OC Edition [ROG-ASTRAL-RTX5090-O32G-GAMING] [PCIe 5.0 32 ГБ GDDR7, 512 бит, 2 x HDMI, 3 x DisplayPort, GPU 2017 МГц]",
+        "price": 399999,
+        "link": "https://www.dns-shop.ru/product/ad7f908a0dd6d582/videokarta-asus-geforce-rtx-5090-rog-astral-oc-edition-rog-astral-rtx5090-o32g-gaming/"
+    },
+    {
+        "short_id": "5423683",
+        "long_id": "966d790e-1e35-11ee-910c-00155d8ed20c",
+        "name": "Видеокарта MSI GeForce RTX 4060 VENTUS 3X OC [GeForce RTX 4060 VENTUS 3X 8G OC] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 34999,
+        "link": "https://www.dns-shop.ru/product/966d790e1e35ed20/videokarta-msi-geforce-rtx-4060-ventus-3x-oc-geforce-rtx-4060-ventus-3x-8g-oc/"
+    },
+    {
+        "short_id": "5496272",
+        "long_id": "50df037a-85e6-11ef-927d-0050569d21a3",
+        "name": "Видеокарта ASUS GeForce RTX 4060 Dual EVO White OC Edition [DUAL-RTX4060-O8G-EVO-WHITE] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 32999,
+        "link": "https://www.dns-shop.ru/product/50df037a85e6d21a/videokarta-asus-geforce-rtx-4060-dual-evo-white-oc-edition-dual-rtx4060-o8g-evo-white/"
+    },
+    {
+        "short_id": "5449198",
+        "long_id": "af599e10-cf05-11ee-91c1-00155d8ed20b",
+        "name": "Видеокарта GIGABYTE AMD Radeon RX 7600 XT GAMING OC [GV-R76XTGAMING OC-16GD] [PCIe 4.0 16 ГБ GDDR6, 128 бит, 2 x DisplayPort, 2 x HDMI, GPU 2470 МГц]",
+        "price": 38999,
+        "link": "https://www.dns-shop.ru/product/af599e10cf05ed20/videokarta-gigabyte-amd-radeon-rx-7600-xt-gaming-oc-gv-r76xtgaming-oc-16gd/"
+    },
+    {
+        "short_id": "5613396",
+        "long_id": "59e56941-d4b8-11ef-92cb-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5070 GAMING OC [GV-N5070GAMING OC-12GD] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 71999,
+        "link": "https://www.dns-shop.ru/product/59e56941d4b8d582/videokarta-gigabyte-geforce-rtx-5070-gaming-oc-gv-n5070gaming-oc-12gd/"
+    },
+    {
+        "short_id": "5629291",
+        "long_id": "6040e5ac-3493-11f0-932d-0050569d9cb8",
+        "name": "Видеокарта KFA2 GeForce RTX 5060 CORE OC [56NSN8MDDCOK] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 33999,
+        "link": "https://www.dns-shop.ru/product/6040e5ac3493d9cb/videokarta-kfa2-geforce-rtx-5060-core-oc-56nsn8mddcok/"
+    },
+    {
+        "short_id": "5433102",
+        "long_id": "900ee1b9-5795-11ee-9141-00155d8ed20b",
+        "name": "Видеокарта Sapphire AMD Radeon RX 7700 XT PULSE [11335-04] [PCIe 4.0 12 ГБ GDDR6, 192 бит, 2 x DisplayPort, 2 x HDMI]",
+        "price": 44999,
+        "link": "https://www.dns-shop.ru/product/900ee1b95795ed20/videokarta-sapphire-amd-radeon-rx-7700-xt-pulse-11335-04/"
+    },
+    {
+        "short_id": "5624226",
+        "long_id": "20b53d47-110a-11f0-930e-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5060 Ti Infinity 3 [NE7506T019P1-GB2062S] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 42999,
+        "link": "https://www.dns-shop.ru/product/20b53d47110ad582/videokarta-palit-geforce-rtx-5060-ti-infinity-3-ne7506t019p1-gb2062s/"
+    },
+    {
+        "short_id": "5628035",
+        "long_id": "c346c760-2afb-11f0-9323-0050569d9cb8",
+        "name": "Видеокарта Palit GeForce RTX 5060 Infinity 3 OC [NE75060T19P1-GB2063S] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 35999,
+        "link": "https://www.dns-shop.ru/product/c346c7602afbd9cb/videokarta-palit-geforce-rtx-5060-infinity-3-oc-ne75060t19p1-gb2063s/"
+    },
+    {
+        "short_id": "5438264",
+        "long_id": "18c9e658-7e2d-11ee-916e-00155d8ed20c",
+        "name": "Видеокарта ASRock AMD Radeon RX 6600 Challenger White [RX6600 CLW 8G] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1626 МГц]",
+        "price": 23999,
+        "link": "https://www.dns-shop.ru/product/18c9e6587e2ded20/videokarta-asrock-amd-radeon-rx-6600-challenger-white-rx6600-clw-8g/"
+    },
+    {
+        "short_id": "5460386",
+        "long_id": "12d0fed3-1355-11ef-9208-0050569d9cb8",
+        "name": "Видеокарта GIGABYTE GeForce RTX 3060 WINDFORCE OC (rev. 2.0) [GV-N3060WF2OC-12GD 2.0] [PCIe 4.0 12 ГБ GDDR6, 192 бит, 2 x DisplayPort, 2 x HDMI, GPU 1320 МГц]",
+        "price": 31799,
+        "link": "https://www.dns-shop.ru/product/12d0fed31355d9cb/videokarta-gigabyte-geforce-rtx-3060-windforce-oc-rev-20-gv-n3060wf2oc-12gd-20/"
+    },
+    {
+        "short_id": "5620386",
+        "long_id": "3dd353dc-fb37-11ef-92f9-0050569d5825",
+        "name": "Видеокарта ASUS GeForce RTX 5070 PRIME OC Edition [PRIME-RTX5070-O12G] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 69999,
+        "link": "https://www.dns-shop.ru/product/3dd353dcfb37d582/videokarta-asus-geforce-rtx-5070-prime-oc-edition-prime-rtx5070-o12g/"
+    },
+    {
+        "short_id": "5628032",
+        "long_id": "5b932d0c-2afb-11f0-9323-0050569d9cb8",
+        "name": "Видеокарта Palit GeForce RTX 5070 GamingPro S OC [NE75070T19K9-GB2050U] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 64999,
+        "link": "https://www.dns-shop.ru/product/5b932d0c2afbd9cb/videokarta-palit-geforce-rtx-5070-gamingpro-s-oc-ne75070t19k9-gb2050u/"
+    },
+    {
+        "short_id": "5612413",
+        "long_id": "f4289d71-cef2-11ef-92c6-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5080 GAMING TRIO OC WHITE [RTX 5080 16G GAMING TRIO OC WHITE] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 149999,
+        "link": "https://www.dns-shop.ru/product/f4289d71cef2d582/videokarta-msi-geforce-rtx-5080-gaming-trio-oc-white-rtx-5080-16g-gaming-trio-oc-white/"
+    },
+    {
+        "short_id": "5430532",
+        "long_id": "762cea83-4881-11ee-9135-00155d8ed20c",
+        "name": "Видеокарта GIGABYTE AMD Radeon RX 7700 XT GAMING OC [GV-R77XTGAMING OC-12GD] [PCIe 4.0 12 ГБ GDDR6, 192 бит, 2 x DisplayPort, 2 x HDMI]",
+        "price": 51999,
+        "link": "https://www.dns-shop.ru/product/762cea834881ed20/videokarta-gigabyte-amd-radeon-rx-7700-xt-gaming-oc-gv-r77xtgaming-oc-12gd/"
+    },
+    {
+        "short_id": "5613307",
+        "long_id": "ffeedbf2-d499-11ef-92c8-0050569d9cb8",
+        "name": "Видеокарта Palit GeForce RTX 5080 GamingPro OC [NE75080S19T2-GB2031A] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 119999,
+        "link": "https://www.dns-shop.ru/product/ffeedbf2d499d9cb/videokarta-palit-geforce-rtx-5080-gamingpro-oc-ne75080s19t2-gb2031a/"
+    },
+    {
+        "short_id": "5622613",
+        "long_id": "082eeb11-060f-11f0-9304-0050569d5825",
+        "name": "Видеокарта Sapphire AMD Radeon RX 9070 XT NITRO+ OC [11348-01-20G] [PCIe 5.0 16 ГБ GDDR6, 256 бит, 2 x DisplayPort, 2 x HDMI, GPU 2400 МГц]",
+        "price": 86999,
+        "link": "https://www.dns-shop.ru/product/082eeb11060fd582/videokarta-sapphire-amd-radeon-rx-9070-xt-nitro-oc-11348-01-20g/"
+    },
+    {
+        "short_id": "5629290",
+        "long_id": "3b1a2b0b-3493-11f0-932d-0050569d9cb8",
+        "name": "Видеокарта KFA2 GeForce RTX 5060 CORE OC WHITE [56NSN8MDCZWK] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 34999,
+        "link": "https://www.dns-shop.ru/product/3b1a2b0b3493d9cb/videokarta-kfa2-geforce-rtx-5060-core-oc-white-56nsn8mdczwk/"
+    },
+    {
+        "short_id": "5613385",
+        "long_id": "81338313-d4b0-11ef-92cb-0050569d5825",
+        "name": "Видеокарта ASUS GeForce RTX 5070 Ti PRIME OC Edition [PRIME-RTX5070TI-O16G] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 104999,
+        "link": "https://www.dns-shop.ru/product/81338313d4b0d582/videokarta-asus-geforce-rtx-5070-ti-prime-oc-edition-prime-rtx5070ti-o16g/"
+    },
+    {
+        "short_id": "5613398",
+        "long_id": "ece0eb88-d4b8-11ef-92cb-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5070 EAGLE OC SFF [GV-N5070EAGLE OC-12GD] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 67999,
+        "link": "https://www.dns-shop.ru/product/ece0eb88d4b8d582/videokarta-gigabyte-geforce-rtx-5070-eagle-oc-sff-gv-n5070eagle-oc-12gd/"
+    },
+    {
+        "short_id": "5407513",
+        "long_id": "3ee95cc2-ca2a-11ed-90bc-00155d8ed20c",
+        "name": "Видеокарта Palit GeForce RTX 3050 Dual [NE63050018P1-1070D] [PCIe 4.0 8 ГБ GDDR6, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1552 МГц]",
+        "price": 19999,
+        "link": "https://www.dns-shop.ru/product/3ee95cc2ca2aed20/videokarta-palit-geforce-rtx-3050-dual-ne63050018p1-1070d/"
+    },
+    {
+        "short_id": "5432705",
+        "long_id": "6745c380-5607-11ee-9140-00155d8ed20b",
+        "name": "Видеокарта KFA2 GeForce RTX 4060 X White [46NSL8MD8NWK] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 31999,
+        "link": "https://www.dns-shop.ru/product/6745c3805607ed20/videokarta-kfa2-geforce-rtx-4060-x-white-46nsl8md8nwk/"
+    },
+    {
+        "short_id": "5613393",
+        "long_id": "f28e6f9d-d4b5-11ef-92cb-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5070 Ti EAGLE OC SFF [GV-N507TEAGLE OC-16GD] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 97799,
+        "link": "https://www.dns-shop.ru/product/f28e6f9dd4b5d582/videokarta-gigabyte-geforce-rtx-5070-ti-eagle-oc-sff-gv-n507teagle-oc-16gd/"
+    },
+    {
+        "short_id": "4867261",
+        "long_id": "0f5a9f8b-1520-11ec-8ee9-00155d8ed20b",
+        "name": "Видеокарта Sapphire AMD Radeon RX 6600 PULSE [11310-01-20G] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1626 МГц]",
+        "price": 24999,
+        "link": "https://www.dns-shop.ru/product/0f5a9f8b1520ed20/videokarta-sapphire-amd-radeon-rx-6600-pulse-11310-01-20g/"
+    },
+    {
+        "short_id": "5612397",
+        "long_id": "09668b7a-ceee-11ef-92c6-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5080 GAMING OC [GV-N5080GAMING OC-16GD] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 139999,
+        "link": "https://www.dns-shop.ru/product/09668b7aceeed582/videokarta-gigabyte-geforce-rtx-5080-gaming-oc-gv-n5080gaming-oc-16gd/"
+    },
+    {
+        "short_id": "5491099",
+        "long_id": "09fe971f-6e83-11ef-9265-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 4070 WINDFORCE 2X OC V2 [GV-N4070WF2OCV2-12GD] [PCIe 4.0 12 ГБ GDDR6, 192 бит, 3 x DisplayPort, HDMI, GPU 1920 МГц]",
+        "price": 54999,
+        "link": "https://www.dns-shop.ru/product/09fe971f6e83d582/videokarta-gigabyte-geforce-rtx-4070-windforce-2x-oc-v2-gv-n4070wf2ocv2-12gd/"
+    },
+    {
+        "short_id": "5411961",
+        "long_id": "f1bfcf82-de6e-11ed-90d0-00155d8ed20b",
+        "name": "Видеокарта Palit GeForce RTX 4060 Ti Dual OC [NE6406TT19P1-1060D] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 2310 МГц]",
+        "price": 36999,
+        "link": "https://www.dns-shop.ru/product/f1bfcf82de6eed20/videokarta-palit-geforce-rtx-4060-ti-dual-oc-ne6406tt19p1-1060d/"
+    },
+    {
+        "short_id": "4866716",
+        "long_id": "7c767bd1-144b-11ec-8ee8-00155d8ed20c",
+        "name": "Видеокарта PowerColor AMD Radeon RX 6600 Fighter [AXRX 6600 8GBD6-3DH] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1626 МГц]",
+        "price": 22999,
+        "link": "https://www.dns-shop.ru/product/7c767bd1144bed20/videokarta-powercolor-amd-radeon-rx-6600-fighter-axrx-6600-8gbd6-3dh/"
+    },
+    {
+        "short_id": "5623317",
+        "long_id": "d4848b4d-0a1f-11f0-9307-0050569d5825",
+        "name": "Видеокарта KFA2 GeForce RTX 5060 Ti CORE OC [56ISN8MDCPCK] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 39999,
+        "link": "https://www.dns-shop.ru/product/d4848b4d0a1fd582/videokarta-kfa2-geforce-rtx-5060-ti-core-oc-56isn8mdcpck/"
+    },
+    {
+        "short_id": "5620385",
+        "long_id": "105d9648-fb36-11ef-92f9-0050569d5825",
+        "name": "Видеокарта ASUS GeForce RTX 5070 TUF Gaming OC Edition [TUF-RTX5070-O12G-GAMING] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 2 x HDMI, 3 x DisplayPort, GPU 2330 МГц]",
+        "price": 77499,
+        "link": "https://www.dns-shop.ru/product/105d9648fb36d582/videokarta-asus-geforce-rtx-5070-tuf-gaming-oc-edition-tuf-rtx5070-o12g-gaming/"
+    },
+    {
+        "short_id": "5612393",
+        "long_id": "383e429d-ceed-11ef-92c6-0050569d5825",
+        "name": "Видеокарта GIGABYTE AMD Radeon 9070 GAMING OC [GV-R9070GAMING OC-16GD] [PCIe 5.0 16 ГБ GDDR6, 256 бит, 3 x DisplayPort, HDMI]",
+        "price": 69999,
+        "link": "https://www.dns-shop.ru/product/383e429dceedd582/videokarta-gigabyte-amd-radeon-9070-gaming-oc-gv-r9070gaming-oc-16gd/"
+    },
+    {
+        "short_id": "5612409",
+        "long_id": "0f22a4da-cef2-11ef-92c6-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5080 VANGUARD SOC [RTX 5080 16G VANGUARD SOC] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 149999,
+        "link": "https://www.dns-shop.ru/product/0f22a4dacef2d582/videokarta-msi-geforce-rtx-5080-vanguard-soc-rtx-5080-16g-vanguard-soc/"
+    },
+    {
+        "short_id": "5620304",
+        "long_id": "28ca29dc-fb12-11ef-92f5-0050569d9cb8",
+        "name": "Видеокарта ASUS AMD Radeon 9070 XT PRIME OC Edition [PRIME-RX9070XT-O16G] [PCIe 5.0 16 ГБ GDDR6, 256 бит, 3 x DisplayPort, HDMI, GPU 2400 МГц]",
+        "price": 75799,
+        "link": "https://www.dns-shop.ru/product/28ca29dcfb12d9cb/videokarta-asus-amd-radeon-9070-xt-prime-oc-edition-prime-rx9070xt-o16g/"
+    },
+    {
+        "short_id": "5421187",
+        "long_id": "81c18b2f-0b23-11ee-9101-00155d8ed20c",
+        "name": "Видеокарта GIGABYTE GeForce RTX 4060 GAMING OC [GV-N4060GAMING OC-8GD] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 2 x DisplayPort, 2 x HDMI, GPU 1830 МГц]",
+        "price": 35999,
+        "link": "https://www.dns-shop.ru/product/81c18b2f0b23ed20/videokarta-gigabyte-geforce-rtx-4060-gaming-oc-gv-n4060gaming-oc-8gd/"
+    },
+    {
+        "short_id": "5470185",
+        "long_id": "26906187-3822-11ef-922a-0050569d9cb8",
+        "name": "Видеокарта MSI Geforce RTX 3050 VENTUS 2X XS [RTX 3050 VENTUS 2X XS 8G] [PCIe 4.0 8 ГБ GDDR6, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1552 МГц]",
+        "price": 21999,
+        "link": "https://www.dns-shop.ru/product/269061873822d9cb/videokarta-msi-geforce-rtx-3050-ventus-2x-xs-rtx-3050-ventus-2x-xs-8g/"
+    },
+    {
+        "short_id": "5626204",
+        "long_id": "f97e23f7-20d5-11f0-931a-0050569d9cb8",
+        "name": "Видеокарта ASUS GeForce RTX 5060 Ti PRIME OC [PRIME-RTX5060TI-O16G] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 61999,
+        "link": "https://www.dns-shop.ru/product/f97e23f720d5d9cb/videokarta-asus-geforce-rtx-5060-ti-prime-oc-prime-rtx5060ti-o16g/"
+    },
+    {
+        "short_id": "5622614",
+        "long_id": "6aa2cde2-060f-11f0-9304-0050569d5825",
+        "name": "Видеокарта Sapphire AMD Radeon RX 9070 XT PURE GAMING OC [11348-02-20G] [PCIe 5.0 16 ГБ GDDR6, 256 бит, 2 x DisplayPort, 2 x HDMI, GPU 2400 МГц]",
+        "price": 84999,
+        "link": "https://www.dns-shop.ru/product/6aa2cde2060fd582/videokarta-sapphire-amd-radeon-rx-9070-xt-pure-gaming-oc-11348-02-20g/"
+    },
+    {
+        "short_id": "5011945",
+        "long_id": "fa9a78b6-83fd-11ec-8f6d-00155d8ed20c",
+        "name": "Видеокарта ASRock AMD Radeon RX 6500 XT Phantom Gaming D OC [RX6500XT PGD 4GO] [PCIe 4.0 4 ГБ GDDR6, 64 бит, DisplayPort, HDMI, GPU 2365 МГц]",
+        "price": 13799,
+        "link": "https://www.dns-shop.ru/product/fa9a78b683fded20/videokarta-asrock-amd-radeon-rx-6500-xt-phantom-gaming-d-oc-rx6500xt-pgd-4go/"
+    },
+    {
+        "short_id": "5616714",
+        "long_id": "b37812da-e77f-11ef-92e5-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5070 Ti GamingPro OC [NE7507TS19T2-GB2031A] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 97799,
+        "link": "https://www.dns-shop.ru/product/b37812dae77fd582/videokarta-palit-geforce-rtx-5070-ti-gamingpro-oc-ne7507ts19t2-gb2031a/"
+    },
+    {
+        "short_id": "4753435",
+        "long_id": "ef42e95e-5af7-11eb-a20f-00155df1b805",
+        "name": "Видеокарта Palit GeForce RTX 3060 Dual (LHR) [NE63060019K9-190AD] [PCIe 4.0 12 ГБ GDDR6, 192 бит, 3 x DisplayPort, HDMI, GPU 1320 МГц]",
+        "price": 29999,
+        "link": "https://www.dns-shop.ru/product/ef42e95e5af71b80/videokarta-palit-geforce-rtx-3060-dual-lhr-ne63060019k9-190ad/"
+    },
+    {
+        "short_id": "5433101",
+        "long_id": "111ef396-5795-11ee-9141-00155d8ed20b",
+        "name": "Видеокарта Sapphire AMD Radeon RX 7700 XT NITRO+ [11335-02] [PCIe 4.0 12 ГБ GDDR6, 192 бит, 2 x DisplayPort, 2 x HDMI]",
+        "price": 51999,
+        "link": "https://www.dns-shop.ru/product/111ef3965795ed20/videokarta-sapphire-amd-radeon-rx-7700-xt-nitro-11335-02/"
+    },
+    {
+        "short_id": "5429270",
+        "long_id": "9b32e83f-3da2-11ee-9128-00155d8ed20b",
+        "name": "Видеокарта ASRock AMD Radeon RX 7600 Challenger OC [RX7600 CL 8GO] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1770 МГц]",
+        "price": 26999,
+        "link": "https://www.dns-shop.ru/product/9b32e83f3da2ed20/videokarta-asrock-amd-radeon-rx-7600-challenger-oc-rx7600-cl-8go/"
+    },
+    {
+        "short_id": "5622616",
+        "long_id": "d55ccb8a-060f-11f0-9304-0050569d5825",
+        "name": "Видеокарта Sapphire AMD Radeon RX 9070 XT PULSE GAMING [11348-03-20G] [PCIe 5.0 16 ГБ GDDR6, 256 бит, 2 x DisplayPort, 2 x HDMI, GPU 2400 МГц]",
+        "price": 76999,
+        "link": "https://www.dns-shop.ru/product/d55ccb8a060fd582/videokarta-sapphire-amd-radeon-rx-9070-xt-pulse-gaming-11348-03-20g/"
+    },
+    {
+        "short_id": "5617110",
+        "long_id": "a31b86f5-eaa8-11ef-92eb-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5070 VANGUARD SOC LAUNCH EDITION [RTX 5070 12G VANGUARD SOC LAUNCH EDITION] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 76499,
+        "link": "https://www.dns-shop.ru/product/a31b86f5eaa8d582/videokarta-msi-geforce-rtx-5070-vanguard-soc-launch-edition-rtx-5070-12g-vanguard-soc-launch-edition/"
+    },
+    {
+        "short_id": "5624890",
+        "long_id": "cb7d8f77-169d-11f0-930f-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5060 GAMING TRIO OC [RTX 5060 8G GAMING TRIO OC] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 39999,
+        "link": "https://www.dns-shop.ru/product/cb7d8f77169dd9cb/videokarta-msi-geforce-rtx-5060-gaming-trio-oc-rtx-5060-8g-gaming-trio-oc/"
+    },
+    {
+        "short_id": "5617118",
+        "long_id": "41d2a571-eaad-11ef-92eb-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5080 SHADOW 3X OC [RTX 5080 16G SHADOW 3X OC] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 126999,
+        "link": "https://www.dns-shop.ru/product/41d2a571eaadd582/videokarta-msi-geforce-rtx-5080-shadow-3x-oc-rtx-5080-16g-shadow-3x-oc/"
+    },
+    {
+        "short_id": "5432674",
+        "long_id": "d10aaa9d-55f0-11ee-9140-00155d8ed20b",
+        "name": "Видеокарта Sapphire AMD Radeon RX 7700 XT PURE [11335-03-20G] [PCIe 4.0 12 ГБ GDDR6, 192 бит, 2 x DisplayPort, 2 x HDMI]",
+        "price": 50999,
+        "link": "https://www.dns-shop.ru/product/d10aaa9d55f0ed20/videokarta-sapphire-amd-radeon-rx-7700-xt-pure-11335-03-20g/"
+    },
+    {
+        "short_id": "5622540",
+        "long_id": "a48b10d2-05f8-11f0-9300-0050569d9cb8",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 Ti WINDFORCE OC [GV-N506TWF2OC-16GD] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 53299,
+        "link": "https://www.dns-shop.ru/product/a48b10d205f8d9cb/videokarta-gigabyte-geforce-rtx-5060-ti-windforce-oc-gv-n506twf2oc-16gd/"
+    },
+    {
+        "short_id": "5619572",
+        "long_id": "377909eb-f813-11ef-92f4-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 3050 WINDFORCE V2 OC [GV-N3050WF2OCV2-6GD] [PCIe 4.0 6 ГБ GDDR6, 96 бит, 2 x DisplayPort, 2 x HDMI, GPU 1042 МГц]",
+        "price": 19699,
+        "link": "https://www.dns-shop.ru/product/377909ebf813d582/videokarta-gigabyte-geforce-rtx-3050-windforce-v2-oc-gv-n3050wf2ocv2-6gd/"
+    },
+    {
+        "short_id": "5622538",
+        "long_id": "2bbebbb1-05f8-11f0-9300-0050569d9cb8",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 Ti GAMING OC [GV-N506TGAMING OC-16GD] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 57299,
+        "link": "https://www.dns-shop.ru/product/2bbebbb105f8d9cb/videokarta-gigabyte-geforce-rtx-5060-ti-gaming-oc-gv-n506tgaming-oc-16gd/"
+    },
+    {
+        "short_id": "5613314",
+        "long_id": "96634eac-d49f-11ef-92c8-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5080 VANGUARD SOC LAUNCH EDITION [RTX 5080 16G VANGUARD SOC LAUNCH EDITION] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 146499,
+        "link": "https://www.dns-shop.ru/product/96634eacd49fd9cb/videokarta-msi-geforce-rtx-5080-vanguard-soc-launch-edition-rtx-5080-16g-vanguard-soc-launch-edition/"
+    },
+    {
+        "short_id": "5617116",
+        "long_id": "cd026c5a-eaac-11ef-92eb-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5080 INSPIRE 3X OC [RTX 5080 16G INSPIRE 3X OC] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 134999,
+        "link": "https://www.dns-shop.ru/product/cd026c5aeaacd582/videokarta-msi-geforce-rtx-5080-inspire-3x-oc-rtx-5080-16g-inspire-3x-oc/"
+    },
+    {
+        "short_id": "5613312",
+        "long_id": "9fdccd56-d49c-11ef-92c8-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5080 VENTUS 3X OC [RTX 5080 16G VENTUS 3X OC] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 124999,
+        "link": "https://www.dns-shop.ru/product/9fdccd56d49cd9cb/videokarta-msi-geforce-rtx-5080-ventus-3x-oc-rtx-5080-16g-ventus-3x-oc/"
+    },
+    {
+        "short_id": "5423691",
+        "long_id": "d77e152b-1e39-11ee-910c-00155d8ed20c",
+        "name": "Видеокарта GIGABYTE AMD Radeon RX 7600 GAMING OC [GV-R76GAMING OC-8GD] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 2 x DisplayPort, 2 x HDMI, GPU 1720 МГц]",
+        "price": 27999,
+        "link": "https://www.dns-shop.ru/product/d77e152b1e39ed20/videokarta-gigabyte-amd-radeon-rx-7600-gaming-oc-gv-r76gaming-oc-8gd/"
+    },
+    {
+        "short_id": "5462672",
+        "long_id": "cd7e7d2d-18a1-11ef-920f-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 4060 GAMING [GeForce RTX 4060 GAMING 8G] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 32999,
+        "link": "https://www.dns-shop.ru/product/cd7e7d2d18a1d582/videokarta-msi-geforce-rtx-4060-gaming-geforce-rtx-4060-gaming-8g/"
+    },
+    {
+        "short_id": "5624227",
+        "long_id": "57a59d66-110a-11f0-930e-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5060 Ti Dual OC [NE7506TT19P1-GB2062D] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 40499,
+        "link": "https://www.dns-shop.ru/product/57a59d66110ad582/videokarta-palit-geforce-rtx-5060-ti-dual-oc-ne7506tt19p1-gb2062d/"
+    },
+    {
+        "short_id": "5613392",
+        "long_id": "a1441ef7-d4b5-11ef-92cb-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5070 Ti AERO OC [GV-N507TAERO OC-16GD] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 109999,
+        "link": "https://www.dns-shop.ru/product/a1441ef7d4b5d582/videokarta-gigabyte-geforce-rtx-5070-ti-aero-oc-gv-n507taero-oc-16gd/"
+    },
+    {
+        "short_id": "5626206",
+        "long_id": "a7c2b65e-20d6-11f0-931a-0050569d9cb8",
+        "name": "Видеокарта ASUS GeForce RTX 5060 Ti DUAL OC [DUAL-RTX5060TI-O16G] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 56999,
+        "link": "https://www.dns-shop.ru/product/a7c2b65e20d6d9cb/videokarta-asus-geforce-rtx-5060-ti-dual-oc-dual-rtx5060ti-o16g/"
+    },
+    {
+        "short_id": "5623713",
+        "long_id": "b4f4ad67-0dd8-11f0-930a-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5090 GAMING TRIO OC [RTX 5090 32G GAMING TRIO OC] [PCIe 5.0 32 ГБ GDDR7, 512 бит, 3 x DisplayPort, HDMI, GPU 2017 МГц]",
+        "price": 329999,
+        "link": "https://www.dns-shop.ru/product/b4f4ad670dd8d582/videokarta-msi-geforce-rtx-5090-gaming-trio-oc-rtx-5090-32g-gaming-trio-oc/"
+    },
+    {
+        "short_id": "5428212",
+        "long_id": "e4615b8a-3686-11ee-9121-00155d8ed20b",
+        "name": "Видеокарта KFA2 GeForce RTX 4060 X Black [46NSL8MD8MEK] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 31999,
+        "link": "https://www.dns-shop.ru/product/e4615b8a3686ed20/videokarta-kfa2-geforce-rtx-4060-x-black-46nsl8md8mek/"
+    },
+    {
+        "short_id": "5438263",
+        "long_id": "661daeba-7e29-11ee-916e-00155d8ed20c",
+        "name": "Видеокарта GIGABYTE GeForce RTX 3050 WINDFORCE OC V2 [GV-N3050WF2OCV2-8GD] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 2 x DisplayPort, 2 x HDMI, GPU 1552 МГц]",
+        "price": 22999,
+        "link": "https://www.dns-shop.ru/product/661daeba7e29ed20/videokarta-gigabyte-geforce-rtx-3050-windforce-oc-v2-gv-n3050wf2ocv2-8gd/"
+    },
+    {
+        "short_id": "5626362",
+        "long_id": "3fbe5e9c-2199-11f0-931f-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 GAMING OC [GV-N5060GAMING OC-8GD] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 37299,
+        "link": "https://www.dns-shop.ru/product/3fbe5e9c2199d582/videokarta-gigabyte-geforce-rtx-5060-gaming-oc-gv-n5060gaming-oc-8gd/"
+    },
+    {
+        "short_id": "5438148",
+        "long_id": "dbfaf324-7d5a-11ee-916d-00155d8ed20c",
+        "name": "Видеокарта Palit GeForce RTX 4060 StormX [NE64060019P1-1070F] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 28999,
+        "link": "https://www.dns-shop.ru/product/dbfaf3247d5aed20/videokarta-palit-geforce-rtx-4060-stormx-ne64060019p1-1070f/"
+    },
+    {
+        "short_id": "5623315",
+        "long_id": "9408daa3-0a1f-11f0-9307-0050569d5825",
+        "name": "Видеокарта KFA2 GeForce RTX 5060 Ti CORE OC [56ISN8MDCQWK] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 42999,
+        "link": "https://www.dns-shop.ru/product/9408daa30a1fd582/videokarta-kfa2-geforce-rtx-5060-ti-core-oc-56isn8mdcqwk/"
+    },
+    {
+        "short_id": "5624225",
+        "long_id": "fb3f2cf3-1109-11f0-930e-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5060 Ti Infinity 3 OC [NE7506TS19P1-GB2062S] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 42999,
+        "link": "https://www.dns-shop.ru/product/fb3f2cf31109d582/videokarta-palit-geforce-rtx-5060-ti-infinity-3-oc-ne7506ts19p1-gb2062s/"
+    },
+    {
+        "short_id": "5404475",
+        "long_id": "f6ddae74-be44-11ed-90b0-00155d8ed20c",
+        "name": "Видеокарта KFA2 GeForce RTX 3050 X White [35NSL8MD5WEK] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1552 МГц]",
+        "price": 22499,
+        "link": "https://www.dns-shop.ru/product/f6ddae74be44ed20/videokarta-kfa2-geforce-rtx-3050-x-white-35nsl8md5wek/"
+    },
+    {
+        "short_id": "5609160",
+        "long_id": "b62e3674-b389-11ef-92ae-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 3050 StormX [NE63050018JE-1072F] [PCIe 4.0 6 ГБ GDDR6, 96 бит, DisplayPort, DVI-D, HDMI, GPU 1042 МГц]",
+        "price": 17999,
+        "link": "https://www.dns-shop.ru/product/b62e3674b389d582/videokarta-palit-geforce-rtx-3050-stormx-ne63050018je-1072f/"
+    },
+    {
+        "short_id": "5624843",
+        "long_id": "08aab7f8-1679-11f0-930f-0050569d9cb8",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 Ti GAMING OC [GV-N506TGAMING OC-8GD] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 45799,
+        "link": "https://www.dns-shop.ru/product/08aab7f81679d9cb/videokarta-gigabyte-geforce-rtx-5060-ti-gaming-oc-gv-n506tgaming-oc-8gd/"
+    },
+    {
+        "short_id": "5630457",
+        "long_id": "417c3b9b-3ba3-11f0-933a-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5060 VENTUS 2X [RTX 5060 8G VENTUS 2X] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 33999,
+        "link": "https://www.dns-shop.ru/product/417c3b9b3ba3d582/videokarta-msi-geforce-rtx-5060-ventus-2x-rtx-5060-8g-ventus-2x/"
+    },
+    {
+        "short_id": "5624333",
+        "long_id": "55ac2e15-136b-11f0-930f-0050569d5825",
+        "name": "Видеокарта ASUS AMD Radeon RX 9070 XT TUF GAMING OC [TUF-RX9070XT-O16G-GAMING] [PCIe 5.0 16 ГБ GDDR6, 256 бит, 3 x DisplayPort, HDMI, GPU 2520 МГц]",
+        "price": 86799,
+        "link": "https://www.dns-shop.ru/product/55ac2e15136bd582/videokarta-asus-amd-radeon-rx-9070-xt-tuf-gaming-oc-tuf-rx9070xt-o16g-gaming/"
+    },
+    {
+        "short_id": "5623617",
+        "long_id": "afce46ed-0b9e-11f0-9309-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 Ti WINDFORCE [GV-N506TWF2-16GD] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 53499,
+        "link": "https://www.dns-shop.ru/product/afce46ed0b9ed582/videokarta-gigabyte-geforce-rtx-5060-ti-windforce-gv-n506twf2-16gd/"
+    },
+    {
+        "short_id": "5438254",
+        "long_id": "ea8529a2-7e19-11ee-916d-00155d8ed20b",
+        "name": "Видеокарта PowerColor AMD Radeon RX 7600 Fighter [RX 7600 8G-F] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1720 МГц]",
+        "price": 25999,
+        "link": "https://www.dns-shop.ru/product/ea8529a27e19ed20/videokarta-powercolor-amd-radeon-rx-7600-fighter-rx-7600-8g-f/"
+    },
+    {
+        "short_id": "5485238",
+        "long_id": "75c7526d-6050-11ef-9258-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 3050 Dual OC V1 [NE63050S18P1-1070D] [PCIe 4.0 8 ГБ GDDR6, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1552 МГц]",
+        "price": 21999,
+        "link": "https://www.dns-shop.ru/product/75c7526d6050d582/videokarta-palit-geforce-rtx-3050-dual-oc-v1-ne63050s18p1-1070d/"
+    },
+    {
+        "short_id": "5620884",
+        "long_id": "9513228f-fef4-11ef-92fc-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5070 Ti WINDFORCE SFF [GV-N507TWF3-16GD] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 91999,
+        "link": "https://www.dns-shop.ru/product/9513228ffef4d582/videokarta-gigabyte-geforce-rtx-5070-ti-windforce-sff-gv-n507twf3-16gd/"
+    },
+    {
+        "short_id": "5623716",
+        "long_id": "e0df57cb-0dd9-11f0-930a-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5090 AORUS MASTER [GV-N5090AORUS M-32GD] [PCIe 5.0 32 ГБ GDDR7, 512 бит, 3 x DisplayPort, HDMI, GPU 2010 МГц]",
+        "price": 379999,
+        "link": "https://www.dns-shop.ru/product/e0df57cb0dd9d582/videokarta-gigabyte-geforce-rtx-5090-aorus-master-gv-n5090aorus-m-32gd/"
+    },
+    {
+        "short_id": "5628547",
+        "long_id": "6f9d99f0-305c-11f0-9328-0050569d9cb8",
+        "name": "Видеокарта Inno3D GeForce RTX 5070 TWIN X2 OC [N50702-12D7X-195064N] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 63999,
+        "link": "https://www.dns-shop.ru/product/6f9d99f0305cd9cb/videokarta-inno3d-geforce-rtx-5070-twin-x2-oc-n50702-12d7x-195064n/"
+    },
+    {
+        "short_id": "5606972",
+        "long_id": "b6af9004-a8b5-11ef-92a4-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 4090 D WINDFORCE [GV-N409DWF3-24GD] [PCIe 4.0 24 ГБ GDDR6X, 384 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 209999,
+        "link": "https://www.dns-shop.ru/product/b6af9004a8b5d582/videokarta-gigabyte-geforce-rtx-4090-d-windforce-gv-n409dwf3-24gd/"
+    },
+    {
+        "short_id": "5428793",
+        "long_id": "13206ee9-3b0a-11ee-9128-00155d8ed20c",
+        "name": "Видеокарта MSI GeForce GTX 1650 D6 VENTUS XS OCV3 [GeForce GTX 1650 D6 VENTUS XS OCV3] [PCIe 3.0 4 ГБ GDDR6, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1485 МГц]",
+        "price": 18299,
+        "link": "https://www.dns-shop.ru/product/13206ee93b0aed20/videokarta-msi-geforce-gtx-1650-d6-ventus-xs-ocv3-geforce-gtx-1650-d6-ventus-xs-ocv3/"
+    },
+    {
+        "short_id": "5613395",
+        "long_id": "198854d2-d4b8-11ef-92cb-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5070 AERO OC [GV-N5070AERO OC-12GD] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 74999,
+        "link": "https://www.dns-shop.ru/product/198854d2d4b8d582/videokarta-gigabyte-geforce-rtx-5070-aero-oc-gv-n5070aero-oc-12gd/"
+    },
+    {
+        "short_id": "5609205",
+        "long_id": "e5289d13-b399-11ef-92ae-0050569d5825",
+        "name": "Видеокарта Sapphire AMD Radeon RX 6500 XT PULSE GAMING OC [11314-07-20G] [PCIe 4.0 4 ГБ GDDR6, 64 бит, DisplayPort, HDMI, GPU 2310 МГц]",
+        "price": 13999,
+        "link": "https://www.dns-shop.ru/product/e5289d13b399d582/videokarta-sapphire-amd-radeon-rx-6500-xt-pulse-gaming-oc-11314-07-20g/"
+    },
+    {
+        "short_id": "5624842",
+        "long_id": "c09963de-1678-11f0-930f-0050569d9cb8",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 Ti AERO OC [GV-N506TAERO OC-8GD] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 46999,
+        "link": "https://www.dns-shop.ru/product/c09963de1678d9cb/videokarta-gigabyte-geforce-rtx-5060-ti-aero-oc-gv-n506taero-oc-8gd/"
+    },
+    {
+        "short_id": "5428725",
+        "long_id": "30020ef9-3a8b-11ee-9127-00155d8ed20c",
+        "name": "Видеокарта ASRock AMD Radeon RX 550 Phantom Gaming [PHANTOM G R RX550 4G] [PCIe 3.0 4 ГБ GDDR5, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1100 МГц]",
+        "price": 9499,
+        "link": "https://www.dns-shop.ru/product/30020ef93a8bed20/videokarta-asrock-amd-radeon-rx-550-phantom-gaming-phantom-g-r-rx550-4g/"
+    },
+    {
+        "short_id": "5613390",
+        "long_id": "c1ae42be-d4b4-11ef-92cb-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5070 Ti EAGLE OC ICE SFF [GV-N507TEAGLE OC-16GD] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 98499,
+        "link": "https://www.dns-shop.ru/product/c1ae42bed4b4d582/videokarta-gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-gv-n507teagle-oc-16gd/"
+    },
+    {
+        "short_id": "5624846",
+        "long_id": "ed02dd51-1679-11f0-930f-0050569d9cb8",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 Ti WINDFORCE OC [GV-N506TWF2OC-8GD] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 38999,
+        "link": "https://www.dns-shop.ru/product/ed02dd511679d9cb/videokarta-gigabyte-geforce-rtx-5060-ti-windforce-oc-gv-n506twf2oc-8gd/"
+    },
+    {
+        "short_id": "5481526",
+        "long_id": "5529b4ab-55eb-11ef-924f-0050569d5825",
+        "name": "Видеокарта Sapphire AMD Radeon RX 6500 XT PULSE OC [11314-08-20G] [PCIe 4.0 8 ГБ GDDR6, 64 бит, DisplayPort, HDMI]",
+        "price": 17999,
+        "link": "https://www.dns-shop.ru/product/5529b4ab55ebd582/videokarta-sapphire-amd-radeon-rx-6500-xt-pulse-oc-11314-08-20g/"
+    },
+    {
+        "short_id": "5091434",
+        "long_id": "30bd04fb-7f63-11ed-906f-00155d8ed20c",
+        "name": "Видеокарта KFA2 GeForce GTX 1650 X Black [65SQL8DS93EK] [PCIe 3.0 4 ГБ GDDR6, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1410 МГц]",
+        "price": 15999,
+        "link": "https://www.dns-shop.ru/product/30bd04fb7f63ed20/videokarta-kfa2-geforce-gtx-1650-x-black-65sql8ds93ek/"
+    },
+    {
+        "short_id": "5447628",
+        "long_id": "5aa55aec-c0e1-11ee-91af-00155d8ed20b",
+        "name": "Видеокарта ASRock AMD Radeon RX 7600 XT Challenger OC [RX7600XT CL 16GO] [PCIe 4.0 16 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1720 МГц]",
+        "price": 34999,
+        "link": "https://www.dns-shop.ru/product/5aa55aecc0e1ed20/videokarta-asrock-amd-radeon-rx-7600-xt-challenger-oc-rx7600xt-cl-16go/"
+    },
+    {
+        "short_id": "5622142",
+        "long_id": "66e2b231-0531-11f0-9302-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5070 Ti INSPIRE 3X OC [RTX 5070 Ti 16G INSPIRE 3X OC] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 99999,
+        "link": "https://www.dns-shop.ru/product/66e2b2310531d582/videokarta-msi-geforce-rtx-5070-ti-inspire-3x-oc-rtx-5070-ti-16g-inspire-3x-oc/"
+    },
+    {
+        "short_id": "5626366",
+        "long_id": "9b8dce38-2199-11f0-931f-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 EAGLE OC [GV-N5060EAGLE OC-8GD] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 32799,
+        "link": "https://www.dns-shop.ru/product/9b8dce382199d582/videokarta-gigabyte-geforce-rtx-5060-eagle-oc-gv-n5060eagle-oc-8gd/"
+    },
+    {
+        "short_id": "5628548",
+        "long_id": "a65b3e00-305c-11f0-9328-0050569d9cb8",
+        "name": "Видеокарта Inno3D GeForce RTX 5070 TWIN X2 [N50702-12D7-195064N] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 62999,
+        "link": "https://www.dns-shop.ru/product/a65b3e00305cd9cb/videokarta-inno3d-geforce-rtx-5070-twin-x2-n50702-12d7-195064n/"
+    },
+    {
+        "short_id": "5629288",
+        "long_id": "824fabbc-3492-11f0-932d-0050569d9cb8",
+        "name": "Видеокарта KFA2 GeForce RTX 5060 ROCK(X) OC WHITE [56NSN8MDDBBK] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 35999,
+        "link": "https://www.dns-shop.ru/product/824fabbc3492d9cb/videokarta-kfa2-geforce-rtx-5060-rockx-oc-white-56nsn8mddbbk/"
+    },
+    {
+        "short_id": "5624876",
+        "long_id": "03fee507-169a-11f0-930f-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5060 Ti GAMING OC [RTX 5060 Ti 8G GAMING OC] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 42999,
+        "link": "https://www.dns-shop.ru/product/03fee507169ad9cb/videokarta-msi-geforce-rtx-5060-ti-gaming-oc-rtx-5060-ti-8g-gaming-oc/"
+    },
+    {
+        "short_id": "5631270",
+        "long_id": "ff94b86d-410d-11f0-933b-0050569d9cb8",
+        "name": "Видеокарта ASUS GeForce RTX 5070 PRIME WHITE OC Edition [PRIME-RTX5070-O12G-WHITE] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 71799,
+        "link": "https://www.dns-shop.ru/product/ff94b86d410dd9cb/videokarta-asus-geforce-rtx-5070-prime-white-oc-edition-prime-rtx5070-o12g-white/"
+    },
+    {
+        "short_id": "5453296",
+        "long_id": "adaa3dcb-e745-11ee-91dc-00155d8ed20b",
+        "name": "Видеокарта MSI Geforce RTX 3050 LP OC [GeForce RTX 3050 LP 6G OC] [PCIe 4.0 6 ГБ GDDR6, 96 бит, 2 x HDMI, DisplayPort, GPU 1042 МГц]",
+        "price": 18999,
+        "link": "https://www.dns-shop.ru/product/adaa3dcbe745ed20/videokarta-msi-geforce-rtx-3050-lp-oc-geforce-rtx-3050-lp-6g-oc/"
+    },
+    {
+        "short_id": "5632852",
+        "long_id": "3908deca-519f-11f0-934e-0050569d5825",
+        "name": "Видеокарта Zotac GeForce RTX 5080 GAMING SOLID CORE OC [ZT-B50800J2-10P] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 139999,
+        "link": "https://www.dns-shop.ru/product/3908deca519fd582/videokarta-zotac-geforce-rtx-5080-gaming-solid-core-oc-zt-b50800j2-10p/"
+    },
+    {
+        "short_id": "5438776",
+        "long_id": "01a447db-82ce-11ee-916e-00155d8ed20b",
+        "name": "Видеокарта INNO3D GeForce RTX 3050 TWIN X2 [N30502-08D6-1711VA41] [PCIe 4.0 8 ГБ GDDR6, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1552 МГц]",
+        "price": 21499,
+        "link": "https://www.dns-shop.ru/product/01a447db82ceed20/videokarta-inno3d-geforce-rtx-3050-twin-x2-n30502-08d6-1711va41/"
+    },
+    {
+        "short_id": "1380233",
+        "long_id": "975c271b-a778-11e9-a20b-00155df1b805",
+        "name": "Видеокарта KFA2 GeForce GT 710 [71GPF4HI00GK] [PCIe 2.0 2 ГБ GDDR3, 64 бит, DVI-D, HDMI, VGA (D-Sub), GPU 954 МГц]",
+        "price": 3999,
+        "link": "https://www.dns-shop.ru/product/975c271ba7781b80/videokarta-kfa2-geforce-gt-710-71gpf4hi00gk/"
+    },
+    {
+        "short_id": "4753434",
+        "long_id": "73c504d5-5af7-11eb-a20f-00155df1b805",
+        "name": "Видеокарта Palit GeForce RTX 3060 Dual OC (LHR) [NE63060T19K9-190AD] [PCIe 4.0 12 ГБ GDDR6, 192 бит, 3 x DisplayPort, HDMI, GPU 1320 МГц]",
+        "price": 31299,
+        "link": "https://www.dns-shop.ru/product/73c504d55af71b80/videokarta-palit-geforce-rtx-3060-dual-oc-lhr-ne63060t19k9-190ad/"
+    },
+    {
+        "short_id": "5631268",
+        "long_id": "ab0254bf-410d-11f0-933b-0050569d9cb8",
+        "name": "Видеокарта ASUS GeForce RTX 5070 DUAL OC Edition [DUAL-RTX5070-O12G] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 66999,
+        "link": "https://www.dns-shop.ru/product/ab0254bf410dd9cb/videokarta-asus-geforce-rtx-5070-dual-oc-edition-dual-rtx5070-o12g/"
+    },
+    {
+        "short_id": "5624329",
+        "long_id": "9e7d1e09-136a-11f0-930f-0050569d5825",
+        "name": "Видеокарта ASUS GeForce RTX 5070 PRIME [PRIME-RTX5070-12G] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 68999,
+        "link": "https://www.dns-shop.ru/product/9e7d1e09136ad582/videokarta-asus-geforce-rtx-5070-prime-prime-rtx5070-12g/"
+    },
+    {
+        "short_id": "5613394",
+        "long_id": "a13b51a7-d4b7-11ef-92cb-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5070 AORUS MASTER [GV-N5070AORUS M-12GD] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 80299,
+        "link": "https://www.dns-shop.ru/product/a13b51a7d4b7d582/videokarta-gigabyte-geforce-rtx-5070-aorus-master-gv-n5070aorus-m-12gd/"
+    },
+    {
+        "short_id": "5624844",
+        "long_id": "43874d6d-1679-11f0-930f-0050569d9cb8",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 Ti EAGLE ICE OC [GV-N506TEAGLE OC-8GD] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 40499,
+        "link": "https://www.dns-shop.ru/product/43874d6d1679d9cb/videokarta-gigabyte-geforce-rtx-5060-ti-eagle-ice-oc-gv-n506teagle-oc-8gd/"
+    },
+    {
+        "short_id": "5628949",
+        "long_id": "75a8a602-3202-11f0-932a-0050569d9cb8",
+        "name": "Видеокарта GIGABYTE AMD Radeon 9060 XT GAMING OC [GV-R9060XTGAMING OC-8GD] [PCIe 5.0 8 ГБ GDDR6, 128 бит, 2 x DisplayPort, HDMI]",
+        "price": 37999,
+        "link": "https://www.dns-shop.ru/product/75a8a6023202d9cb/videokarta-gigabyte-amd-radeon-9060-xt-gaming-oc-gv-r9060xtgaming-oc-8gd/"
+    },
+    {
+        "short_id": "5622566",
+        "long_id": "d383d3c7-05fe-11f0-9304-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5080 GAMING TRIO [RTX 5080 16G GAMING TRIO] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 136999,
+        "link": "https://www.dns-shop.ru/product/d383d3c705fed582/videokarta-msi-geforce-rtx-5080-gaming-trio-rtx-5080-16g-gaming-trio/"
+    },
+    {
+        "short_id": "5460237",
+        "long_id": "7a50a72f-1321-11ef-920b-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 3060 GAMING OC (rev. 2.0) [GV-N3060GAMING OC-8GD 2.0] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 2 x DisplayPort, 2 x HDMI, GPU 1320 МГц]",
+        "price": 27999,
+        "link": "https://www.dns-shop.ru/product/7a50a72f1321d582/videokarta-gigabyte-geforce-rtx-3060-gaming-oc-rev-20-gv-n3060gaming-oc-8gd-20/"
+    },
+    {
+        "short_id": "4862447",
+        "long_id": "5a7b4c6d-0bc3-11ec-a2b0-00155dfc8232",
+        "name": "Видеокарта MSI GeForce 210 [N210-1GD3/LP] [PCIe 2.0 1 ГБ GDDR3, 64 бит, DVI-I, HDMI, VGA (D-Sub), GPU 460 МГц]",
+        "price": 3099,
+        "link": "https://www.dns-shop.ru/product/5a7b4c6d0bc3c823/videokarta-msi-geforce-210-n210-1gd3lp/"
+    },
+    {
+        "short_id": "5629817",
+        "long_id": "1f4bb6e6-37a7-11f0-9337-0050569d5825",
+        "name": "Видеокарта ASUS GeForce RTX 5090 TUF Gaming [TUF-RTX5090-32G-GAMING] [PCIe 5.0 32 ГБ GDDR7, 512 бит, 2 x HDMI, 3 x DisplayPort, GPU 2017 МГц]",
+        "price": 349999,
+        "link": "https://www.dns-shop.ru/product/1f4bb6e637a7d582/videokarta-asus-geforce-rtx-5090-tuf-gaming-tuf-rtx5090-32g-gaming/"
+    },
+    {
+        "short_id": "5628037",
+        "long_id": "3832972b-2afd-11f0-9323-0050569d9cb8",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 OC LP [GV-N5060OC-8GL] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 34999,
+        "link": "https://www.dns-shop.ru/product/3832972b2afdd9cb/videokarta-gigabyte-geforce-rtx-5060-oc-lp-gv-n5060oc-8gl/"
+    },
+    {
+        "short_id": "5626364",
+        "long_id": "6a195509-2199-11f0-931f-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 EAGLE ICE OC [GV-N5060EAGLEOC ICE-8GD] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 35999,
+        "link": "https://www.dns-shop.ru/product/6a1955092199d582/videokarta-gigabyte-geforce-rtx-5060-eagle-ice-oc-gv-n5060eagleoc-ice-8gd/"
+    },
+    {
+        "short_id": "5632850",
+        "long_id": "f22ff0da-519e-11f0-934e-0050569d5825",
+        "name": "Видеокарта Acer Intel Arc B580 NITRO OC [DP.Z4BWW.P01] [PCIe 4.0 12 ГБ GDDR6, 192 бит, 3 x DisplayPort, HDMI, GPU 2670 МГц]",
+        "price": 30999,
+        "link": "https://www.dns-shop.ru/product/f22ff0da519ed582/videokarta-acer-intel-arc-b580-nitro-oc-dpz4bwwp01/"
+    },
+    {
+        "short_id": "5632857",
+        "long_id": "ee87f7c2-519f-11f0-934e-0050569d5825",
+        "name": "Видеокарта Zotac GeForce RTX 5070 GAMING SOLID OC [ZT-B50700J-10P] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 69999,
+        "link": "https://www.dns-shop.ru/product/ee87f7c2519fd582/videokarta-zotac-geforce-rtx-5070-gaming-solid-oc-zt-b50700j-10p/"
+    },
+    {
+        "short_id": "5622539",
+        "long_id": "5dc6e873-05f8-11f0-9300-0050569d9cb8",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 Ti EAGLE OC [GV-N506TEAGLE OC-16GD] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 53999,
+        "link": "https://www.dns-shop.ru/product/5dc6e87305f8d9cb/videokarta-gigabyte-geforce-rtx-5060-ti-eagle-oc-gv-n506teagle-oc-16gd/"
+    },
+    {
+        "short_id": "5629714",
+        "long_id": "3bef3650-377d-11f0-9337-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5090 VANGUARD SOC [RTX 5090 32G VANGUARD SOC] [PCIe 5.0 32 ГБ GDDR7, 512 бит, 3 x DisplayPort, HDMI, GPU 2010 МГц]",
+        "price": 349999,
+        "link": "https://www.dns-shop.ru/product/3bef3650377dd582/videokarta-msi-geforce-rtx-5090-vanguard-soc-rtx-5090-32g-vanguard-soc/"
+    },
+    {
+        "short_id": "5633007",
+        "long_id": "75aab6ce-52f7-11f0-9350-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5050 Dual [NE65050019P1-GB2070D] [PCIe 5.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 2317 МГц]",
+        "price": 27999,
+        "link": "https://www.dns-shop.ru/product/75aab6ce52f7d582/videokarta-palit-geforce-rtx-5050-dual-ne65050019p1-gb2070d/"
+    },
+    {
+        "short_id": "5631273",
+        "long_id": "ec521346-410e-11f0-933b-0050569d9cb8",
+        "name": "Видеокарта ASUS GeForce RTX 5060 Dual OC Edition [DUAL-RTX5060-O8G] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 34999,
+        "link": "https://www.dns-shop.ru/product/ec521346410ed9cb/videokarta-asus-geforce-rtx-5060-dual-oc-edition-dual-rtx5060-o8g/"
+    },
+    {
+        "short_id": "5447903",
+        "long_id": "33399d3f-c3f3-11ee-91b4-00155d8ed20c",
+        "name": "Видеокарта ASUS AMD Radeon RX 7800 XT Dual OC Edition [DUAL-RX7800XT-O16G] [PCIe 4.0 16 ГБ GDDR6, 256 бит, 3 x DisplayPort, HDMI, GPU 1800 МГц]",
+        "price": 59999,
+        "link": "https://www.dns-shop.ru/product/33399d3fc3f3ed20/videokarta-asus-amd-radeon-rx-7800-xt-dual-oc-edition-dual-rx7800xt-o16g/"
+    },
+    {
+        "short_id": "5624042",
+        "long_id": "163bf17f-0f73-11f0-930c-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5090 AORUS XTREME WATERFORCE [GV-N5090AORUSX W-32GD] [PCIe 5.0 32 ГБ GDDR7, 512 бит, 3 x DisplayPort, HDMI, GPU 2017 МГц]",
+        "price": 407999,
+        "link": "https://www.dns-shop.ru/product/163bf17f0f73d582/videokarta-gigabyte-geforce-rtx-5090-aorus-xtreme-waterforce-gv-n5090aorusx-w-32gd/"
+    },
+    {
+        "short_id": "5622549",
+        "long_id": "8d0a5c6b-05fd-11f0-9304-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5060 Ti INSPIRE 2X OC [RTX 5060 Ti 16G INSPIRE 2X OC] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 55299,
+        "link": "https://www.dns-shop.ru/product/8d0a5c6b05fdd582/videokarta-msi-geforce-rtx-5060-ti-inspire-2x-oc-rtx-5060-ti-16g-inspire-2x-oc/"
+    },
+    {
+        "short_id": "5038833",
+        "long_id": "ed507639-d4d9-11ec-8fbc-00155d8ed20c",
+        "name": "Видеокарта Sapphire AMD Radeon RX 6400 PULSE [11315-01-20G] [PCIe 4.0 4 ГБ GDDR6, 64 бит, DisplayPort, HDMI, GPU 1923 МГц]",
+        "price": 12699,
+        "link": "https://www.dns-shop.ru/product/ed507639d4d9ed20/videokarta-sapphire-amd-radeon-rx-6400-pulse-11315-01-20g/"
+    },
+    {
+        "short_id": "5481937",
+        "long_id": "8dacf9c2-5863-11ef-9250-0050569d5825",
+        "name": "Видеокарта ASRock AMD Radeon RX 6500 XT Phantom Gaming [RX6500XT PG 8GO] [PCIe 4.0 8 ГБ GDDR6, 64 бит, DisplayPort, HDMI, GPU 2420 МГц]",
+        "price": 17999,
+        "link": "https://www.dns-shop.ru/product/8dacf9c25863d582/videokarta-asrock-amd-radeon-rx-6500-xt-phantom-gaming-rx6500xt-pg-8go/"
+    },
+    {
+        "short_id": "1091535",
+        "long_id": "debd0785-ad35-11e6-83a6-00155d03330d",
+        "name": "Видеокарта MSI GeForce GT 730 [N730-2GD3V3] [PCIe 2.0 2 ГБ GDDR3, 128 бит, DVI-I, HDMI, VGA (D-Sub), GPU 700 МГц]",
+        "price": 5299,
+        "link": "https://www.dns-shop.ru/product/debd0785ad353330/videokarta-msi-geforce-gt-730-n730-2gd3v3/"
+    },
+    {
+        "short_id": "5446928",
+        "long_id": "a1560975-bc27-11ee-91ad-00155d8ed20c",
+        "name": "Видеокарта MSI GeForce RTX 3050 GAMING X [912-V812-024] [PCIe 4.0 6 ГБ GDDR6, 96 бит, 2 x HDMI, DisplayPort, GPU 1042 МГц]",
+        "price": 19999,
+        "link": "https://www.dns-shop.ru/product/a1560975bc27ed20/videokarta-msi-geforce-rtx-3050-gaming-x-912-v812-024/"
+    },
+    {
+        "short_id": "5623296",
+        "long_id": "d62e245f-0a1a-11f0-9307-0050569d5825",
+        "name": "Видеокарта KFA2 GeForce RTX 5060 Ti ROCK(X) OC [56ISN8MDCSBK] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 41999,
+        "link": "https://www.dns-shop.ru/product/d62e245f0a1ad582/videokarta-kfa2-geforce-rtx-5060-ti-rockx-oc-56isn8mdcsbk/"
+    },
+    {
+        "short_id": "5624845",
+        "long_id": "7ad661ff-1679-11f0-930f-0050569d9cb8",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 Ti EAGLE OC [GV-N506TEAGLE OC-8GD] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 39999,
+        "link": "https://www.dns-shop.ru/product/7ad661ff1679d9cb/videokarta-gigabyte-geforce-rtx-5060-ti-eagle-oc-gv-n506teagle-oc-8gd/"
+    },
+    {
+        "short_id": "5624041",
+        "long_id": "8f0a0c4e-0f72-11f0-930c-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5090 AORUS MASTER ICE [GV-N5090AORUSM ICE-32GD] [PCIe 5.0 32 ГБ GDDR7, 512 бит, 3 x DisplayPort, HDMI, GPU 2010 МГц]",
+        "price": 399999,
+        "link": "https://www.dns-shop.ru/product/8f0a0c4e0f72d582/videokarta-gigabyte-geforce-rtx-5090-aorus-master-ice-gv-n5090aorusm-ice-32gd/"
+    },
+    {
+        "short_id": "5438273",
+        "long_id": "414eeaf4-7e34-11ee-916e-00155d8ed20c",
+        "name": "Видеокарта ASRock AMD Radeon RX 7700 XT Challenger OC [RX7700XT CL 12GO] [PCIe 4.0 12 ГБ GDDR6, 192 бит, 3 x DisplayPort, HDMI, GPU 1900 МГц]",
+        "price": 44999,
+        "link": "https://www.dns-shop.ru/product/414eeaf47e34ed20/videokarta-asrock-amd-radeon-rx-7700-xt-challenger-oc-rx7700xt-cl-12go/"
+    },
+    {
+        "short_id": "5629467",
+        "long_id": "8d7bf15b-35fd-11f0-932f-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5060 GAMING TRIO OC [RTX 5060 8G GAMING TRIO OC WHITE] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 39999,
+        "link": "https://www.dns-shop.ru/product/8d7bf15b35fdd9cb/videokarta-msi-geforce-rtx-5060-gaming-trio-oc-rtx-5060-8g-gaming-trio-oc-white/"
+    },
+    {
+        "short_id": "5631778",
+        "long_id": "ec1d9a62-4664-11f0-9344-0050569d5825",
+        "name": "Видеокарта ASUS AMD Radeon RX 9060 XT PRIME OC [PRIME-RX9060XT-O16G] [PCIe 5.0 16 ГБ GDDR6, 128 бит, 2 x DisplayPort, HDMI]",
+        "price": 47299,
+        "link": "https://www.dns-shop.ru/product/ec1d9a624664d582/videokarta-asus-amd-radeon-rx-9060-xt-prime-oc-prime-rx9060xt-o16g/"
+    },
+    {
+        "short_id": "1115834",
+        "long_id": "6af1cb5a-2890-11e7-ab3b-00155d03330d",
+        "name": "Видеокарта Sapphire AMD Radeon RX 550 PULSE OC [11268-01-20G] [PCIe 3.0 4 ГБ GDDR5, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1100 МГц]",
+        "price": 9999,
+        "link": "https://www.dns-shop.ru/product/6af1cb5a28903330/videokarta-sapphire-amd-radeon-rx-550-pulse-oc-11268-01-20g/"
+    },
+    {
+        "short_id": "5633000",
+        "long_id": "d8f5e41b-52f5-11f0-9350-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5050 VENTUS 2X OC [RTX 5050 8G VENTUS 2X OC] [PCIe 5.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 2317 МГц]",
+        "price": 29999,
+        "link": "https://www.dns-shop.ru/product/d8f5e41b52f5d582/videokarta-msi-geforce-rtx-5050-ventus-2x-oc-rtx-5050-8g-ventus-2x-oc/"
+    },
+    {
+        "short_id": "5631367",
+        "long_id": "3479a489-41cd-11f0-9341-0050569d5825",
+        "name": "Видеокарта Sapphire AMD Radeon RX 9070 PULSE [11349-03-20G] [PCIe 5.0 16 ГБ GDDR6, 256 бит, 2 x DisplayPort, 2 x HDMI]",
+        "price": 66999,
+        "link": "https://www.dns-shop.ru/product/3479a48941cdd582/videokarta-sapphire-amd-radeon-rx-9070-pulse-11349-03-20g/"
+    },
+    {
+        "short_id": "5478128",
+        "long_id": "e73b6c0e-4b29-11ef-9242-0050569d5825",
+        "name": "Видеокарта ASRock AMD Radeon RX 550 Low Profile [RX550 LP 4G] [PCIe 3.0 4 ГБ GDDR5, 128 бит, DisplayPort, HDMI, GPU 1100 МГц]",
+        "price": 8499,
+        "link": "https://www.dns-shop.ru/product/e73b6c0e4b29d582/videokarta-asrock-amd-radeon-rx-550-low-profile-rx550-lp-4g/"
+    },
+    {
+        "short_id": "5438268",
+        "long_id": "b4df3eca-7e2f-11ee-916e-00155d8ed20c",
+        "name": "Видеокарта ASRock Intel Arc A580 Challenger OC [A580 CL 8GO] [PCIe 4.0 8 ГБ GDDR6, 256 бит, 3 x DisplayPort, HDMI, GPU 1700 МГц]",
+        "price": 21999,
+        "link": "https://www.dns-shop.ru/product/b4df3eca7e2fed20/videokarta-asrock-intel-arc-a580-challenger-oc-a580-cl-8go/"
+    },
+    {
+        "short_id": "5626358",
+        "long_id": "e8c7a83e-2198-11f0-931f-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 AORUS ELITE [GV-N5060AORUS E-8GD] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 39999,
+        "link": "https://www.dns-shop.ru/product/e8c7a83e2198d582/videokarta-gigabyte-geforce-rtx-5060-aorus-elite-gv-n5060aorus-e-8gd/"
+    },
+    {
+        "short_id": "5428724",
+        "long_id": "a25108bc-3a89-11ee-9127-00155d8ed20c",
+        "name": "Видеокарта ASRock Intel Arc A310 Low Profile [A310 LP 4G] [PCIe 4.0 4 ГБ GDDR6, 64 бит, DisplayPort, HDMI, GPU 2000 МГц]",
+        "price": 9999,
+        "link": "https://www.dns-shop.ru/product/a25108bc3a89ed20/videokarta-asrock-intel-arc-a310-low-profile-a310-lp-4g/"
+    },
+    {
+        "short_id": "5631275",
+        "long_id": "8ff4c2c5-410f-11f0-933b-0050569d9cb8",
+        "name": "Видеокарта ASUS GeForce RTX 5060 PRIME OC Edition [PRIME-RTX5060-O8G] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 37999,
+        "link": "https://www.dns-shop.ru/product/8ff4c2c5410fd9cb/videokarta-asus-geforce-rtx-5060-prime-oc-edition-prime-rtx5060-o8g/"
+    },
+    {
+        "short_id": "9282856",
+        "long_id": "91e43b38-6840-4507-9656-c218ee4ce075",
+        "name": "Видеокарта Palit GeForce RTX 3050 StormX V1 [NE63050018P1-1070F] [PCIe 4.0 8 ГБ GDDR6, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1552 МГц]",
+        "price": 19999,
+        "link": "https://www.dns-shop.ru/product/91e43b386840ce07/videokarta-palit-geforce-rtx-3050-stormx-v1-ne63050018p1-1070f/"
+    },
+    {
+        "short_id": "5626360",
+        "long_id": "0d6f674c-2199-11f0-931f-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 AERO OC [GV-N5060AERO OC-8GD] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 37999,
+        "link": "https://www.dns-shop.ru/product/0d6f674c2199d582/videokarta-gigabyte-geforce-rtx-5060-aero-oc-gv-n5060aero-oc-8gd/"
+    },
+    {
+        "short_id": "5624040",
+        "long_id": "4c1632db-0f72-11f0-930c-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5090 GAMING OC [GV-N5090GAMING OC-32GD] [PCIe 5.0 32 ГБ GDDR7, 512 бит, 3 x DisplayPort, HDMI, GPU 2010 МГц]",
+        "price": 332999,
+        "link": "https://www.dns-shop.ru/product/4c1632db0f72d582/videokarta-gigabyte-geforce-rtx-5090-gaming-oc-gv-n5090gaming-oc-32gd/"
+    },
+    {
+        "short_id": "5498913",
+        "long_id": "f4d2fb2c-8d2e-11ef-9284-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce GT 1030 [GeForce GT 1030 4GD4 LP OC] [PCIe 3.0 4 ГБ DDR4, 64 бит, DisplayPort, HDMI, GPU 1152 МГц]",
+        "price": 9099,
+        "link": "https://www.dns-shop.ru/product/f4d2fb2c8d2ed9cb/videokarta-msi-geforce-gt-1030-geforce-gt-1030-4gd4-lp-oc/"
+    },
+    {
+        "short_id": "5087514",
+        "long_id": "7fbad683-6ef1-11ed-905e-00155d8ed20b",
+        "name": "Видеокарта KFA2 GeForce GT 730 [73GQF8HX00HK] [PCIe 2.0 4 ГБ DDR3, 128 бит, DVI-I, HDMI, VGA (D-Sub), GPU 700 МГц]",
+        "price": 4699,
+        "link": "https://www.dns-shop.ru/product/7fbad6836ef1ed20/videokarta-kfa2-geforce-gt-730-73gqf8hx00hk/"
+    },
+    {
+        "short_id": "9282858",
+        "long_id": "fa79fe08-9a32-4a12-b182-f6ad96ea28c2",
+        "name": "Видеокарта Palit GeForce RTX 3050 Dual V1 [NE63050018P1-1070D] [PCIe 4.0 8 ГБ GDDR6, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1552 МГц]",
+        "price": 20999,
+        "link": "https://www.dns-shop.ru/product/fa79fe089a32a28c/videokarta-palit-geforce-rtx-3050-dual-v1-ne63050018p1-1070d/"
+    },
+    {
+        "short_id": "1045346",
+        "long_id": "4e2d2342-ce28-11e5-bc54-00155d033307",
+        "name": "Видеокарта MSI GeForce GT 710 Silent LP [GT 710 2GD3H LP] [PCIe 2.0 2 ГБ GDDR3, 64 бит, DVI-D, HDMI, VGA (D-Sub), GPU 954 МГц]",
+        "price": 4499,
+        "link": "https://www.dns-shop.ru/product/4e2d2342ce283330/videokarta-msi-geforce-gt-710-silent-lp-gt-710-2gd3h-lp/"
+    },
+    {
+        "short_id": "5633197",
+        "long_id": "14d7102d-5589-11f0-9351-0050569d5825",
+        "name": "Видеокарта Sapphire AMD Radeon RX 9070 PURE GAMING OC [11349-02-20G] [PCIe 5.0 16 ГБ GDDR6, 256 бит, 2 x DisplayPort, 2 x HDMI, GPU 2070 МГц]",
+        "price": 69999,
+        "link": "https://www.dns-shop.ru/product/14d7102d5589d582/videokarta-sapphire-amd-radeon-rx-9070-pure-gaming-oc-11349-02-20g/"
+    },
+    {
+        "short_id": "5620540",
+        "long_id": "7743a058-fd7d-11ef-92f6-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5070 SHADOW 2X OC [RTX 5070 12G SHADOW 2X OC] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 63999,
+        "link": "https://www.dns-shop.ru/product/7743a058fd7dd9cb/videokarta-msi-geforce-rtx-5070-shadow-2x-oc-rtx-5070-12g-shadow-2x-oc/"
+    },
+    {
+        "short_id": "5632858",
+        "long_id": "3368c72b-51a0-11f0-934e-0050569d5825",
+        "name": "Видеокарта Zotac GeForce RTX 5070 GAMING AMP White Edition [ZT-B50700FQ-10P] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 74999,
+        "link": "https://www.dns-shop.ru/product/3368c72b51a0d582/videokarta-zotac-geforce-rtx-5070-gaming-amp-white-edition-zt-b50700fq-10p/"
+    },
+    {
+        "short_id": "5438258",
+        "long_id": "e63026e9-7e23-11ee-916d-00155d8ed20b",
+        "name": "Видеокарта GIGABYTE GeForce RTX 4060 D6 [GV-N4060D6-8GD] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 2 x DisplayPort, 2 x HDMI, GPU 1830 МГц]",
+        "price": 29999,
+        "link": "https://www.dns-shop.ru/product/e63026e97e23ed20/videokarta-gigabyte-geforce-rtx-4060-d6-gv-n4060d6-8gd/"
+    },
+    {
+        "short_id": "5438278",
+        "long_id": "0f5514ee-7e36-11ee-916d-00155d8ed20b",
+        "name": "Видеокарта ASRock AMD Radeon RX 7800 XT Steel Legend OC [RX7800XT SL 16GO] [PCIe 4.0 16 ГБ GDDR6, 256 бит, 3 x DisplayPort, HDMI]",
+        "price": 57999,
+        "link": "https://www.dns-shop.ru/product/0f5514ee7e36ed20/videokarta-asrock-amd-radeon-rx-7800-xt-steel-legend-oc-rx7800xt-sl-16go/"
+    },
+    {
+        "short_id": "5078709",
+        "long_id": "2acf3ace-4ab7-11ed-9036-00155d8ed20c",
+        "name": "Видеокарта GIGABYTE Intel Arc A310 WINDFORCE [GV-IA310WF2-4GD] [PCIe 4.0 4 ГБ GDDR6, 64 бит, 2 x DisplayPort, 2 x HDMI, GPU 2000 МГц]",
+        "price": 13999,
+        "link": "https://www.dns-shop.ru/product/2acf3ace4ab7ed20/videokarta-gigabyte-intel-arc-a310-windforce-gv-ia310wf2-4gd/"
+    },
+    {
+        "short_id": "9087256",
+        "long_id": "d1b49777-244b-4365-90e3-ed6f0c306d3b",
+        "name": "Видеокарта DEXP GeForce GT 1030 [GT1030 2GD5 LP] [PCIe 3.0 2 ГБ GDDR5, 64 бит, DVI-D, HDMI, GPU 1228 МГц]",
+        "price": 5899,
+        "link": "https://www.dns-shop.ru/product/d1b49777244b06d3/videokarta-dexp-geforce-gt-1030-gt1030-2gd5-lp/"
+    },
+    {
+        "short_id": "5630451",
+        "long_id": "37e82d2b-3ba2-11f0-933a-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5060 GAMING [RTX 5060 8G GAMING] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 35999,
+        "link": "https://www.dns-shop.ru/product/37e82d2b3ba2d582/videokarta-msi-geforce-rtx-5060-gaming-rtx-5060-8g-gaming/"
+    },
+    {
+        "short_id": "5413147",
+        "long_id": "e6230a6f-e4d4-11ed-90d7-00155d8ed20b",
+        "name": "Видеокарта ASRock Radeon RX 6400 Challenger ITX [RX6400 CLI 4G] [PCIe 4.0 4 ГБ GDDR6, 64 бит, DisplayPort, HDMI, GPU 1923 МГц]",
+        "price": 12999,
+        "link": "https://www.dns-shop.ru/product/e6230a6fe4d4ed20/videokarta-asrock-radeon-rx-6400-challenger-itx-rx6400-cli-4g/"
+    },
+    {
+        "short_id": "5460255",
+        "long_id": "6969bac9-1324-11ef-920b-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 3050 WINDFORCE OC [GV-N3050WF2OC-6GD] [PCIe 4.0 6 ГБ GDDR6, 96 бит, 2 x DisplayPort, 2 x HDMI, GPU 1042 МГц]",
+        "price": 19999,
+        "link": "https://www.dns-shop.ru/product/6969bac91324d582/videokarta-gigabyte-geforce-rtx-3050-windforce-oc-gv-n3050wf2oc-6gd/"
+    },
+    {
+        "short_id": "5438266",
+        "long_id": "16dbc611-7e2e-11ee-916e-00155d8ed20c",
+        "name": "Видеокарта ASRock AMD Radeon RX 7600 Steel Legend OC [RX7600 SL 8GO] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1720 МГц]",
+        "price": 29999,
+        "link": "https://www.dns-shop.ru/product/16dbc6117e2eed20/videokarta-asrock-amd-radeon-rx-7600-steel-legend-oc-rx7600-sl-8go/"
+    },
+    {
+        "short_id": "5620383",
+        "long_id": "51e0566a-fb33-11ef-92f9-0050569d5825",
+        "name": "Видеокарта ASUS AMD Radeon 9070 PRIME OC Edition [PRIME-RX9070-O16G] [PCIe 5.0 16 ГБ GDDR6, 256 бит, 3 x DisplayPort, HDMI, GPU 2070 МГц]",
+        "price": 74999,
+        "link": "https://www.dns-shop.ru/product/51e0566afb33d582/videokarta-asus-amd-radeon-9070-prime-oc-edition-prime-rx9070-o16g/"
+    },
+    {
+        "short_id": "4759439",
+        "long_id": "96b1191c-6692-11eb-a218-00155d03332b",
+        "name": "Видеокарта KFA2 GeForce 210 [21GGF4HI00NK] [PCIe 2.0 1 ГБ GDDR3, 64 бит, DVI-I, HDMI, VGA (D-Sub), GPU 520 МГц]",
+        "price": 2999,
+        "link": "https://www.dns-shop.ru/product/96b1191c66923332/videokarta-kfa2-geforce-210-21ggf4hi00nk/"
+    },
+    {
+        "short_id": "5623312",
+        "long_id": "56164f9c-0a1e-11f0-9307-0050569d5825",
+        "name": "Видеокарта KFA2 GeForce RTX 5060 Ti ROCK(X) OC [56ISN8MDCREK] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 39999,
+        "link": "https://www.dns-shop.ru/product/56164f9c0a1ed582/videokarta-kfa2-geforce-rtx-5060-ti-rockx-oc-56isn8mdcrek/"
+    },
+    {
+        "short_id": "5631364",
+        "long_id": "cd4286b8-41cc-11f0-9341-0050569d5825",
+        "name": "Видеокарта Sapphire AMD Radeon 9060 XT PULSE OC [11350-03-20G] [PCIe 5.0 16 ГБ GDDR6, 128 бит, 2 x HDMI, DisplayPort]",
+        "price": 45999,
+        "link": "https://www.dns-shop.ru/product/cd4286b841ccd582/videokarta-sapphire-amd-radeon-9060-xt-pulse-oc-11350-03-20g/"
+    },
+    {
+        "short_id": "5633003",
+        "long_id": "22cf28f8-52f6-11f0-9350-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5050 GAMING OC [RTX 5050 8G GAMING OC] [PCIe 5.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 2317 МГц]",
+        "price": 29199,
+        "link": "https://www.dns-shop.ru/product/22cf28f852f6d582/videokarta-msi-geforce-rtx-5050-gaming-oc-rtx-5050-8g-gaming-oc/"
+    },
+    {
+        "short_id": "5623616",
+        "long_id": "6c8e589c-0b9e-11f0-9309-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 Ti EAGLE ICE OC [GV-N506TEAGLEOC ICE-16GD] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 58999,
+        "link": "https://www.dns-shop.ru/product/6c8e589c0b9ed582/videokarta-gigabyte-geforce-rtx-5060-ti-eagle-ice-oc-gv-n506teagleoc-ice-16gd/"
+    },
+    {
+        "short_id": "5632860",
+        "long_id": "616ab188-51a0-11f0-934e-0050569d5825",
+        "name": "Видеокарта ZOTAC GeForce RTX 5070 Ti GAMING SOLID SFF OC [ZT-B50710J3-10P] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 99999,
+        "link": "https://www.dns-shop.ru/product/616ab18851a0d582/videokarta-zotac-geforce-rtx-5070-ti-gaming-solid-sff-oc-zt-b50710j3-10p/"
+    },
+    {
+        "short_id": "5438385",
+        "long_id": "ef28e3b2-7ec2-11ee-916e-00155d8ed20c",
+        "name": "Видеокарта MSI GeForce RTX 4060 GAMING X MLG [GeForce RTX 4060 GAMING X MLG 8G] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1830 МГц]",
+        "price": 33999,
+        "link": "https://www.dns-shop.ru/product/ef28e3b27ec2ed20/videokarta-msi-geforce-rtx-4060-gaming-x-mlg-geforce-rtx-4060-gaming-x-mlg-8g/"
+    },
+    {
+        "short_id": "5628545",
+        "long_id": "388cb5e8-305c-11f0-9328-0050569d9cb8",
+        "name": "Видеокарта Inno3D GeForce RTX 5070 TWIN X2 OC WHITE [N50702-12D7X-195064W] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 66999,
+        "link": "https://www.dns-shop.ru/product/388cb5e8305cd9cb/videokarta-inno3d-geforce-rtx-5070-twin-x2-oc-white-n50702-12d7x-195064w/"
+    },
+    {
+        "short_id": "5632992",
+        "long_id": "628b5c2d-52f2-11f0-9350-0050569d5825",
+        "name": "Видеокарта ASUS GeForce RTX 5090 ROG Astral LC OC Edition [ROG-ASTRAL-LC-RTX5090-O32G-GAMING] [PCIe 5.0 32 ГБ GDDR7, 512 бит, 2 x HDMI, 3 x DisplayPort, GPU 2017 МГц]",
+        "price": 419999,
+        "link": "https://www.dns-shop.ru/product/628b5c2d52f2d582/videokarta-asus-geforce-rtx-5090-rog-astral-lc-oc-edition-rog-astral-lc-rtx5090-o32g-gaming/"
+    },
+    {
+        "short_id": "5626205",
+        "long_id": "2b15079d-20d6-11f0-931a-0050569d9cb8",
+        "name": "Видеокарта ASUS GeForce RTX 5060 Ti PRIME OC [PRIME-RTX5060TI-O8G] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 45999,
+        "link": "https://www.dns-shop.ru/product/2b15079d20d6d9cb/videokarta-asus-geforce-rtx-5060-ti-prime-oc-prime-rtx5060ti-o8g/"
+    },
+    {
+        "short_id": "5622140",
+        "long_id": "8fe1757e-052f-11f0-92fe-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5070 SHADOW 3X OC [RTX 5070 12G SHADOW 3X OC] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 66999,
+        "link": "https://www.dns-shop.ru/product/8fe1757e052fd9cb/videokarta-msi-geforce-rtx-5070-shadow-3x-oc-rtx-5070-12g-shadow-3x-oc/"
+    },
+    {
+        "short_id": "5628586",
+        "long_id": "0c737ca6-3074-11f0-932d-0050569d5825",
+        "name": "Видеокарта Inno3D GeForce RTX 5060 Ti TWIN X2 [N506T2-16D7-191073N] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 53999,
+        "link": "https://www.dns-shop.ru/product/0c737ca63074d582/videokarta-inno3d-geforce-rtx-5060-ti-twin-x2-n506t2-16d7-191073n/"
+    },
+    {
+        "short_id": "5492582",
+        "long_id": "47e10861-74ae-11ef-9269-0050569d9cb8",
+        "name": "Видеокарта PNY RTX 5000 Ada Generation [VCNRTX5000ADA-SB] [PCIe 4.0 32 ГБ GDDR6, 256 бит, 4 x DisplayPort, GPU 1155 МГц]",
+        "price": 599999,
+        "link": "https://www.dns-shop.ru/product/47e1086174aed9cb/videokarta-pny-rtx-5000-ada-generation-vcnrtx5000ada-sb/"
+    },
+    {
+        "short_id": "5417036",
+        "long_id": "0710aa18-f956-11ed-90ec-00155d8ed20b",
+        "name": "Видеокарта PNY Quadro T1000 [VCNT1000-8GB-SB] [PCIe 3.0 8 ГБ GDDR6, 128 бит, 4 x Mini DisplayPort, GPU 1065 МГц]",
+        "price": 44499,
+        "link": "https://www.dns-shop.ru/product/0710aa18f956ed20/videokarta-pny-quadro-t1000-vcnt1000-8gb-sb/"
+    },
+    {
+        "short_id": "5627332",
+        "long_id": "e568866e-2968-11f0-9321-0050569d9cb8",
+        "name": "Видеокарта ASUS GeForce RTX 5090 TUF Gaming OC Edition [TUF-RTX5090-O32G-GAMING] [PCIe 5.0 32 ГБ GDDR7, 512 бит, 2 x HDMI, 3 x DisplayPort, GPU 2017 МГц]",
+        "price": 359999,
+        "link": "https://www.dns-shop.ru/product/e568866e2968d9cb/videokarta-asus-geforce-rtx-5090-tuf-gaming-oc-edition-tuf-rtx5090-o32g-gaming/"
+    },
+    {
+        "short_id": "5617111",
+        "long_id": "3a152bf6-eaa9-11ef-92eb-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5070 VENTUS 2X WHITE OC [RTX 5070 12G VENTUS 2X OC WHITE] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 61999,
+        "link": "https://www.dns-shop.ru/product/3a152bf6eaa9d582/videokarta-msi-geforce-rtx-5070-ventus-2x-white-oc-rtx-5070-12g-ventus-2x-oc-white/"
+    },
+    {
+        "short_id": "1045337",
+        "long_id": "4e2d233c-ce28-11e5-bc54-00155d033307",
+        "name": "Видеокарта MSI GeForce GT 730 [N730-4GD3V2] [PCIe 2.0 4 ГБ DDR3, 128 бит, DVI-I, HDMI, VGA (D-Sub)]",
+        "price": 6999,
+        "link": "https://www.dns-shop.ru/product/4e2d233cce283330/videokarta-msi-geforce-gt-730-n730-4gd3v2/"
+    },
+    {
+        "short_id": "5007702",
+        "long_id": "68796ff7-78c0-11ec-8f62-00155d8ed20b",
+        "name": "Видеокарта PNY Quadro RTX A5000 [VCNRTXA5000-SB] [PCIe 4.0 24 ГБ GDDR6, 384 бит, 4 x DisplayPort, GPU 1170 МГц]",
+        "price": 269999,
+        "link": "https://www.dns-shop.ru/product/68796ff778c0ed20/videokarta-pny-quadro-rtx-a5000-vcnrtxa5000-sb/"
+    },
+    {
+        "short_id": "5629289",
+        "long_id": "bf805c65-3492-11f0-932d-0050569d9cb8",
+        "name": "Видеокарта KFA2 GeForce RTX 5060 ROCK(X) OC [56NSN8MDDAEK] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 33999,
+        "link": "https://www.dns-shop.ru/product/bf805c653492d9cb/videokarta-kfa2-geforce-rtx-5060-rockx-oc-56nsn8mddaek/"
+    },
+    {
+        "short_id": "5010850",
+        "long_id": "1241851d-8270-11ec-8f6b-00155d8ed20c",
+        "name": "Видеокарта PNY Quadro T1000 [VCNT1000-8GB-PB] [PCIe 3.0 8 ГБ GDDR6, 128 бит, 4 x Mini DisplayPort, GPU 1065 МГц]",
+        "price": 48499,
+        "link": "https://www.dns-shop.ru/product/1241851d8270ed20/videokarta-pny-quadro-t1000-vcnt1000-8gb-pb/"
+    },
+    {
+        "short_id": "1119554",
+        "long_id": "1f48fe4d-3928-11e7-939d-00155d03330d",
+        "name": "Видеокарта GIGABYTE GeForce GT 1030 [GV-N1030D5-2GL] [PCIe 3.0 2 ГБ GDDR5, 64 бит, DVI-D, HDMI, GPU 1227 МГц]",
+        "price": 10199,
+        "link": "https://www.dns-shop.ru/product/1f48fe4d39283330/videokarta-gigabyte-geforce-gt-1030-gv-n1030d5-2gl/"
+    },
+    {
+        "short_id": "1248757",
+        "long_id": "246b8ebd-54e1-11e8-9dc5-00155d03330d",
+        "name": "Видеокарта GIGABYTE GeForce GT 1030 Low Profile D4 2G [GV-N1030D4-2GL] [PCIe 3.0 2 ГБ DDR4, 64 бит, DVI-D, HDMI, GPU 1151 МГц]",
+        "price": 7599,
+        "link": "https://www.dns-shop.ru/product/246b8ebd54e13330/videokarta-gigabyte-geforce-gt-1030-low-profile-d4-2g-gv-n1030d4-2gl/"
+    },
+    {
+        "short_id": "5631452",
+        "long_id": "c9664e01-4271-11f0-9342-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5090 WINDFORCE OC [GV-N5090WF3OC-32GD] [PCIe 5.0 32 ГБ GDDR7, 512 бит, 3 x DisplayPort, HDMI, GPU 2017 МГц]",
+        "price": 309999,
+        "link": "https://www.dns-shop.ru/product/c9664e014271d582/videokarta-gigabyte-geforce-rtx-5090-windforce-oc-gv-n5090wf3oc-32gd/"
+    },
+    {
+        "short_id": "5477993",
+        "long_id": "98a309e5-4b23-11ef-9242-0050569d5825",
+        "name": "Видеокарта ASUS AMD Radeon RX 7600 XT Dual OC [DUAL-RX7600XT-O16G] [PCIe 4.0 16 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1720 МГц]",
+        "price": 36999,
+        "link": "https://www.dns-shop.ru/product/98a309e54b23d582/videokarta-asus-amd-radeon-rx-7600-xt-dual-oc-dual-rx7600xt-o16g/"
+    },
+    {
+        "short_id": "5490145",
+        "long_id": "2d7adabe-6b41-11ef-9263-0050569d5825",
+        "name": "Видеокарта INNO3D GeForce RTX 3050 TWIN X2 OC [N30502-08D6X-1711VA41] [PCIe 4.0 8 ГБ GDDR6, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1552 МГц]",
+        "price": 21999,
+        "link": "https://www.dns-shop.ru/product/2d7adabe6b41d582/videokarta-inno3d-geforce-rtx-3050-twin-x2-oc-n30502-08d6x-1711va41/"
+    },
+    {
+        "short_id": "5449197",
+        "long_id": "1b6877b2-cf05-11ee-91c1-00155d8ed20b",
+        "name": "Видеокарта GIGABYTE GeForce RTX 3050 OC Low Profile [GV-N3050OC-6GL] [PCIe 4.0 6 ГБ GDDR6, 96 бит, 2 x DisplayPort, 2 x HDMI, GPU 1042 МГц]",
+        "price": 23399,
+        "link": "https://www.dns-shop.ru/product/1b6877b2cf05ed20/videokarta-gigabyte-geforce-rtx-3050-oc-low-profile-gv-n3050oc-6gl/"
+    },
+    {
+        "short_id": "5630455",
+        "long_id": "fba73099-3ba2-11f0-933a-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5060 INSPIRE ITX OC [RTX 5060 8G INSPIRE ITX OC] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 31999,
+        "link": "https://www.dns-shop.ru/product/fba730993ba2d582/videokarta-msi-geforce-rtx-5060-inspire-itx-oc-rtx-5060-8g-inspire-itx-oc/"
+    },
+    {
+        "short_id": "5632879",
+        "long_id": "c9a5dbb5-522d-11f0-934f-0050569d5825",
+        "name": "Видеокарта Sapphire AMD Radeon RX 9070 NITRO+ GAMING OC [11349-01-20G] [PCIe 5.0 16 ГБ GDDR6, 256 бит, 2 x DisplayPort, 2 x HDMI, GPU 2210 МГц]",
+        "price": 71999,
+        "link": "https://www.dns-shop.ru/product/c9a5dbb5522dd582/videokarta-sapphire-amd-radeon-rx-9070-nitro-gaming-oc-11349-01-20g/"
+    },
+    {
+        "short_id": "5448386",
+        "long_id": "cc81873b-c65a-11ee-91b6-00155d8ed20b",
+        "name": "Видеокарта Palit GeForce RTX 3050 StormX OC [NE63050S18JE-1070F] [PCIe 4.0 6 ГБ GDDR6, 96 бит, DisplayPort, DVI-D, HDMI, GPU 1042 МГц]",
+        "price": 18999,
+        "link": "https://www.dns-shop.ru/product/cc81873bc65aed20/videokarta-palit-geforce-rtx-3050-stormx-oc-ne63050s18je-1070f/"
+    },
+    {
+        "short_id": "5633006",
+        "long_id": "4acdcade-52f7-11f0-9350-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5050 Dual OC [NE65050S19P1-GB2070D] [PCIe 5.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 2317 МГц]",
+        "price": 28999,
+        "link": "https://www.dns-shop.ru/product/4acdcade52f7d582/videokarta-palit-geforce-rtx-5050-dual-oc-ne65050s19p1-gb2070d/"
+    },
+    {
+        "short_id": "5445793",
+        "long_id": "d154edcc-b66d-11ee-91a8-00155d8ed20c",
+        "name": "Видеокарта GIGABYTE GeForce GT 730 [GV-N730D3-2GI (rev. 3.0)] [PCIe 2.0 2 ГБ DDR3, 64 бит, DVI-D, HDMI, VGA (D-Sub), GPU 902 МГц]",
+        "price": 5499,
+        "link": "https://www.dns-shop.ru/product/d154edccb66ded20/videokarta-gigabyte-geforce-gt-730-gv-n730d3-2gi-rev-30/"
+    },
+    {
+        "short_id": "5447644",
+        "long_id": "3da9edf5-c0f1-11ee-91af-00155d8ed20b",
+        "name": "Видеокарта MSI GeForce RTX 3050 VENTUS 2X OC [912-V812-016] [PCIe 4.0 6 ГБ GDDR6, 96 бит, 2 x HDMI, DisplayPort, GPU 1042 МГц]",
+        "price": 18999,
+        "link": "https://www.dns-shop.ru/product/3da9edf5c0f1ed20/videokarta-msi-geforce-rtx-3050-ventus-2x-oc-912-v812-016/"
+    },
+    {
+        "short_id": "5630463",
+        "long_id": "9a514c4c-3ba4-11f0-933a-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5060 Ti GAMING [RTX 5060 Ti 8G GAMING] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 43999,
+        "link": "https://www.dns-shop.ru/product/9a514c4c3ba4d582/videokarta-msi-geforce-rtx-5060-ti-gaming-rtx-5060-ti-8g-gaming/"
+    },
+    {
+        "short_id": "5628583",
+        "long_id": "35b199b4-3072-11f0-932d-0050569d5825",
+        "name": "Видеокарта Inno3D GeForce RTX 5070 TWIN X3 OC [N50703-12D7X-195064L] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 69999,
+        "link": "https://www.dns-shop.ru/product/35b199b43072d582/videokarta-inno3d-geforce-rtx-5070-twin-x3-oc-n50703-12d7x-195064l/"
+    },
+    {
+        "short_id": "9227581",
+        "long_id": "922d4d30-d116-4712-977a-aae0258cf15d",
+        "name": "Видеокарта Palit GeForce RTX 3050 StormX OC [NE63050S18JE-1072F] [PCIe 4.0 6 ГБ GDDR6, 96 бит, DisplayPort, DVI-D, HDMI, GPU 1042 МГц]",
+        "price": 18999,
+        "link": "https://www.dns-shop.ru/product/922d4d30d116cf15/videokarta-palit-geforce-rtx-3050-stormx-oc-ne63050s18je-1072f/"
+    },
+    {
+        "short_id": "5478508",
+        "long_id": "35c502f6-4d87-11ef-9250-0050569d0a4d",
+        "name": "Видеокарта ASUS GeForce RTX 3050 Dual OC Edition [DUAL-RTX3050-O6G] [PCIe 4.0 6 ГБ GDDR6, 96 бит, DisplayPort, DVI-D, HDMI, GPU 1042 МГц]",
+        "price": 18999,
+        "link": "https://www.dns-shop.ru/product/35c502f64d87d0a4/videokarta-asus-geforce-rtx-3050-dual-oc-edition-dual-rtx3050-o6g/"
+    },
+    {
+        "short_id": "1226682",
+        "long_id": "3b56d77d-21cf-11e8-9dc5-00155d03330d",
+        "name": "Видеокарта ASUS GeForce GT 1030 LP [GT1030-2G-BRK] [PCIe 3.0 2 ГБ GDDR5, 64 бит, DisplayPort, HDMI, GPU 1228 МГц]",
+        "price": 8699,
+        "link": "https://www.dns-shop.ru/product/3b56d77d21cf3330/videokarta-asus-geforce-gt-1030-lp-gt1030-2g-brk/"
+    },
+    {
+        "short_id": "4738864",
+        "long_id": "20c35c5c-32c9-11eb-a20f-00155df1b805",
+        "name": "Видеокарта GIGABYTE GeForce GT 710 LP (rev. 2.0) [GV-N710D3-2GL Rev2.0] [PCIe 2.0 2 ГБ GDDR3, 64 бит, DVI-D, HDMI, VGA (D-Sub), GPU 954 МГц]",
+        "price": 4499,
+        "link": "https://www.dns-shop.ru/product/20c35c5c32c91b80/videokarta-gigabyte-geforce-gt-710-lp-rev-20-gv-n710d3-2gl-rev20/"
+    },
+    {
+        "short_id": "5078706",
+        "long_id": "f4f2133b-4ab5-11ed-9036-00155d8ed20c",
+        "name": "Видеокарта GIGABYTE Intel Arc A380 WINDFORCE OC [GV-IA380WF2OC-6GD] [PCIe 4.0 6 ГБ GDDR6, 96 бит, 2 x DisplayPort, 2 x HDMI, GPU 2000 МГц]",
+        "price": 16999,
+        "link": "https://www.dns-shop.ru/product/f4f2133b4ab5ed20/videokarta-gigabyte-intel-arc-a380-windforce-oc-gv-ia380wf2oc-6gd/"
+    },
+    {
+        "short_id": "5627333",
+        "long_id": "62545707-2969-11f0-9321-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5090 VENTUS 3X OC [RTX 5090 32G VENTUS 3X OC] [PCIe 5.0 32 ГБ GDDR7, 512 бит, 3 x DisplayPort, HDMI, GPU 2017 МГц]",
+        "price": 299999,
+        "link": "https://www.dns-shop.ru/product/625457072969d9cb/videokarta-msi-geforce-rtx-5090-ventus-3x-oc-rtx-5090-32g-ventus-3x-oc/"
+    },
+    {
+        "short_id": "5434430",
+        "long_id": "ba6a1ce9-5e6d-11ee-914d-00155d8ed20b",
+        "name": "Видеокарта ASUS GeForce RTX 3050 Dual V2 OC Edition [DUAL-RTX3050-O8G-V2] [PCIe 4.0 8 ГБ GDDR6, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1552 МГц]",
+        "price": 23699,
+        "link": "https://www.dns-shop.ru/product/ba6a1ce95e6ded20/videokarta-asus-geforce-rtx-3050-dual-v2-oc-edition-dual-rtx3050-o8g-v2/"
+    },
+    {
+        "short_id": "5447634",
+        "long_id": "1e3e6a73-c0ea-11ee-91af-00155d8ed20b",
+        "name": "Видеокарта ASRock Intel Arc A380 Low Profile [A380 LP 6G] [PCIe 4.0 6 ГБ GDDR6, 96 бит, DisplayPort, HDMI, GPU 2000 МГц]",
+        "price": 13999,
+        "link": "https://www.dns-shop.ru/product/1e3e6a73c0eaed20/videokarta-asrock-intel-arc-a380-low-profile-a380-lp-6g/"
+    },
+    {
+        "short_id": "5448387",
+        "long_id": "0a3975e6-c65b-11ee-91b6-00155d8ed20b",
+        "name": "Видеокарта Palit GeForce RTX 3050 KalmX [NE63050018JE-1070H] [PCIe 4.0 6 ГБ GDDR6, 96 бит, DisplayPort, DVI-D, HDMI, GPU 1042 МГц]",
+        "price": 19999,
+        "link": "https://www.dns-shop.ru/product/0a3975e6c65bed20/videokarta-palit-geforce-rtx-3050-kalmx-ne63050018je-1070h/"
+    },
+    {
+        "short_id": "5626208",
+        "long_id": "dffc6485-20d6-11f0-931a-0050569d9cb8",
+        "name": "Видеокарта ASUS GeForce RTX 5060 Ti DUAL OC [DUAL-RTX5060TI-O8G] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 42999,
+        "link": "https://www.dns-shop.ru/product/dffc648520d6d9cb/videokarta-asus-geforce-rtx-5060-ti-dual-oc-dual-rtx5060ti-o8g/"
+    },
+    {
+        "short_id": "5618948",
+        "long_id": "8ebb9f76-f31f-11ef-92ec-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5070 GAMING TRIO [RTX 5070 12G GAMING TRIO OC] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 74799,
+        "link": "https://www.dns-shop.ru/product/8ebb9f76f31fd9cb/videokarta-msi-geforce-rtx-5070-gaming-trio-rtx-5070-12g-gaming-trio-oc/"
+    },
+    {
+        "short_id": "5434046",
+        "long_id": "99911d65-5c3b-11ee-914b-00155d8ed20c",
+        "name": "Видеокарта ASUS AMD Radeon RX 7600 DUAL OC V2 [DUAL-RX7600-O8G-V2] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1720 МГц]",
+        "price": 27999,
+        "link": "https://www.dns-shop.ru/product/99911d655c3bed20/videokarta-asus-amd-radeon-rx-7600-dual-oc-v2-dual-rx7600-o8g-v2/"
+    },
+    {
+        "short_id": "5478136",
+        "long_id": "abb86c06-4b2e-11ef-9242-0050569d5825",
+        "name": "Видеокарта Sapphire AMD Radeon RX 6500 XT ITX PULSE PURE GAMING OC [11314-04-20G] [PCIe 4.0 4 ГБ GDDR6, 64 бит, DisplayPort, HDMI, GPU 2310 МГц]",
+        "price": 13499,
+        "link": "https://www.dns-shop.ru/product/abb86c064b2ed582/videokarta-sapphire-amd-radeon-rx-6500-xt-itx-pulse-pure-gaming-oc-11314-04-20g/"
+    },
+    {
+        "short_id": "5047263",
+        "long_id": "9c3c2d9e-eb9e-11ec-8fd3-00155d8ed20b",
+        "name": "Видеокарта PNY Quadro T400 [VCNT400-4GB-SB] [PCIe 3.0 4 ГБ GDDR6, 64 бит, 3 x Mini DisplayPort, GPU 1070 МГц]",
+        "price": 16999,
+        "link": "https://www.dns-shop.ru/product/9c3c2d9eeb9eed20/videokarta-pny-quadro-t400-vcnt400-4gb-sb/"
+    },
+    {
+        "short_id": "5610475",
+        "long_id": "464b98a1-b90f-11ef-92b0-0050569d9cb8",
+        "name": "Видеокарта ASRock Intel Arc B570 Challenger 10GB OC [B570 CL 10GO] [PCIe 4.0 10 ГБ GDDR6, 160 бит, 3 x DisplayPort, HDMI, GPU 2600 МГц]",
+        "price": 26999,
+        "link": "https://www.dns-shop.ru/product/464b98a1b90fd9cb/videokarta-asrock-intel-arc-b570-challenger-10gb-oc-b570-cl-10go/"
+    },
+    {
+        "short_id": "5635066",
+        "long_id": "fcb0dd3f-65f2-11f0-9360-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5060 Ti VENTUS 2X OC WHITE PLUS [RTX 5060 Ti 8G VENTUS 2X OC WHITE PLUS] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 42999,
+        "link": "https://www.dns-shop.ru/product/fcb0dd3f65f2d582/videokarta-msi-geforce-rtx-5060-ti-ventus-2x-oc-white-plus-rtx-5060-ti-8g-ventus-2x-oc-white-plus/"
+    },
+    {
+        "short_id": "5632861",
+        "long_id": "a31ed292-51a0-11f0-934e-0050569d5825",
+        "name": "Видеокарта Zotac GeForce RTX 3050 GAMING Twin Edge OC [ZT-A30510H-10L] [PCIe 4.0 6 ГБ GDDR6, 96 бит, 3 x DisplayPort, HDMI, GPU 1042 МГц]",
+        "price": 20899,
+        "link": "https://www.dns-shop.ru/product/a31ed29251a0d582/videokarta-zotac-geforce-rtx-3050-gaming-twin-edge-oc-zt-a30510h-10l/"
+    },
+    {
+        "short_id": "1205653",
+        "long_id": "cf0b07e0-e6d5-11e7-a776-00155d03330d",
+        "name": "Видеокарта KFA2 GeForce GT 1030 [30NPH4HVQ4SK] [PCIe 3.0 2 ГБ GDDR5, 64 бит, DVI-D, HDMI, GPU 1227 МГц]",
+        "price": 8499,
+        "link": "https://www.dns-shop.ru/product/cf0b07e0e6d53330/videokarta-kfa2-geforce-gt-1030-30nph4hvq4sk/"
+    },
+    {
+        "short_id": "5634250",
+        "long_id": "9c9da06d-605a-11f0-9357-0050569d9cb8",
+        "name": "Видеокарта NVIDIA RTX 2000 Ada Generation [900-5G192-2240-000] [PCIe 4.0 16 ГБ GDDR6, 128 бит, 4 x Mini DisplayPort, GPU 1620 МГц]",
+        "price": 74999,
+        "link": "https://www.dns-shop.ru/product/9c9da06d605ad9cb/videokarta-nvidia-rtx-2000-ada-generation-900-5g192-2240-000/"
+    },
+    {
+        "short_id": "5634045",
+        "long_id": "8622da86-5df7-11f0-935b-0050569d5825",
+        "name": "Видеокарта ASUS GeForce RTX 5070 Ti ROG Strix GAMING OC [ROG-STRIX-RTX5070TI-O16G-GAMING] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 2 x HDMI, 3 x DisplayPort, GPU 2300 МГц]",
+        "price": 139999,
+        "link": "https://www.dns-shop.ru/product/8622da865df7d582/videokarta-asus-geforce-rtx-5070-ti-rog-strix-gaming-oc-rog-strix-rtx5070ti-o16g-gaming/"
+    },
+    {
+        "short_id": "5634254",
+        "long_id": "c57f6287-605c-11f0-9357-0050569d9cb8",
+        "name": "Видеокарта NVIDIA RTX 4000 Ada Generation [900-5G190-2270-000] [PCIe 4.0 20 ГБ GDDR6, 160 бит, 4 x DisplayPort, GPU 1500 МГц]",
+        "price": 138999,
+        "link": "https://www.dns-shop.ru/product/c57f6287605cd9cb/videokarta-nvidia-rtx-4000-ada-generation-900-5g190-2270-000/"
+    },
+    {
+        "short_id": "5448008",
+        "long_id": "a2112f40-c493-11ee-91b3-00155d8ed20b",
+        "name": "Видеокарта ASUS AMD Radeon RX 7700 XT Dual OC Edition [DUAL-RX7700XT-O12G] [PCIe 4.0 12 ГБ GDDR6, 192 бит, 3 x DisplayPort, HDMI, GPU 1900 МГц]",
+        "price": 49999,
+        "link": "https://www.dns-shop.ru/product/a2112f40c493ed20/videokarta-asus-amd-radeon-rx-7700-xt-dual-oc-edition-dual-rx7700xt-o12g/"
+    },
+    {
+        "short_id": "5005115",
+        "long_id": "3960c0f4-72a3-11ec-8f5c-00155d8ed20c",
+        "name": "Видеокарта PowerColor AMD Radeon RX 6500 XT Fighter [AXRX 6500XT 4GBD6-DH/OC] [PCIe 4.0 4 ГБ GDDR6, 64 бит, DisplayPort, HDMI, GPU 2310 МГц]",
+        "price": 13499,
+        "link": "https://www.dns-shop.ru/product/3960c0f472a3ed20/videokarta-powercolor-amd-radeon-rx-6500-xt-fighter-axrx-6500xt-4gbd6-dhoc/"
+    },
+    {
+        "short_id": "5447624",
+        "long_id": "f8402fd4-c0de-11ee-91af-00155d8ed20b",
+        "name": "Видеокарта Acer AMD Radeon RX 7600 Predator BiFrost OC [DP.Z36WW.P02] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 2320 МГц]",
+        "price": 25999,
+        "link": "https://www.dns-shop.ru/product/f8402fd4c0deed20/videokarta-acer-amd-radeon-rx-7600-predator-bifrost-oc-dpz36wwp02/"
+    },
+    {
+        "short_id": "5628551",
+        "long_id": "8e069a99-305d-11f0-9328-0050569d9cb8",
+        "name": "Видеокарта Inno3D GeForce RTX 5080 X3 OC [N50803-16D7X-17603930] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 126999,
+        "link": "https://www.dns-shop.ru/product/8e069a99305dd9cb/videokarta-inno3d-geforce-rtx-5080-x3-oc-n50803-16d7x-17603930/"
+    },
+    {
+        "short_id": "5636106",
+        "long_id": "6e11ec6c-6cde-11f0-9367-0050569d5825",
+        "name": "Видеокарта INNO3D GeForce RTX 5070 Ti X3 OC [N507T3-16D7X-176068N] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 94999,
+        "link": "https://www.dns-shop.ru/product/6e11ec6c6cded582/videokarta-inno3d-geforce-rtx-5070-ti-x3-oc-n507t3-16d7x-176068n/"
+    },
+    {
+        "short_id": "5634262",
+        "long_id": "675525f5-605f-11f0-935c-0050569d5825",
+        "name": "Видеокарта Zotac GeForce RTX 5070 GAMING Twin Edge OC [ZT-B50700H-10P] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 60999,
+        "link": "https://www.dns-shop.ru/product/675525f5605fd582/videokarta-zotac-geforce-rtx-5070-gaming-twin-edge-oc-zt-b50700h-10p/"
+    },
+    {
+        "short_id": "5078527",
+        "long_id": "e87ba8ad-4a09-11ed-9034-00155d8ed20b",
+        "name": "Видеокарта GIGABYTE Intel Arc A380 GAMING OC [GV-IA380GAMING OC-6GD] [PCIe 4.0 6 ГБ GDDR6, 96 бит, 2 x DisplayPort, 2 x HDMI, GPU 2000 МГц]",
+        "price": 16999,
+        "link": "https://www.dns-shop.ru/product/e87ba8ad4a09ed20/videokarta-gigabyte-intel-arc-a380-gaming-oc-gv-ia380gaming-oc-6gd/"
+    },
+    {
+        "short_id": "1042345",
+        "long_id": "6aae0cda-a22f-11e5-aebf-00155d03361b",
+        "name": "Видеокарта ASUS GeForce GT 730 Silent LP [GT730-SL-2GD5-BRK] [PCIe 2.0 2 ГБ GDDR5, 64 бит, DVI-D, HDMI, VGA (D-Sub), GPU 902 МГц]",
+        "price": 7999,
+        "link": "https://www.dns-shop.ru/product/6aae0cdaa22f3361/videokarta-asus-geforce-gt-730-silent-lp-gt730-sl-2gd5-brk/"
+    },
+    {
+        "short_id": "5444853",
+        "long_id": "c531892e-af9a-11ee-919f-00155d8ed20b",
+        "name": "Видеокарта ASUS GeForce RTX 3050 Phoenix [PH-RTX3050-8G-V2] [PCIe 4.0 8 ГБ GDDR6, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1552 МГц]",
+        "price": 21999,
+        "link": "https://www.dns-shop.ru/product/c531892eaf9aed20/videokarta-asus-geforce-rtx-3050-phoenix-ph-rtx3050-8g-v2/"
+    },
+    {
+        "short_id": "5005190",
+        "long_id": "fcc761c2-72a5-11ec-8f5c-00155d8ed20c",
+        "name": "Видеокарта PowerColor AMD Radeon RX 6500 XT ITX [AXRX 6500XT 4GBD6-DH] [PCIe 4.0 4 ГБ GDDR6, 64 бит, DisplayPort, HDMI, GPU 2310 МГц]",
+        "price": 17399,
+        "link": "https://www.dns-shop.ru/product/fcc761c272a5ed20/videokarta-powercolor-amd-radeon-rx-6500-xt-itx-axrx-6500xt-4gbd6-dh/"
+    },
+    {
+        "short_id": "5635071",
+        "long_id": "423c0c28-65f5-11f0-9360-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5070 Ti GAMING TRIO [RTX 5070 Ti 16G GAMING TRIO] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 106999,
+        "link": "https://www.dns-shop.ru/product/423c0c2865f5d582/videokarta-msi-geforce-rtx-5070-ti-gaming-trio-rtx-5070-ti-16g-gaming-trio/"
+    },
+    {
+        "short_id": "9908212",
+        "long_id": "80ef0946-2e14-4e9b-b0fc-2847813087e0",
+        "name": "Видеокарта Gainward GeForce RTX3060 Ghost [NE63060019K9-190AU] [PCIe 4.0 12 ГБ GDDR6, 192 бит, 3 x DisplayPort, HDMI, GPU 1320 МГц]",
+        "price": 28999,
+        "link": "https://www.dns-shop.ru/product/80ef09462e14087e/videokarta-gainward-geforce-rtx3060-ghost-ne63060019k9-190au/"
+    },
+    {
+        "short_id": "5633386",
+        "long_id": "7b8c1200-5713-11f0-9354-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5060 White OC [NE75060U19P1-GB2063M] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 36999,
+        "link": "https://www.dns-shop.ru/product/7b8c12005713d582/videokarta-palit-geforce-rtx-5060-white-oc-ne75060u19p1-gb2063m/"
+    },
+    {
+        "short_id": "4892621",
+        "long_id": "190508cb-4dae-11ec-8f36-00155d8ed20b",
+        "name": "Видеокарта PNY Quadro RTX A5000 [VCNRTXA5000-PB] [PCIe 4.0 24 ГБ GDDR6, 384 бит, 4 x DisplayPort, GPU 1170 МГц]",
+        "price": 289999,
+        "link": "https://www.dns-shop.ru/product/190508cb4daeed20/videokarta-pny-quadro-rtx-a5000-vcnrtxa5000-pb/"
+    },
+    {
+        "short_id": "4892617",
+        "long_id": "7d2680c2-4dad-11ec-8f36-00155d8ed20b",
+        "name": "Видеокарта PNY Quadro RTX A4000 [VCNRTXA4000-PB] [PCIe 4.0 16 ГБ GDDR6, 256 бит, 4 x DisplayPort, GPU 735 МГц]",
+        "price": 144999,
+        "link": "https://www.dns-shop.ru/product/7d2680c24daded20/videokarta-pny-quadro-rtx-a4000-vcnrtxa4000-pb/"
+    },
+    {
+        "short_id": "5631365",
+        "long_id": "f7756fc5-41cc-11f0-9341-0050569d5825",
+        "name": "Видеокарта Sapphire AMD Radeon 9060 XT PURE OC [11350-02-20G] [PCIe 5.0 16 ГБ GDDR6, 128 бит, 2 x HDMI, DisplayPort]",
+        "price": 47999,
+        "link": "https://www.dns-shop.ru/product/f7756fc541ccd582/videokarta-sapphire-amd-radeon-9060-xt-pure-oc-11350-02-20g/"
+    },
+    {
+        "short_id": "5630453",
+        "long_id": "a8217b12-3ba2-11f0-933a-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5060 GAMING TRIO [RTX 5060 8G GAMING TRIO] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 39999,
+        "link": "https://www.dns-shop.ru/product/a8217b123ba2d582/videokarta-msi-geforce-rtx-5060-gaming-trio-rtx-5060-8g-gaming-trio/"
+    },
+    {
+        "short_id": "9187801",
+        "long_id": "333c2724-41ca-4493-b9c5-f81003d08d39",
+        "name": "Видеокарта ASUS AMD Radeon RX 7600 XT TUF Gaming OC Edition [TUF-RX7600XT-O16G-GAMING] [PCIe 4.0 16 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI]",
+        "price": 41999,
+        "link": "https://www.dns-shop.ru/product/333c272441ca08d3/videokarta-asus-amd-radeon-rx-7600-xt-tuf-gaming-oc-edition-tuf-rx7600xt-o16g-gaming/"
+    },
+    {
+        "short_id": "5628588",
+        "long_id": "af025b14-3074-11f0-932d-0050569d5825",
+        "name": "Видеокарта Inno3D GeForce RTX 5060 Ti TWIN X2 OC WHITE [N506T2-08D7X-193075W] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 44999,
+        "link": "https://www.dns-shop.ru/product/af025b143074d582/videokarta-inno3d-geforce-rtx-5060-ti-twin-x2-oc-white-n506t2-08d7x-193075w/"
+    },
+    {
+        "short_id": "5478132",
+        "long_id": "81842be8-4b2b-11ef-9242-0050569d5825",
+        "name": "Видеокарта ASUS GeForce RTX 3050 LP BRK OC Edition [RTX3050-O6G-LP-BRK] [PCIe 4.0 6 ГБ GDDR6, 96 бит, DisplayPort, DVI-D, HDMI, GPU 1042 МГц]",
+        "price": 20399,
+        "link": "https://www.dns-shop.ru/product/81842be84b2bd582/videokarta-asus-geforce-rtx-3050-lp-brk-oc-edition-rtx3050-o6g-lp-brk/"
+    },
+    {
+        "short_id": "5634260",
+        "long_id": "62858f10-605e-11f0-9357-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5060 Ti INSPIRE 2X [RTX 5060 TI 8G INSPIRE 2X] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 43999,
+        "link": "https://www.dns-shop.ru/product/62858f10605ed9cb/videokarta-msi-geforce-rtx-5060-ti-inspire-2x-rtx-5060-ti-8g-inspire-2x/"
+    },
+    {
+        "short_id": "5637104",
+        "long_id": "5c7aea2c-765a-11f0-936f-0050569d5825",
+        "name": "Видеокарта Zotac GeForce RTX 5060 Ti GAMING Twin Edge OC [ZT-B50610H-10M] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 44299,
+        "link": "https://www.dns-shop.ru/product/5c7aea2c765ad582/videokarta-zotac-geforce-rtx-5060-ti-gaming-twin-edge-oc-zt-b50610h-10m/"
+    },
+    {
+        "short_id": "5637105",
+        "long_id": "a764ae27-765a-11f0-936f-0050569d5825",
+        "name": "Видеокарта Zotac GeForce RTX 5070 GAMING Twin Edge [ZT-B50700E-10P] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2325 МГц]",
+        "price": 59499,
+        "link": "https://www.dns-shop.ru/product/a764ae27765ad582/videokarta-zotac-geforce-rtx-5070-gaming-twin-edge-zt-b50700e-10p/"
+    },
+    {
+        "short_id": "5423695",
+        "long_id": "68eef180-1e43-11ee-910c-00155d8ed20c",
+        "name": "Видеокарта NVIDIA Quadro T1000 [Quadro T1000] [PCIe 3.0 4 ГБ GDDR6, 128 бит, 4 x Mini DisplayPort, GPU 1065 МГц]",
+        "price": 33999,
+        "link": "https://www.dns-shop.ru/product/68eef1801e43ed20/videokarta-nvidia-quadro-t1000-quadro-t1000/"
+    },
+    {
+        "short_id": "1127095",
+        "long_id": "5b4d953c-4feb-11e7-a04b-00155d03330d",
+        "name": "Видеокарта ASUS GeForce GT 1030 Silent LP [GT1030-SL-2G-BRK] [PCIe 3.0 2 ГБ GDDR5, 64 бит, DVI-D, HDMI, GPU 1228 МГц]",
+        "price": 8399,
+        "link": "https://www.dns-shop.ru/product/5b4d953c4feb3330/videokarta-asus-geforce-gt-1030-silent-lp-gt1030-sl-2g-brk/"
+    },
+    {
+        "short_id": "1259725",
+        "long_id": "dffe1d26-6ba0-11e8-9547-00155d03330d",
+        "name": "Видеокарта Palit GeForce GT 1030 [NEC103000646-1082F] [PCIe 3.0 2 ГБ DDR4, 64 бит, DVI-D, HDMI, GPU 1151 МГц]",
+        "price": 8599,
+        "link": "https://www.dns-shop.ru/product/dffe1d266ba03330/videokarta-palit-geforce-gt-1030-nec103000646-1082f/"
+    },
+    {
+        "short_id": "5612395",
+        "long_id": "c79ffa3a-ceed-11ef-92c6-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5080 AORUS MASTER [GV-N5080AORUS M-16GD] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 159999,
+        "link": "https://www.dns-shop.ru/product/c79ffa3aceedd582/videokarta-gigabyte-geforce-rtx-5080-aorus-master-gv-n5080aorus-m-16gd/"
+    },
+    {
+        "short_id": "9169483",
+        "long_id": "555f4801-8a22-46df-9641-4d326fa09121",
+        "name": "Видеокарта NVIDIA Quadro T1000 [900-5G172-2270-000] [PCIe 3.0 8 ГБ GDDR6, 128 бит, 4 x Mini DisplayPort, GPU 1065 МГц]",
+        "price": 41999,
+        "link": "https://www.dns-shop.ru/product/555f48018a220912/videokarta-nvidia-quadro-t1000-900-5g172-2270-000/"
+    },
+    {
+        "short_id": "5448385",
+        "long_id": "92949b78-c65a-11ee-91b6-00155d8ed20b",
+        "name": "Видеокарта Palit GeForce RTX 3050 StormX [NE63050018JE-1070F] [PCIe 4.0 6 ГБ GDDR6, 96 бит, DisplayPort, DVI-D, HDMI, GPU 1042 МГц]",
+        "price": 17999,
+        "link": "https://www.dns-shop.ru/product/92949b78c65aed20/videokarta-palit-geforce-rtx-3050-stormx-ne63050018je-1070f/"
+    },
+    {
+        "short_id": "1130131",
+        "long_id": "183360ad-56ec-11e7-bc9f-00155d03330d",
+        "name": "Видеокарта GIGABYTE GeForce GT 1030 OC [GV-N1030OC-2GI] [PCIe 3.0 2 ГБ GDDR5, 64 бит, DVI-D, HDMI, GPU 1265 МГц]",
+        "price": 10499,
+        "link": "https://www.dns-shop.ru/product/183360ad56ec3330/videokarta-gigabyte-geforce-gt-1030-oc-gv-n1030oc-2gi/"
+    },
+    {
+        "short_id": "5628594",
+        "long_id": "d25e2c8d-3075-11f0-932d-0050569d5825",
+        "name": "Видеокарта Inno3D GeForce RTX 5060 TWIN X2 [N50602-08D7-195071N] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 33999,
+        "link": "https://www.dns-shop.ru/product/d25e2c8d3075d582/videokarta-inno3d-geforce-rtx-5060-twin-x2-n50602-08d7-195071n/"
+    },
+    {
+        "short_id": "5626659",
+        "long_id": "7c621d20-248e-11f0-9321-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5060 Ti INSPIRE 2X OC [RTX 5060 Ti 8G INSPIRE 2X OC] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 44999,
+        "link": "https://www.dns-shop.ru/product/7c621d20248ed582/videokarta-msi-geforce-rtx-5060-ti-inspire-2x-oc-rtx-5060-ti-8g-inspire-2x-oc/"
+    },
+    {
+        "short_id": "4890441",
+        "long_id": "573cc043-48d1-11ec-8f32-00155d8ed20b",
+        "name": "Видеокарта PowerColor AMD Radeon RX 550 Red Dragon LP [AXRX 550 4GBD5-HLE] [PCIe 3.0 4 ГБ GDDR5, 128 бит, DVI-D, HDMI, GPU 1071 МГц]",
+        "price": 8999,
+        "link": "https://www.dns-shop.ru/product/573cc04348d1ed20/videokarta-powercolor-amd-radeon-rx-550-red-dragon-lp-axrx-550-4gbd5-hle/"
+    },
+    {
+        "short_id": "5612401",
+        "long_id": "9aa85814-ceee-11ef-92c6-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5080 WINDFORCE OC SFF [GV-N5080WF3OC-16GD] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 129999,
+        "link": "https://www.dns-shop.ru/product/9aa85814ceeed582/videokarta-gigabyte-geforce-rtx-5080-windforce-oc-sff-gv-n5080wf3oc-16gd/"
+    },
+    {
+        "short_id": "5475858",
+        "long_id": "1cc9d239-4983-11ef-924b-0050569d0a4d",
+        "name": "Видеокарта Zotac GeForce RTX 3050 LP [ZT-A30510L-10L] [PCIe 4.0 6 ГБ GDDR6, 96 бит, DisplayPort, HDMI, GPU 1042 МГц]",
+        "price": 19899,
+        "link": "https://www.dns-shop.ru/product/1cc9d2394983d0a4/videokarta-zotac-geforce-rtx-3050-lp-zt-a30510l-10l/"
+    },
+    {
+        "short_id": "5632492",
+        "long_id": "f426fb1f-4fde-11f0-9347-0050569d9cb8",
+        "name": "Видеокарта KFA2 GeForce RTX 5060 Ti C-series 2FAN LED OC [56ISN8MDABCK] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 38999,
+        "link": "https://www.dns-shop.ru/product/f426fb1f4fded9cb/videokarta-kfa2-geforce-rtx-5060-ti-c-series-2fan-led-oc-56isn8mdabck/"
+    },
+    {
+        "short_id": "5455577",
+        "long_id": "f167651d-f32f-11ee-91ee-0050569d5825",
+        "name": "Видеокарта ZOTAC GeForce GT 1030 LP [ZT-P10300A-10L] [PCIe 3.0 2 ГБ GDDR5, 64 бит, DVI-D, HDMI, GPU 1227 МГц]",
+        "price": 8999,
+        "link": "https://www.dns-shop.ru/product/f167651df32fd582/videokarta-zotac-geforce-gt-1030-lp-zt-p10300a-10l/"
+    },
+    {
+        "short_id": "5496549",
+        "long_id": "3e4051c9-86a5-11ef-927e-0050569d21a3",
+        "name": "Видеокарта Gainward GeForce RTX 3050 Ghost [NE63050018P1-1070B] [PCIe 4.0 8 ГБ GDDR6, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1552 МГц]",
+        "price": 22999,
+        "link": "https://www.dns-shop.ru/product/3e4051c986a5d21a/videokarta-gainward-geforce-rtx-3050-ghost-ne63050018p1-1070b/"
+    },
+    {
+        "short_id": "4892803",
+        "long_id": "48f5e3b9-4dc6-11ec-8f36-00155d8ed20b",
+        "name": "Видеокарта PowerColor AMD Radeon 550 [AXRX 550 2GBD5-HLEV2] [PCIe 3.0 2 ГБ GDDR5, 64 бит, DVI-D, HDMI, GPU 1100 МГц]",
+        "price": 6999,
+        "link": "https://www.dns-shop.ru/product/48f5e3b94dc6ed20/videokarta-powercolor-amd-radeon-550-axrx-550-2gbd5-hlev2/"
+    },
+    {
+        "short_id": "5634847",
+        "long_id": "babf7960-62eb-11f0-9359-0050569d9cb8",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 Ti WINDFORCE MAX OC [GV-N506TWF2MAX OC-16GD] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 56999,
+        "link": "https://www.dns-shop.ru/product/babf796062ebd9cb/videokarta-gigabyte-geforce-rtx-5060-ti-windforce-max-oc-gv-n506twf2max-oc-16gd/"
+    },
+    {
+        "short_id": "5628585",
+        "long_id": "ca3b022d-3073-11f0-932d-0050569d5825",
+        "name": "Видеокарта Inno3D GeForce RTX 5060 Ti TWIN X2 OC [N506T2-16D7X-191073N] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 51299,
+        "link": "https://www.dns-shop.ru/product/ca3b022d3073d582/videokarta-inno3d-geforce-rtx-5060-ti-twin-x2-oc-n506t2-16d7x-191073n/"
+    },
+    {
+        "short_id": "5628591",
+        "long_id": "68b8df5b-3075-11f0-932d-0050569d5825",
+        "name": "Видеокарта Inno3D GeForce RTX 5060 TWIN X2 OC WHITE [N50602-08D7X-195070W] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 36999,
+        "link": "https://www.dns-shop.ru/product/68b8df5b3075d582/videokarta-inno3d-geforce-rtx-5060-twin-x2-oc-white-n50602-08d7x-195070w/"
+    },
+    {
+        "short_id": "5637095",
+        "long_id": "674557d2-764d-11f0-936f-0050569d5825",
+        "name": "Видеокарта Zotac GeForce RTX 5060 GAMING SOLO [ZT-B50600G-10L] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 33999,
+        "link": "https://www.dns-shop.ru/product/674557d2764dd582/videokarta-zotac-geforce-rtx-5060-gaming-solo-zt-b50600g-10l/"
+    },
+    {
+        "short_id": "4847957",
+        "long_id": "793dce89-eb57-11eb-a292-00155dbd7634",
+        "name": "Видеокарта ASUS GeForce RTX 3060 Dual OC Edition (LHR) [DUAL-RTX3060-O12G-V2] [PCIe 4.0 12 ГБ GDDR6, 192 бит, 3 x DisplayPort, HDMI, GPU 1320 МГц]",
+        "price": 31999,
+        "link": "https://www.dns-shop.ru/product/793dce89eb57d763/videokarta-asus-geforce-rtx-3060-dual-oc-edition-lhr-dual-rtx3060-o12g-v2/"
+    },
+    {
+        "short_id": "5447625",
+        "long_id": "4d99f6b7-c0df-11ee-91af-00155d8ed20b",
+        "name": "Видеокарта Acer Intel Arc A750 Predator BiFrost OC [DP.Z35WW.P01] [PCIe 4.0 8 ГБ GDDR6, 256 бит, 3 x DisplayPort, HDMI, GPU 2050 МГц]",
+        "price": 23599,
+        "link": "https://www.dns-shop.ru/product/4d99f6b7c0dfed20/videokarta-acer-intel-arc-a750-predator-bifrost-oc-dpz35wwp01/"
+    },
+    {
+        "short_id": "5636006",
+        "long_id": "73e38728-6b8c-11f0-9360-0050569d9cb8",
+        "name": "Видеокарта INNO3D GeForce RTX 5070 Ti X3 [N507T3-16D7-176068N] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 93999,
+        "link": "https://www.dns-shop.ru/product/73e387286b8cd9cb/videokarta-inno3d-geforce-rtx-5070-ti-x3-n507t3-16d7-176068n/"
+    },
+    {
+        "short_id": "5637106",
+        "long_id": "60605d83-765b-11f0-936f-0050569d5825",
+        "name": "Видеокарта ZOTAC GeForce RTX 5070 Ti GAMING SOLID CORE OC White Edition [ZT-B50710Q2-10P] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 93499,
+        "link": "https://www.dns-shop.ru/product/60605d83765bd582/videokarta-zotac-geforce-rtx-5070-ti-gaming-solid-core-oc-white-edition-zt-b50710q2-10p/"
+    },
+    {
+        "short_id": "5478321",
+        "long_id": "49839855-4d6a-11ef-9242-0050569d9cb8",
+        "name": "Видеокарта PNY RTX 2000 Ada Generation [VCNRTX2000ADA-PB] [PCIe 4.0 16 ГБ GDDR6, 128 бит, 4 x Mini DisplayPort, GPU 1620 МГц]",
+        "price": 88299,
+        "link": "https://www.dns-shop.ru/product/498398554d6ad9cb/videokarta-pny-rtx-2000-ada-generation-vcnrtx2000ada-pb/"
+    },
+    {
+        "short_id": "5441513",
+        "long_id": "8939efe2-93f5-11ee-9182-00155d8ed20b",
+        "name": "Видеокарта PNY Quadro T400 [VCNT400-4GB-PB] [PCIe 3.0 4 ГБ GDDR6, 64 бит, 3 x Mini DisplayPort, GPU 1070 МГц]",
+        "price": 21999,
+        "link": "https://www.dns-shop.ru/product/8939efe293f5ed20/videokarta-pny-quadro-t400-vcnt400-4gb-pb/"
+    },
+    {
+        "short_id": "5634261",
+        "long_id": "fed518de-605e-11f0-935c-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5060 Ti VENTUS 2X PLUS [RTX 5060 Ti 8G VENTUS 2X PLUS] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 39999,
+        "link": "https://www.dns-shop.ru/product/fed518de605ed582/videokarta-msi-geforce-rtx-5060-ti-ventus-2x-plus-rtx-5060-ti-8g-ventus-2x-plus/"
+    },
+    {
+        "short_id": "5633392",
+        "long_id": "0db03517-571c-11f0-9354-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5050 STORMX [NE65050019P1-GB2070F] [PCIe 5.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 2317 МГц]",
+        "price": 26999,
+        "link": "https://www.dns-shop.ru/product/0db03517571cd582/videokarta-palit-geforce-rtx-5050-stormx-ne65050019p1-gb2070f/"
+    },
+    {
+        "short_id": "4897043",
+        "long_id": "30c0da5e-5656-11ec-8f41-00155d8ed20b",
+        "name": "Видеокарта GIGABYTE AMD Radeon RX 6500 XT EAGLE [GV-R65XTEAGLE-4GD] [PCIe 4.0 4 ГБ GDDR6, 64 бит, DisplayPort, HDMI, GPU 2310 МГц]",
+        "price": 15999,
+        "link": "https://www.dns-shop.ru/product/30c0da5e5656ed20/videokarta-gigabyte-amd-radeon-rx-6500-xt-eagle-gv-r65xteagle-4gd/"
+    },
+    {
+        "short_id": "4879013",
+        "long_id": "8c12d3e8-2d96-11ec-8f06-00155d8ed20b",
+        "name": "Видеокарта PowerColor AMD Radeon R7 240 [AXR7 240 2GBD5-HLEV2] [PCIe 3.0 2 ГБ GDDR5, 64 бит, DVI-D, HDMI, GPU 730 МГц]",
+        "price": 5899,
+        "link": "https://www.dns-shop.ru/product/8c12d3e82d96ed20/videokarta-powercolor-amd-radeon-r7-240-axr7-240-2gbd5-hlev2/"
+    },
+    {
+        "short_id": "5423693",
+        "long_id": "8181361d-1e3d-11ee-910c-00155d8ed20c",
+        "name": "Видеокарта NVIDIA Quadro T400 [Quadro T400] [PCIe 3.0 4 ГБ GDDR6, 64 бит, 3 x Mini DisplayPort, GPU 420 МГц]",
+        "price": 19199,
+        "link": "https://www.dns-shop.ru/product/8181361d1e3ded20/videokarta-nvidia-quadro-t400-quadro-t400/"
+    },
+    {
+        "short_id": "5628592",
+        "long_id": "95800eaa-3075-11f0-932d-0050569d5825",
+        "name": "Видеокарта Inno3D GeForce RTX 5060 TWIN X2 OC [N50602-08D7X-195070N] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 34999,
+        "link": "https://www.dns-shop.ru/product/95800eaa3075d582/videokarta-inno3d-geforce-rtx-5060-twin-x2-oc-n50602-08d7x-195070n/"
+    },
+    {
+        "short_id": "5061116",
+        "long_id": "2b4d4ef0-1178-11ed-8ff8-00155d8ed20c",
+        "name": "Видеокарта PNY Quadro T1000 [VCNT1000-SB] [PCIe 3.0 4 ГБ GDDR6, 128 бит, 4 x Mini DisplayPort, GPU 1065 МГц]",
+        "price": 34999,
+        "link": "https://www.dns-shop.ru/product/2b4d4ef01178ed20/videokarta-pny-quadro-t1000-vcnt1000-sb/"
+    },
+    {
+        "short_id": "5633391",
+        "long_id": "d5495e5a-571b-11f0-9354-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5050 STORMX OC [NE65050T19P1-GB2070F] [PCIe 5.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 2317 МГц]",
+        "price": 27999,
+        "link": "https://www.dns-shop.ru/product/d5495e5a571bd582/videokarta-palit-geforce-rtx-5050-stormx-oc-ne65050t19p1-gb2070f/"
+    },
+    {
+        "short_id": "5633223",
+        "long_id": "3ae0671a-5617-11f0-934d-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5050 SHADOW 2X OC [RTX 5050 8G SHADOW 2X OC] [PCIe 5.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 2317 МГц]",
+        "price": 29999,
+        "link": "https://www.dns-shop.ru/product/3ae0671a5617d9cb/videokarta-msi-geforce-rtx-5050-shadow-2x-oc-rtx-5050-8g-shadow-2x-oc/"
+    },
+    {
+        "short_id": "5075637",
+        "long_id": "5edfe773-3d46-11ed-9025-00155d8ed20c",
+        "name": "Видеокарта PowerColor AMD Radeon RX 6400 ITX [AXRX 6400 4GBD6-DH] [PCIe 4.0 4 ГБ GDDR6, 64 бит, DisplayPort, HDMI, GPU 1923 МГц]",
+        "price": 13999,
+        "link": "https://www.dns-shop.ru/product/5edfe7733d46ed20/videokarta-powercolor-amd-radeon-rx-6400-itx-axrx-6400-4gbd6-dh/"
+    },
+    {
+        "short_id": "1127094",
+        "long_id": "3ba578d6-4feb-11e7-a04b-00155d03330d",
+        "name": "Видеокарта ASUS GeForce GT 1030 Phoenix [PH-GT1030-O2G] [PCIe 3.0 2 ГБ GDDR5, 64 бит, DVI-D, HDMI, GPU 1252 МГц]",
+        "price": 10499,
+        "link": "https://www.dns-shop.ru/product/3ba578d64feb3330/videokarta-asus-geforce-gt-1030-phoenix-ph-gt1030-o2g/"
+    },
+    {
+        "short_id": "5478217",
+        "long_id": "c2696389-4d4b-11ef-9250-0050569d0a4d",
+        "name": "Видеокарта Powercolor AMD Radeon RX 7600 Hellhound [RX7600 8G-L/OC] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1720 МГц]",
+        "price": 26999,
+        "link": "https://www.dns-shop.ru/product/c26963894d4bd0a4/videokarta-powercolor-amd-radeon-rx-7600-hellhound-rx7600-8g-loc/"
+    },
+    {
+        "short_id": "5637904",
+        "long_id": "dcc743dd-7d63-11f0-9373-0050569d9cb8",
+        "name": "Видеокарта ASUS AMD Radeon RX 9060 XT TUF GAMING OC [TUF-RX9060XT-O16G-GAMING] [PCIe 5.0 16 ГБ GDDR6, 128 бит, 2 x DisplayPort, HDMI, GPU 2530 МГц]",
+        "price": 51999,
+        "link": "https://www.dns-shop.ru/product/dcc743dd7d63d9cb/videokarta-asus-amd-radeon-rx-9060-xt-tuf-gaming-oc-tuf-rx9060xt-o16g-gaming/"
+    },
+    {
+        "short_id": "5454914",
+        "long_id": "ca8dcd77-f08d-11ee-91eb-0050569d5825",
+        "name": "Видеокарта ZOTAC GeForce RTX 3050 ECO [ZT-A30500K-10M] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1552 МГц]",
+        "price": 23999,
+        "link": "https://www.dns-shop.ru/product/ca8dcd77f08dd582/videokarta-zotac-geforce-rtx-3050-eco-zt-a30500k-10m/"
+    },
+    {
+        "short_id": "5624320",
+        "long_id": "733cbc05-1366-11f0-930f-0050569d5825",
+        "name": "Видеокарта ASUS GeForce GT 710 Silent LP EVO [GT710-SL-2GD5-BRK-EVO] [PCIe 2.0 2 ГБ GDDR5, 64 бит, DVI-D, HDMI, VGA (D-Sub), GPU 954 МГц]",
+        "price": 4899,
+        "link": "https://www.dns-shop.ru/product/733cbc051366d582/videokarta-asus-geforce-gt-710-silent-lp-evo-gt710-sl-2gd5-brk-evo/"
+    },
+    {
+        "short_id": "5635065",
+        "long_id": "a96e0505-65f1-11f0-9360-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5060 Ti SHADOW 2X PLUS [RTX 5060 Ti 8G SHADOW 2X PLUS] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 40999,
+        "link": "https://www.dns-shop.ru/product/a96e050565f1d582/videokarta-msi-geforce-rtx-5060-ti-shadow-2x-plus-rtx-5060-ti-8g-shadow-2x-plus/"
+    },
+    {
+        "short_id": "5637910",
+        "long_id": "88ee089b-7d66-11f0-9373-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5060 Ti 8G SHADOW 2X OC PLUS [RTX 5060 Ti 8G SHADOW 2X OC PLUS] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 41999,
+        "link": "https://www.dns-shop.ru/product/88ee089b7d66d9cb/videokarta-msi-geforce-rtx-5060-ti-8g-shadow-2x-oc-plus-rtx-5060-ti-8g-shadow-2x-oc-plus/"
+    },
+    {
+        "short_id": "5638103",
+        "long_id": "1e4c9439-7e53-11f0-9379-0050569d5825",
+        "name": "Видеокарта KFA2 GeForce RTX 3050 X Black BULK [35NSL8MD6YEK] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1552 МГц]",
+        "price": 19999,
+        "link": "https://www.dns-shop.ru/product/1e4c94397e53d582/videokarta-kfa2-geforce-rtx-3050-x-black-bulk-35nsl8md6yek/"
+    },
+    {
+        "short_id": "5633565",
+        "long_id": "e8a9342d-587f-11f0-9356-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 WINDFORCE MAX OC [GV-N5060WF2MAX OC-8GD] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 34999,
+        "link": "https://www.dns-shop.ru/product/e8a9342d587fd582/videokarta-gigabyte-geforce-rtx-5060-windforce-max-oc-gv-n5060wf2max-oc-8gd/"
+    },
+    {
+        "short_id": "5637096",
+        "long_id": "9117c583-764d-11f0-936f-0050569d5825",
+        "name": "Видеокарта Zotac GeForce RTX 5060 GAMING Twin Edge OC [ZT-B50600H-10M] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 33999,
+        "link": "https://www.dns-shop.ru/product/9117c583764dd582/videokarta-zotac-geforce-rtx-5060-gaming-twin-edge-oc-zt-b50600h-10m/"
+    },
+    {
+        "short_id": "5635062",
+        "long_id": "482ae842-65f0-11f0-9360-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5050 VENTUS 2X [RTX 5050 8G VENTUS 2X] [PCIe 5.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 2317 МГц]",
+        "price": 28199,
+        "link": "https://www.dns-shop.ru/product/482ae84265f0d582/videokarta-msi-geforce-rtx-5050-ventus-2x-rtx-5050-8g-ventus-2x/"
+    },
+    {
+        "short_id": "5478242",
+        "long_id": "1160f947-4d5f-11ef-9242-0050569d9cb8",
+        "name": "Видеокарта PNY RTX A400 [VCNRTXA400-SB] [PCIe 4.0 4 ГБ GDDR6, 64 бит, 4 x Mini DisplayPort, GPU 727 МГц]",
+        "price": 24699,
+        "link": "https://www.dns-shop.ru/product/1160f9474d5fd9cb/videokarta-pny-rtx-a400-vcnrtxa400-sb/"
+    },
+    {
+        "short_id": "9279703",
+        "long_id": "c9129d1d-3794-4eea-b214-f8247b57f376",
+        "name": "Видеокарта AFOX GeForce GT 1030 [AF1030-2048D5L7] [PCIe 3.0 2 ГБ GDDR5, 64 бит, DVI-D, HDMI, GPU 1228 МГц]",
+        "price": 7399,
+        "link": "https://www.dns-shop.ru/product/c9129d1d37947f37/videokarta-afox-geforce-gt-1030-af1030-2048d5l7/"
+    },
+    {
+        "short_id": "5362452",
+        "long_id": "bd31a67f-b5a7-11ec-a28c-00155dd2ff41",
+        "name": "Видеокарта AFOX GeForce GT 740 [AF740-4096D3L3] [PCIe 3.0 GDDR3, DVI-D, HDMI, VGA (D-Sub)]",
+        "price": 5699,
+        "link": "https://www.dns-shop.ru/product/bd31a67fb5a72ff4/videokarta-afox-geforce-gt-740-af740-4096d3l3/"
+    },
+    {
+        "short_id": "1045338",
+        "long_id": "4e2d233d-ce28-11e5-bc54-00155d033307",
+        "name": "Видеокарта MSI GeForce GT 730 Silent LP [N730K-2GD3H/LP] [PCIe 2.0 2 ГБ GDDR3, 64 бит, DVI-D, HDMI, VGA (D-Sub), GPU 902 МГц]",
+        "price": 5399,
+        "link": "https://www.dns-shop.ru/product/4e2d233dce283330/videokarta-msi-geforce-gt-730-silent-lp-n730k-2gd3hlp/"
+    },
+    {
+        "short_id": "5637909",
+        "long_id": "0249b89b-7d66-11f0-9373-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5060 Ti 8G SHADOW 2X OC PLUS [RTX 5060 Ti 16G SHADOW 2X OC PLUS] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 54999,
+        "link": "https://www.dns-shop.ru/product/0249b89b7d66d9cb/videokarta-msi-geforce-rtx-5060-ti-8g-shadow-2x-oc-plus-rtx-5060-ti-16g-shadow-2x-oc-plus/"
+    },
+    {
+        "short_id": "5637911",
+        "long_id": "08a24405-7d68-11f0-9373-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5060 Ti VENTUS 3X [RTX 5060 Ti 8G VENTUS 3X] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 44999,
+        "link": "https://www.dns-shop.ru/product/08a244057d68d9cb/videokarta-msi-geforce-rtx-5060-ti-ventus-3x-rtx-5060-ti-8g-ventus-3x/"
+    },
+    {
+        "short_id": "5635061",
+        "long_id": "1035d0ee-65f0-11f0-9360-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5050 SHADOW 2X [RTX 5050 8G SHADOW 2X] [PCIe 5.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 2317 МГц]",
+        "price": 28999,
+        "link": "https://www.dns-shop.ru/product/1035d0ee65f0d582/videokarta-msi-geforce-rtx-5050-shadow-2x-rtx-5050-8g-shadow-2x/"
+    },
+    {
+        "short_id": "5636432",
+        "long_id": "1473862a-70e9-11f0-936a-0050569d5825",
+        "name": "Видеокарта MAXSUN Intel Arc B580 Milestone [MS-Intel Arc B580 Milestone 12G] [PCIe 4.0 12 ГБ GDDR6, 192 бит, 3 x DisplayPort, HDMI, GPU 2670 МГц]",
+        "price": 28999,
+        "link": "https://www.dns-shop.ru/product/1473862a70e9d582/videokarta-maxsun-intel-arc-b580-milestone-ms-intel-arc-b580-milestone-12g/"
+    },
+    {
+        "short_id": "5029469",
+        "long_id": "1ff2218b-b944-11ec-8fa1-00155d8ed20c",
+        "name": "Видеокарта PNY Tesla T4 [TCST4M-PB] [PCIe 3.0 16 ГБ GDDR6, 256 бит, GPU 585 МГц]",
+        "price": 199999,
+        "link": "https://www.dns-shop.ru/product/1ff2218bb944ed20/videokarta-pny-tesla-t4-tcst4m-pb/"
+    },
+    {
+        "short_id": "5498625",
+        "long_id": "2168aaf4-8c2c-11ef-9286-0050569d5825",
+        "name": "Видеокарта GIGABYTE AMD Radeon PRO W7800 AI TOP [W7800 AI TOP 32G] [PCIe 4.0 32 ГБ GDDR6, 256 бит, 3 x DisplayPort, Mini DisplayPort, GPU 1855 МГц]",
+        "price": 199999,
+        "link": "https://www.dns-shop.ru/product/2168aaf48c2cd582/videokarta-gigabyte-amd-radeon-pro-w7800-ai-top-w7800-ai-top-32g/"
+    },
+    {
+        "short_id": "5633566",
+        "long_id": "2186ff00-5880-11f0-9356-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5050 GAMING OC [GV-N5050GAMING OC-8GD] [PCIe 5.0 8 ГБ GDDR6, 128 бит, 2 x DisplayPort, 2 x HDMI, GPU 2317 МГц]",
+        "price": 32999,
+        "link": "https://www.dns-shop.ru/product/2186ff005880d582/videokarta-gigabyte-geforce-rtx-5050-gaming-oc-gv-n5050gaming-oc-8gd/"
+    },
+    {
+        "short_id": "5637103",
+        "long_id": "26606a95-765a-11f0-936f-0050569d5825",
+        "name": "Видеокарта Zotac GeForce RTX 5060 Ti GAMING AMP [ZT-B50610F-10M] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 40799,
+        "link": "https://www.dns-shop.ru/product/26606a95765ad582/videokarta-zotac-geforce-rtx-5060-ti-gaming-amp-zt-b50610f-10m/"
+    },
+    {
+        "short_id": "5004453",
+        "long_id": "290909ba-71ac-11ec-8f5a-00155d8ed20b",
+        "name": "Видеокарта GIGABYTE GeForce RTX 3050 EAGLE OC [GV-N3050EAGLE OC-8GD] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 2 x DisplayPort, 2 x HDMI, GPU 1552 МГц]",
+        "price": 23999,
+        "link": "https://www.dns-shop.ru/product/290909ba71aced20/videokarta-gigabyte-geforce-rtx-3050-eagle-oc-gv-n3050eagle-oc-8gd/"
+    },
+    {
+        "short_id": "5635074",
+        "long_id": "2c32eac4-65f6-11f0-9360-0050569d5825",
+        "name": "Видеокарта MSI GeForce RTX 5080 SUPRIM OC [RTX 5080 16G SUPRIM OC] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 156999,
+        "link": "https://www.dns-shop.ru/product/2c32eac465f6d582/videokarta-msi-geforce-rtx-5080-suprim-oc-rtx-5080-16g-suprim-oc/"
+    },
+    {
+        "short_id": "5628590",
+        "long_id": "2cbaad27-3075-11f0-932d-0050569d5825",
+        "name": "Видеокарта Inno3D GeForce RTX 5060 Ti TWIN X2 [N506T2-08D7-193075N] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 41999,
+        "link": "https://www.dns-shop.ru/product/2cbaad273075d582/videokarta-inno3d-geforce-rtx-5060-ti-twin-x2-n506t2-08d7-193075n/"
+    },
+    {
+        "short_id": "5618962",
+        "long_id": "3589b31f-f321-11ef-92ec-0050569d9cb8",
+        "name": "Видеокарта PCI-E MSI GeForce RTX 5080 VENTUS 3X 16384MB 256bit GDDR7 [RTX 5080 16G VENTUS 3X] HDMI DP []",
+        "price": 124999,
+        "link": "https://www.dns-shop.ru/product/3589b31ff321d9cb/videokarta-pci-e-msi-geforce-rtx-5080-ventus-3x-16384mb-256bit-gddr7-rtx-5080-16g-ventus-3x-hdmi-dp/"
+    },
+    {
+        "short_id": "5637905",
+        "long_id": "3d3e65c4-7d64-11f0-9373-0050569d9cb8",
+        "name": "Видеокарта ASUS AMD Radeon RX 9060 XT PRIME OC [PRIME-RX9060XT-O8G] [PCIe 5.0 8 ГБ GDDR6, 128 бит, 2 x DisplayPort, HDMI, GPU 2530 МГц]",
+        "price": 40999,
+        "link": "https://www.dns-shop.ru/product/3d3e65c47d64d9cb/videokarta-asus-amd-radeon-rx-9060-xt-prime-oc-prime-rx9060xt-o8g/"
+    },
+    {
+        "short_id": "9155729",
+        "long_id": "4597a055-66ba-4519-8591-cdc20efa32fd",
+        "name": "Видеокарта NVIDIA RTX A400 4GB [900-5G172-2260-000||ATX+LP] [PCIe 4.0 4 ГБ GDDR6, 64 бит, 4 x Mini DisplayPort, GPU 727 МГц]",
+        "price": 19999,
+        "link": "https://www.dns-shop.ru/product/4597a05566baa32f/videokarta-nvidia-rtx-a400-4gb-900-5g172-2260-000atxlp/"
+    },
+    {
+        "short_id": "5637094",
+        "long_id": "487d9ba7-764d-11f0-936f-0050569d5825",
+        "name": "Видеокарта Zotac GeForce RTX 5060 GAMING AMP [ZT-B50600F-10M] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 35999,
+        "link": "https://www.dns-shop.ru/product/487d9ba7764dd582/videokarta-zotac-geforce-rtx-5060-gaming-amp-zt-b50600f-10m/"
+    },
+    {
+        "short_id": "5498627",
+        "long_id": "4a8c100b-8c2e-11ef-9286-0050569d5825",
+        "name": "Видеокарта GIGABYTE AMD Radeon PRO W7900 AI TOP [W7900 AI TOP 48G] [PCIe 4.0 48 ГБ GDDR6, 384 бит, 3 x DisplayPort, Mini DisplayPort, GPU 1855 МГц]",
+        "price": 369999,
+        "link": "https://www.dns-shop.ru/product/4a8c100b8c2ed582/videokarta-gigabyte-amd-radeon-pro-w7900-ai-top-w7900-ai-top-48g/"
+    },
+    {
+        "short_id": "5017175",
+        "long_id": "53f1f0f7-92b3-11ec-8f7a-00155d8ed20b",
+        "name": "Видеокарта PNY Tesla A2 [TCSA2M-PB] [PCIe 4.0 16 ГБ GDDR6, 128 бит, GPU 1440 МГц]",
+        "price": 151999,
+        "link": "https://www.dns-shop.ru/product/53f1f0f792b3ed20/videokarta-pny-tesla-a2-tcsa2m-pb/"
+    },
+    {
+        "short_id": "5637912",
+        "long_id": "54c120ab-7d68-11f0-9373-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5070 SHADOW 2X [RTX 5070 12G SHADOW 2X] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 60999,
+        "link": "https://www.dns-shop.ru/product/54c120ab7d68d9cb/videokarta-msi-geforce-rtx-5070-shadow-2x-rtx-5070-12g-shadow-2x/"
+    },
+    {
+        "short_id": "5633567",
+        "long_id": "5e1790b4-5880-11f0-9356-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5050 WINDFORCE OC [GV-N5050WF2OC-8GD] [PCIe 5.0 8 ГБ GDDR6, 128 бит, 2 x DisplayPort, 2 x HDMI, GPU 2317 МГц]",
+        "price": 30999,
+        "link": "https://www.dns-shop.ru/product/5e1790b45880d582/videokarta-gigabyte-geforce-rtx-5050-windforce-oc-gv-n5050wf2oc-8gd/"
+    },
+    {
+        "short_id": "5628587",
+        "long_id": "7888b43c-3074-11f0-932d-0050569d5825",
+        "name": "Видеокарта Inno3D GeForce RTX 5060 Ti X3 OC [N506T3-08D7X-193075L] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 44799,
+        "link": "https://www.dns-shop.ru/product/7888b43c3074d582/videokarta-inno3d-geforce-rtx-5060-ti-x3-oc-n506t3-08d7x-193075l/"
+    },
+    {
+        "short_id": "5637906",
+        "long_id": "7d5e78c0-7d64-11f0-9373-0050569d9cb8",
+        "name": "Видеокарта ASUS Radeon RX 9060 XT Dual [DUAL-RX9060XT-8G] [PCIe 5.0 8 ГБ GDDR6, 128 бит, 2 x DisplayPort, HDMI, GPU 2530 МГц]",
+        "price": 37999,
+        "link": "https://www.dns-shop.ru/product/7d5e78c07d64d9cb/videokarta-asus-radeon-rx-9060-xt-dual-dual-rx9060xt-8g/"
+    },
+    {
+        "short_id": "5626656",
+        "long_id": "84837191-248d-11f0-9321-0050569d5825",
+        "name": "Видеокарта Gainward GeForce RTX 5060 Ti Ghost [NE7506T019P1-GB2062B] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 43999,
+        "link": "https://www.dns-shop.ru/product/84837191248dd582/videokarta-gainward-geforce-rtx-5060-ti-ghost-ne7506t019p1-gb2062b/"
+    },
+    {
+        "short_id": "5631211",
+        "long_id": "84d61789-40e9-11f0-933b-0050569d9cb8",
+        "name": "Видеокарта KFA2 GeForce RTX 5080 ROCK(X) 3FAN RGB WHITE [58NZN6MDBZWK] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 134999,
+        "link": "https://www.dns-shop.ru/product/84d6178940e9d9cb/videokarta-kfa2-geforce-rtx-5080-rockx-3fan-rgb-white-58nzn6mdbzwk/"
+    },
+    {
+        "short_id": "5637908",
+        "long_id": "8d444ea4-7d65-11f0-9373-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5060 Ti INSPIRE 2X [RTX 5060 Ti 16G INSPIRE 2X] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 54999,
+        "link": "https://www.dns-shop.ru/product/8d444ea47d65d9cb/videokarta-msi-geforce-rtx-5060-ti-inspire-2x-rtx-5060-ti-16g-inspire-2x/"
+    },
+    {
+        "short_id": "5633568",
+        "long_id": "93efa549-5880-11f0-9356-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5050 LP OC [GV-N5050OC-8GL] [PCIe 5.0 8 ГБ GDDR6, 128 бит, 2 x DisplayPort, 2 x HDMI, GPU 2317 МГц]",
+        "price": 29999,
+        "link": "https://www.dns-shop.ru/product/93efa5495880d582/videokarta-gigabyte-geforce-rtx-5050-lp-oc-gv-n5050oc-8gl/"
+    },
+    {
+        "short_id": "5633564",
+        "long_id": "97c26c8d-587f-11f0-9356-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 EAGLE MAX OC [GV-N5060EAGLEMAX OC-8GD] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 36999,
+        "link": "https://www.dns-shop.ru/product/97c26c8d587fd582/videokarta-gigabyte-geforce-rtx-5060-eagle-max-oc-gv-n5060eaglemax-oc-8gd/"
+    },
+    {
+        "short_id": "5637914",
+        "long_id": "9b567dd0-7d68-11f0-9373-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5070 VENTUS 2X [RTX 5070 12G VENTUS 2X] [PCIe 5.0 12 ГБ GDDR7, 192 бит, 3 x DisplayPort, HDMI, GPU 2330 МГц]",
+        "price": 61999,
+        "link": "https://www.dns-shop.ru/product/9b567dd07d68d9cb/videokarta-msi-geforce-rtx-5070-ventus-2x-rtx-5070-12g-ventus-2x/"
+    },
+    {
+        "short_id": "5492583",
+        "long_id": "a552a487-74ae-11ef-9269-0050569d9cb8",
+        "name": "Видеокарта PNY RTX 5000 Ada Generation [VCNRTX5000ADA-PB] [PCIe 4.0 32 ГБ GDDR6, 256 бит, 4 x DisplayPort, GPU 1155 МГц]",
+        "price": 599999,
+        "link": "https://www.dns-shop.ru/product/a552a48774aed9cb/videokarta-pny-rtx-5000-ada-generation-vcnrtx5000ada-pb/"
+    },
+    {
+        "short_id": "5635110",
+        "long_id": "a8a3275a-6603-11f0-935b-0050569d9cb8",
+        "name": "Видеокарта Sapphire AMD Radeon RX 9060 XT NITRO+ GAMING OC [11350-01-20G] [PCIe 5.0 16 ГБ GDDR6, 128 бит, 2 x HDMI, DisplayPort, GPU 2780 МГц]",
+        "price": 49999,
+        "link": "https://www.dns-shop.ru/product/a8a3275a6603d9cb/videokarta-sapphire-amd-radeon-rx-9060-xt-nitro-gaming-oc-11350-01-20g/"
+    },
+    {
+        "short_id": "5634975",
+        "long_id": "b157612d-6388-11f0-935f-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 Ti EAGLE MAX OC [GV-N506TEAGLEMAX OC-16GD] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 58299,
+        "link": "https://www.dns-shop.ru/product/b157612d6388d582/videokarta-gigabyte-geforce-rtx-5060-ti-eagle-max-oc-gv-n506teaglemax-oc-16gd/"
+    },
+    {
+        "short_id": "5014412",
+        "long_id": "b3f658c5-8b04-11ec-8f72-00155d8ed209",
+        "name": "Видеокарта MSI GeForce RTX 3050 GAMING X [RTX 3050 GAMING X 8G] [PCIe 4.0 8 ГБ GDDR6, 128 бит, 3 x DisplayPort, HDMI, GPU 1552 МГц]",
+        "price": 24999,
+        "link": "https://www.dns-shop.ru/product/b3f658c58b04ed20/videokarta-msi-geforce-rtx-3050-gaming-x-rtx-3050-gaming-x-8g/"
+    },
+    {
+        "short_id": "9924897",
+        "long_id": "b5779da7-0bea-4913-930b-a6ac147f169c",
+        "name": "Графический адаптер Matrox Mura MPX-4/0 [MURA-MPX40HF] [PCIe 2.0 2 ГБ, KX-20]",
+        "price": 139999,
+        "link": "https://www.dns-shop.ru/product/b5779da70beaf169/graficeskij-adapter-matrox-mura-mpx-40-mura-mpx40hf/"
+    },
+    {
+        "short_id": "5636987",
+        "long_id": "b6eef009-73fe-11f0-936e-0050569d5825",
+        "name": "Видеокарта GIGABYTE GeForce RTX 5060 Ti WINDFORCE MAX OC [GV-N506TWF2MAX OC-8GD] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 42999,
+        "link": "https://www.dns-shop.ru/product/b6eef00973fed582/videokarta-gigabyte-geforce-rtx-5060-ti-windforce-max-oc-gv-n506twf2max-oc-8gd/"
+    },
+    {
+        "short_id": "5475848",
+        "long_id": "c073a0b2-497a-11ef-923d-0050569d9cb8",
+        "name": "Видеокарта Gainward GeForce RTX 3050 Pegasus OC [NE63050S18JE-1070E] [PCIe 4.0 6 ГБ GDDR6, 96 бит, DisplayPort, DVI-D, HDMI, GPU 1042 МГц]",
+        "price": 19999,
+        "link": "https://www.dns-shop.ru/product/c073a0b2497ad9cb/videokarta-gainward-geforce-rtx-3050-pegasus-oc-ne63050s18je-1070e/"
+    },
+    {
+        "short_id": "5460261",
+        "long_id": "cb40d6cb-1324-11ef-920b-0050569d5825",
+        "name": "Видеокарта Gainward GeForce RTX 3050 Pegasus [NE63050018JE-1070E] [PCIe 4.0 6 ГБ GDDR6, 96 бит, DisplayPort, DVI-D, HDMI, GPU 1042 МГц]",
+        "price": 18999,
+        "link": "https://www.dns-shop.ru/product/cb40d6cb1324d582/videokarta-gainward-geforce-rtx-3050-pegasus-ne63050018je-1070e/"
+    },
+    {
+        "short_id": "5423696",
+        "long_id": "cb6a93c0-1e44-11ee-910c-00155d8ed20c",
+        "name": "Видеокарта NVIDIA Quadro T1000 [Quadro T1000 8GB] [PCIe 3.0 8 ГБ GDDR6, 128 бит, 4 x Mini DisplayPort, GPU 1065 МГц]",
+        "price": 49999,
+        "link": "https://www.dns-shop.ru/product/cb6a93c01e44ed20/videokarta-nvidia-quadro-t1000-quadro-t1000-8gb/"
+    },
+    {
+        "short_id": "5636435",
+        "long_id": "d3c88add-70e9-11f0-936a-0050569d5825",
+        "name": "Видеокарта Zotac GeForce RTX 5060 GAMING Twin Edge [ZT-B50600E-10M] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 34799,
+        "link": "https://www.dns-shop.ru/product/d3c88add70e9d582/videokarta-zotac-geforce-rtx-5060-gaming-twin-edge-zt-b50600e-10m/"
+    },
+    {
+        "short_id": "5478358",
+        "long_id": "d7c6f3e2-4d79-11ef-9242-0050569d9cb8",
+        "name": "Видеокарта PNY Quadro RTX A4500 [VCNRTXA4500-SB] [PCIe 4.0 20 ГБ GDDR6, 320 бит, 4 x DisplayPort, GPU 1050 МГц]",
+        "price": 217999,
+        "link": "https://www.dns-shop.ru/product/d7c6f3e24d79d9cb/videokarta-pny-quadro-rtx-a4500-vcnrtxa4500-sb/"
+    },
+    {
+        "short_id": "5631936",
+        "long_id": "de85cc65-4a5a-11f0-9346-0050569d5825",
+        "name": "Видеокарта KFA2 GeForce RTX 5060 Ti CORE OC 3FAN [56IZN8MHDQDK] [PCIe 5.0 16 ГБ GDDR7, 128 бит, 2 x DisplayPort, 2 x HDMI, GPU 2407 МГц]",
+        "price": 55999,
+        "link": "https://www.dns-shop.ru/product/de85cc654a5ad582/videokarta-kfa2-geforce-rtx-5060-ti-core-oc-3fan-56izn8mhdqdk/"
+    },
+    {
+        "short_id": "5625013",
+        "long_id": "e2127734-18e2-11f0-9314-0050569d5825",
+        "name": "Видеокарта ZOTAC GeForce RTX 5080 AMP Extreme INFINITY [ZT-B50800B-10P] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2295 МГц]",
+        "price": 149999,
+        "link": "https://www.dns-shop.ru/product/e212773418e2d582/videokarta-zotac-geforce-rtx-5080-amp-extreme-infinity-zt-b50800b-10p/"
+    },
+    {
+        "short_id": "5633409",
+        "long_id": "e46de632-5723-11f0-9354-0050569d5825",
+        "name": "Видеокарта Palit GeForce RTX 5060 Ti White OC [NE7506TU19P1-GB2062M] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 41999,
+        "link": "https://www.dns-shop.ru/product/e46de6325723d582/videokarta-palit-geforce-rtx-5060-ti-white-oc-ne7506tu19p1-gb2062m/"
+    },
+    {
+        "short_id": "5637916",
+        "long_id": "eb349bc1-7d68-11f0-9373-0050569d9cb8",
+        "name": "Видеокарта MSI GeForce RTX 5080 INSPIRE 3X [RTX 5080 16G INSPIRE 3X] [PCIe 5.0 16 ГБ GDDR7, 256 бит, 3 x DisplayPort, HDMI, GPU 2300 МГц]",
+        "price": 131999,
+        "link": "https://www.dns-shop.ru/product/eb349bc17d68d9cb/videokarta-msi-geforce-rtx-5080-inspire-3x-rtx-5080-16g-inspire-3x/"
+    },
+    {
+        "short_id": "5628589",
+        "long_id": "faf0c00b-3074-11f0-932d-0050569d5825",
+        "name": "Видеокарта Inno3D GeForce RTX 5060 Ti TWIN X2 OC [N506T2-08D7X-193075N] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2407 МГц]",
+        "price": 42999,
+        "link": "https://www.dns-shop.ru/product/faf0c00b3074d582/videokarta-inno3d-geforce-rtx-5060-ti-twin-x2-oc-n506t2-08d7x-193075n/"
+    },
+    {
+        "short_id": "5637907",
+        "long_id": "fc3a37e6-7d64-11f0-9373-0050569d9cb8",
+        "name": "Видеокарта ASUS GeForce RTX 5060 TUF Gaming OC Edition [TUF-RTX5060-O8G-GAMING] [PCIe 5.0 8 ГБ GDDR7, 128 бит, 3 x DisplayPort, HDMI, GPU 2280 МГц]",
+        "price": 39999,
+        "link": "https://www.dns-shop.ru/product/fc3a37e67d64d9cb/videokarta-asus-geforce-rtx-5060-tuf-gaming-oc-edition-tuf-rtx5060-o8g-gaming/"
+    },
+    {
+        "short_id": "5635111",
+        "long_id": "fc6587a0-6603-11f0-935b-0050569d9cb8",
+        "name": "Видеокарта Sapphire AMD Radeon RX 9060 XT PULSE GAMING OC [11350-04-20G] [PCIe 5.0 8 ГБ GDDR6, 128 бит, 2 x HDMI, DisplayPort, GPU 2700 МГц]",
+        "price": 36999,
+        "link": "https://www.dns-shop.ru/product/fc6587a06603d9cb/videokarta-sapphire-amd-radeon-rx-9060-xt-pulse-gaming-oc-11350-04-20g/"
+    }
+]
